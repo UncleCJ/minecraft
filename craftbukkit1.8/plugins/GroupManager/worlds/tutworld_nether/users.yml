@@ -1,0 +1,32 @@
+users:
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  FabboCJ:
+    group: Admin
+    subgroups: []
+    permissions: []
+  Jennysun:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  lnr11:
+    group: Admin
+    subgroups: []
+    permissions: []
+  rulerulle:
+    group: Admin
+    subgroups: []
+    permissions: []
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

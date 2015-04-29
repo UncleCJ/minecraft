@@ -1,0 +1,44 @@
+users:
+  2a5ae514-7a01-46b1-b199-b36584b69b78:
+    lastname: rulerulle
+    group: Admin
+    subgroups: []
+    permissions: []
+  71099085-8677-4003-b144-d3ef69961fd4:
+    lastname: FabboCJ
+    group: Admin
+    subgroups: []
+    permissions: []
+  7900e234-1bd5-4b95-849e-e13e96a55e5e:
+    lastname: jennysun
+    group: Admin
+    subgroups: []
+    permissions: []
+  794ef548-7750-427f-a5b8-a57606d34d71:
+    lastname: ProKillerNohax
+    group: Owner
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Gurgie:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  lnr11:
+    group: Admin
+    subgroups: []
+    permissions: []
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

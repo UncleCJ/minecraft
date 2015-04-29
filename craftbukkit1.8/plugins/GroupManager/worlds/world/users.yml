@@ -1,0 +1,25 @@
+users:
+  794ef548-7750-427f-a5b8-a57606d34d71:
+    lastname: Skywarslover
+    group: Owner
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Gurgie:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

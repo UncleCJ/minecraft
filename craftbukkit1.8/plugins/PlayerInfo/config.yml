@@ -1,0 +1,18 @@
+# Player-Info Configuration File
+
+# Enable or disable certain informational methods
+# Use "true" and "false"
+
+distance: true
+health: true
+hunger: true
+ip: true
+location: true
+op: true
+world: true
+gamemode: true
+level: true
+iteminhand: true
+flying: true
+dead: true
+direction: true
