@@ -1,0 +1,67 @@
+[00:30:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2107ms behind, skipping 42 tick(s)
+[02:05:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2298ms behind, skipping 45 tick(s)
+[04:20:34] [pool-3-thread-10249/INFO]: [Vault] Checking for Updates ... 
+[04:20:34] [pool-3-thread-10249/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[04:20:34] [pool-3-thread-10249/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[07:51:34] [pool-3-thread-10311/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[08:05:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2222ms behind, skipping 44 tick(s)
+[08:10:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7910ms behind, skipping 158 tick(s)
+[08:15:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2575ms behind, skipping 51 tick(s)
+[08:50:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2026ms behind, skipping 40 tick(s)
+[09:24:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2825ms behind, skipping 56 tick(s)
+[10:20:41] [pool-3-thread-10358/INFO]: [Vault] Checking for Updates ... 
+[10:20:42] [pool-3-thread-10358/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[10:20:42] [pool-3-thread-10358/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:50:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[15:45:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2376ms behind, skipping 47 tick(s)
+[15:50:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2314ms behind, skipping 46 tick(s)
+[16:20:42] [pool-3-thread-10467/INFO]: [Vault] Checking for Updates ... 
+[16:20:42] [pool-3-thread-10467/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[16:20:42] [pool-3-thread-10467/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[16:45:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2704ms behind, skipping 54 tick(s)
+[18:05:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2144ms behind, skipping 42 tick(s)
+[18:10:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4250ms behind, skipping 85 tick(s)
+[18:15:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2305ms behind, skipping 46 tick(s)
+[18:20:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[18:25:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[18:35:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
+[18:40:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2159ms behind, skipping 43 tick(s)
+[18:45:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2130ms behind, skipping 42 tick(s)
+[18:50:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2454ms behind, skipping 49 tick(s)
+[18:55:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2076ms behind, skipping 41 tick(s)
+[19:00:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
+[19:05:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
+[19:10:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2041ms behind, skipping 40 tick(s)
+[19:15:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
+[19:20:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2236ms behind, skipping 44 tick(s)
+[19:25:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
+[19:30:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2113ms behind, skipping 42 tick(s)
+[19:35:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
+[19:40:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[19:45:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[19:50:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2210ms behind, skipping 44 tick(s)
+[19:55:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
+[20:05:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[20:10:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2151ms behind, skipping 43 tick(s)
+[20:15:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2256ms behind, skipping 45 tick(s)
+[20:20:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
+[20:25:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2094ms behind, skipping 41 tick(s)
+[20:30:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2193ms behind, skipping 43 tick(s)
+[20:35:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[20:45:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2027ms behind, skipping 40 tick(s)
+[20:50:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
+[20:54:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3929ms behind, skipping 78 tick(s)
+[20:55:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2384ms behind, skipping 47 tick(s)
+[21:00:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2224ms behind, skipping 44 tick(s)
+[21:10:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
+[21:15:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2244ms behind, skipping 44 tick(s)
+[21:25:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2164ms behind, skipping 43 tick(s)
+[21:30:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2027ms behind, skipping 40 tick(s)
+[21:45:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[22:00:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
+[22:20:53] [pool-3-thread-10576/INFO]: [Vault] Checking for Updates ... 
+[22:20:54] [pool-3-thread-10576/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[22:20:54] [pool-3-thread-10576/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:30:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2088ms behind, skipping 41 tick(s)
+[22:40:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
+[23:05:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2151ms behind, skipping 43 tick(s)

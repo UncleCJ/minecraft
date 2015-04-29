@@ -1,0 +1,10 @@
+[00:25:38] [Server thread/INFO]: Starting minecraft server version 1.8
+[00:25:38] [Server thread/INFO]: Loading properties
+[00:25:38] [Server thread/INFO]: Default game type: SURVIVAL
+[00:25:38] [Server thread/INFO]: Generating keypair
+[00:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:25:38] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[00:25:38] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[00:25:38] [Server thread/WARN]: Perhaps a server is already running on that port?
+[00:25:38] [Server thread/INFO]: Stopping server
+[00:25:38] [Thread-4/INFO]: Stopping server

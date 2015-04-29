@@ -1,0 +1,39 @@
+[01:43:23] [Server thread/INFO]: Starting minecraft server version 1.8
+[01:43:23] [Server thread/INFO]: Loading properties
+[01:43:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:43:23] [Server thread/INFO]: Generating keypair
+[01:43:24] [Server thread/INFO]: Starting Minecraft server on *:25566
+[01:43:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[01:43:24] [Server thread/INFO]: Preparing level "tutworld"
+[01:43:24] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[01:43:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:43:27] [Server thread/INFO]: Preparing spawn area: 80%
+[01:43:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[01:43:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[01:43:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:43:29] [Server thread/INFO]: Done (5.055s)! For help, type "help" or "?"
+[01:44:29] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ae22b2[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56735): Authentication servers are down. Please try again later, sorry!
+[01:44:29] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[01:44:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ae22b2[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56735) lost connection: Authentication servers are down. Please try again later, sorry!
+[01:56:42] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@41432ed6[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56803): Authentication servers are down. Please try again later, sorry!
+[01:56:42] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[01:56:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@41432ed6[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56803) lost connection: Authentication servers are down. Please try again later, sorry!
+[02:03:41] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@21fa291f[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56866): Authentication servers are down. Please try again later, sorry!
+[02:03:41] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[02:03:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@21fa291f[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56866) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:19:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6680ms behind, skipping 133 tick(s)
+[13:28:33] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@694a1247[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56894): Authentication servers are down. Please try again later, sorry!
+[13:28:33] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[13:28:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@694a1247[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56894) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:29:07] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[13:29:10] [Server thread/INFO]: Stopping the server
+[13:29:10] [Server thread/INFO]: Stopping server
+[13:29:10] [Server thread/INFO]: Saving players
+[13:29:10] [Server thread/INFO]: Saving worlds
+[13:29:10] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[13:29:10] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[13:29:10] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[13:29:10] [Thread-4/INFO]: Stopping server
+[13:29:10] [Thread-4/INFO]: Saving players
+[13:29:10] [Thread-4/INFO]: Saving worlds
+[13:29:10] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld

@@ -1,0 +1,50 @@
+[13:29:23] [Server thread/INFO]: Starting minecraft server version 1.8
+[13:29:23] [Server thread/INFO]: Loading properties
+[13:29:23] [Server thread/INFO]: Default game type: SURVIVAL
+[13:29:23] [Server thread/INFO]: Generating keypair
+[13:29:24] [Server thread/INFO]: Starting Minecraft server on *:25566
+[13:29:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[13:29:24] [Server thread/INFO]: Preparing level "tutworld"
+[13:29:24] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[13:29:27] [Server thread/INFO]: Preparing spawn area: 0%
+[13:29:28] [Server thread/INFO]: Preparing spawn area: 43%
+[13:29:30] [Server thread/INFO]: Preparing spawn area: 87%
+[13:29:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[13:29:31] [Server thread/INFO]: Preparing spawn area: 90%
+[13:29:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[13:29:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:29:32] [Server thread/INFO]: Done (7.810s)! For help, type "help" or "?"
+[13:29:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2762ms behind, skipping 55 tick(s)
+[13:29:43] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f810452[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56897): Authentication servers are down. Please try again later, sorry!
+[13:29:43] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[13:29:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f810452[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56897) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:29:57] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@17445160[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56899): Authentication servers are down. Please try again later, sorry!
+[13:29:57] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[13:29:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@17445160[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56899) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:34:42] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@679328c9[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56913): Authentication servers are down. Please try again later, sorry!
+[13:34:42] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[13:34:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@679328c9[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56913) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:38:33] [User Authenticator #4/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[13:38:33] [Server thread/INFO]: FabboCJ[/192.168.1.137:56915] logged in with entity id 527 at ([tutworld] 175.2498113231961, 69.0, 213.38329445080447)
+[13:38:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2679ms behind, skipping 53 tick(s)
+[13:41:33] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[13:41:33] [Server thread/INFO]: FabboCJ left the game.
+[13:43:25] [User Authenticator #5/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[13:43:25] [Server thread/INFO]: FabboCJ[/192.168.1.137:56951] logged in with entity id 6772 at ([tutworld] 181.82809101324966, 80.0, 215.0872752830185)
+[15:13:38] [Server thread/INFO]: FabboCJ lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[15:13:38] [Server thread/INFO]: FabboCJ left the game.
+[15:19:39] [User Authenticator #6/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[15:19:39] [Server thread/INFO]: FabboCJ[/192.168.1.137:56969] logged in with entity id 148107 at ([tutworld] 1285.0891871784722, 67.0155550727022, 3112.4373397220324)
+[16:50:54] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[16:50:54] [Server thread/INFO]: FabboCJ left the game.
+[23:14:05] [Server thread/INFO]: Stopping the server
+[23:14:05] [Server thread/INFO]: Stopping server
+[23:14:05] [Server thread/INFO]: Saving players
+[23:14:05] [Server thread/INFO]: Saving worlds
+[23:14:05] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[23:14:05] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[23:14:05] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[23:14:05] [Thread-4/INFO]: Stopping server
+[23:14:05] [Thread-4/INFO]: Saving players
+[23:14:05] [Thread-4/INFO]: Saving worlds
+[23:14:05] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld

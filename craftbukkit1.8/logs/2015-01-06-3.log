@@ -1,0 +1,97 @@
+[19:46:26] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:46:26] [Server thread/INFO]: Loading properties
+[19:46:26] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:26] [Server thread/INFO]: Generating keypair
+[19:46:26] [Server thread/INFO]: Starting Minecraft server on *:25566
+[19:46:26] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[19:46:27] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[19:46:27] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:46:27] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[19:46:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[19:46:27] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[19:46:27] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[19:46:27] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[19:46:27] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:46:27] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:46:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:46:27] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:46:27] [Server thread/INFO]: Preparing level "tutworld"
+[19:46:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[19:46:28] [Server thread/INFO]: Preparing spawn area: 7%
+[19:46:30] [Server thread/INFO]: Preparing spawn area: 30%
+[19:46:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[19:46:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[19:46:31] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[19:46:31] [Server thread/INFO]: [PlayerInfo] has been enabled
+[19:46:31] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[19:46:32] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[19:46:32] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[19:46:34] [Server thread/INFO]: Preparing spawn area for fromflames, 73%
+[19:46:34] [Server thread/INFO]: Preparing start region for level 4 (Seed: 4919839233390569991)
+[19:46:35] [Server thread/INFO]: Preparing spawn area for Bomber, 73%
+[19:46:37] [Server thread/INFO]: Preparing spawn area for Bomber, 81%
+[19:46:37] [Server thread/INFO]: Preparing start region for level 5 (Seed: 8440151354802767546)
+[19:46:38] [Server thread/INFO]: Preparing start region for level 6 (Seed: -2369971020579525390)
+[19:46:39] [Server thread/INFO]: Preparing start region for level 7 (Seed: 64951768)
+[19:46:41] [Server thread/INFO]: Preparing start region for level 8 (Seed: -6426663970308026368)
+[19:46:42] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 77%
+[19:46:43] [Server thread/INFO]: Preparing start region for level 9 (Seed: 3981014598438330368)
+[19:46:44] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 97%
+[19:46:44] [Server thread/INFO]: Preparing start region for level 10 (Seed: 6851938583268216745)
+[19:46:45] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[19:46:45] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:46:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[19:46:45] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:46:45] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[19:46:45] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[19:46:52] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[19:46:52] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[19:46:52] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[19:46:52] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[19:46:54] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[19:46:54] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[19:46:54] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:46:58] [Server thread/INFO]: Done (31.049s)! For help, type "help" or "?"
+[19:46:58] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[19:47:00] [pool-3-thread-3/INFO]: [Vault] No new version available
+[19:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2501ms behind, skipping 50 tick(s)
+[19:47:03] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:47:04] [Server thread/INFO]: FabboCJ[/85.229.225.202:37846] logged in with entity id 1563 at ([creepersoccer] -500.85454257459156, 4.0, 579.2867423068283)
+[19:47:05] [pool-3-thread-2/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:47:20] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[19:47:39] [Server thread/INFO]: FabboCJ issued server command: /settimeofday
+[19:47:46] [Server thread/INFO]: FabboCJ issued server command: /help
+[19:47:57] [Server thread/INFO]: FabboCJ issued server command: /help minecraft
+[19:48:02] [Server thread/INFO]: FabboCJ issued server command: /help minecraft 2
+[19:48:05] [Server thread/INFO]: FabboCJ issued server command: /help minecraft 3
+[19:48:10] [Server thread/INFO]: FabboCJ issued server command: /help minecraft 4
+[19:48:14] [Server thread/INFO]: FabboCJ issued server command: /help minecraft 5
+[19:48:20] [Server thread/INFO]: FabboCJ issued server command: /help minecraft 6
+[19:48:26] [Server thread/INFO]: FabboCJ issued server command: /help time
+[19:48:37] [Server thread/INFO]: FabboCJ issued server command: /time set 0
+[19:48:37] [Server thread/INFO]: [FabboCJ: Set the time to 0]
+[19:49:49] [Server thread/INFO]: FabboCJ issued server command: /mvtp world
+[19:50:19] [Server thread/INFO]: FabboCJ lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[19:50:19] [Server thread/INFO]: FabboCJ left the game.
+[19:50:26] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:50:26] [Server thread/INFO]: FabboCJ[/85.229.225.202:37999] logged in with entity id 9240 at ([tutworld] -31.513388530955215, 85.0, -89.49055352444171)
+[19:50:49] [Server thread/INFO]: FabboCJ issued server command: /mv spawn
+[19:57:07] [pool-3-thread-1/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:07:07] [pool-3-thread-1/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:07:19] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[20:07:19] [Server thread/INFO]: FabboCJ left the game.
+[20:17:07] [pool-3-thread-1/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:27:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:37:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:47:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:57:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:07:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:17:07] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:27:07] [pool-3-thread-17/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:37:07] [pool-3-thread-17/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:47:07] [pool-3-thread-17/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:57:07] [pool-3-thread-22/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:07:07] [pool-3-thread-22/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:17:07] [pool-3-thread-22/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:27:07] [pool-3-thread-27/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:12:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2234ms behind, skipping 44 tick(s)

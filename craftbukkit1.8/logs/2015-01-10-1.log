@@ -1,0 +1,85 @@
+[02:59:38] [pool-3-thread-97/INFO]: [Vault] Checking for Updates ... 
+[02:59:39] [pool-3-thread-97/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[02:59:39] [pool-3-thread-97/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[02:59:47] [pool-3-thread-95/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[08:09:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3945ms behind, skipping 78 tick(s)
+[08:59:40] [pool-3-thread-110/INFO]: [Vault] Checking for Updates ... 
+[08:59:41] [pool-3-thread-110/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[08:59:41] [pool-3-thread-110/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[09:59:48] [pool-3-thread-111/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[10:19:48] [pool-3-thread-112/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[10:49:49] [pool-3-thread-115/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[10:59:46] [pool-3-thread-115/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[11:09:48] [pool-3-thread-117/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[11:19:48] [pool-3-thread-117/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[11:29:48] [pool-3-thread-117/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[11:39:48] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[11:49:48] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[11:59:48] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:09:48] [pool-3-thread-127/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:19:48] [pool-3-thread-127/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:29:48] [pool-3-thread-127/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:39:48] [pool-3-thread-132/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:49:48] [pool-3-thread-132/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:59:48] [pool-3-thread-132/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:09:48] [pool-3-thread-137/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:19:48] [pool-3-thread-137/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:29:48] [pool-3-thread-137/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:39:48] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:49:48] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:59:48] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:09:46] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[14:19:41] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:29:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:39:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:49:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:59:40] [pool-3-thread-152/INFO]: [Vault] Checking for Updates ... 
+[14:59:41] [pool-3-thread-152/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[14:59:41] [pool-3-thread-152/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:59:46] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:09:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:19:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:29:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:39:42] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:49:41] [pool-3-thread-142/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:29:48] [pool-3-thread-155/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:49:46] [pool-3-thread-155/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[16:59:48] [pool-3-thread-155/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:06:20] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:06:20] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[17:06:20] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[17:06:20] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[17:06:20] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[17:06:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[17:06:20] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[17:06:20] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[17:06:20] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[17:06:20] [Server thread/INFO]: [PlayerInfo] has been disabled
+[17:06:20] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[17:06:20] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[17:06:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[17:06:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[17:06:20] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[17:06:20] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[17:06:20] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[17:06:20] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[17:06:20] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:06:20] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[17:06:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:06:20] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[17:06:20] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[17:06:20] [Server thread/INFO]: [PlayerInfo] has been enabled
+[17:06:20] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[17:06:20] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[17:06:56] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[17:06:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:06:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[17:06:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:06:56] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[17:06:56] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[17:06:56] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[17:07:20] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[17:07:20] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[17:07:20] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-10_17.07.20-server.txt
+[17:07:20] [Thread-4/INFO]: Stopping server
+[17:07:20] [Thread-4/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710

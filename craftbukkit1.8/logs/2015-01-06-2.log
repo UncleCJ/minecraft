@@ -1,0 +1,161 @@
+[19:45:19] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:45:19] [Server thread/INFO]: Loading properties
+[19:45:19] [Server thread/INFO]: Default game type: SURVIVAL
+[19:45:19] [Server thread/INFO]: Generating keypair
+[19:45:19] [Server thread/INFO]: Starting Minecraft server on *:25566
+[19:45:20] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[19:45:20] [Server thread/ERROR]: Could not load 'plugins/EssentialsXMPP.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:45:20] [Server thread/ERROR]: Could not load 'plugins/EssentialsSpawn.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:45:20] [Server thread/ERROR]: Could not load 'plugins/EssentialsGeoIP.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:45:20] [Server thread/ERROR]: Could not load 'plugins/EssentialsChat.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:45:20] [Server thread/ERROR]: Could not load 'plugins/EssentialsAntiBuild.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:45:20] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[19:45:20] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[19:45:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[19:45:20] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[19:45:20] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:45:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[19:45:20] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[19:45:20] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[19:45:20] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:45:20] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[19:45:20] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:45:20] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[19:45:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:45:20] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[19:45:20] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:45:20] [Server thread/INFO]: Preparing level "tutworld"
+[19:45:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[19:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:45:23] [Server thread/INFO]: Preparing spawn area: 60%
+[19:45:24] [Server thread/INFO]: Preparing spawn area: 70%
+[19:45:25] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[19:45:26] [Server thread/INFO]: Preparing spawn area: 97%
+[19:45:26] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[19:45:26] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[19:45:26] [Server thread/INFO]: [PlayerInfo] has been enabled
+[19:45:26] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:45:26] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:45:26] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[19:45:26] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[19:45:26] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[19:45:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[19:45:26] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:45:26] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[19:45:26] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[19:45:26] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[19:45:26] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[19:45:27] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[19:45:28] [Server thread/INFO]: Preparing spawn area for fromflames, 61%
+[19:45:29] [Server thread/INFO]: Preparing spawn area for fromflames, 97%
+[19:45:30] [Server thread/INFO]: Preparing start region for level 4 (Seed: 4919839233390569991)
+[19:45:31] [Server thread/INFO]: Preparing spawn area for Bomber, 48%
+[19:45:33] [Server thread/INFO]: Preparing start region for level 5 (Seed: 8440151354802767546)
+[19:45:34] [Server thread/INFO]: Preparing start region for level 6 (Seed: -2369971020579525390)
+[19:45:35] [Server thread/INFO]: Preparing start region for level 7 (Seed: 64951768)
+[19:45:36] [Server thread/INFO]: Preparing start region for level 8 (Seed: -6426663970308026368)
+[19:45:37] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 73%
+[19:45:38] [Server thread/INFO]: Preparing start region for level 9 (Seed: 3981014598438330368)
+[19:45:40] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 32%
+[19:45:41] [Server thread/INFO]: Preparing start region for level 10 (Seed: 6851938583268216745)
+[19:45:42] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[19:45:42] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:45:42] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[19:45:42] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[19:45:48] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[19:45:48] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[19:45:48] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[19:45:49] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:45:49] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[19:45:49] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[19:45:49] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[19:45:54] [Server thread/INFO]: Done (33.241s)! For help, type "help" or "?"
+[19:45:54] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[19:45:54] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[19:45:55] [Server thread/INFO]: Stopping the server
+[19:45:55] [Server thread/INFO]: Stopping the server
+[19:45:55] [Server thread/INFO]: Stopping server
+[19:45:55] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[19:45:55] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:45:55] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[19:45:55] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[19:45:55] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[19:45:55] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[19:45:55] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[19:45:55] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[19:45:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[19:45:55] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[19:45:55] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[19:45:55] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[19:45:55] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[19:45:55] [Server thread/INFO]: [PlayerInfo] has been disabled
+[19:45:55] [Server thread/INFO]: Saving players
+[19:45:55] [Server thread/INFO]: Saving worlds
+[19:45:55] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[19:45:56] [pool-3-thread-3/INFO]: [Vault] No new version available
+[19:45:56] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[19:45:56] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[19:45:56] [Server thread/INFO]: Saving chunks for level 'fromflames'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'Bomber'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'fromashes'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'cityworld'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'cubeception2smp'/Overworld
+[19:45:57] [Server thread/INFO]: Saving chunks for level 'cubeceptionreloaded'/Overworld
+[19:45:58] [Server thread/INFO]: Saving chunks for level 'creepersoccer'/Overworld
+[19:45:58] [Thread-4/INFO]: Stopping server
+[19:45:58] [Thread-4/INFO]: Saving players
+[19:45:58] [Thread-4/INFO]: Saving worlds
+[19:45:58] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld
+[19:45:58] [Thread-4/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[19:45:58] [Thread-4/INFO]: Saving chunks for level 'tutworld_the_end'/The End

@@ -1,0 +1,440 @@
+[16:11:39] [Server thread/INFO]: Starting minecraft server version 1.8
+[16:11:39] [Server thread/INFO]: Loading properties
+[16:11:39] [Server thread/INFO]: Default game type: SURVIVAL
+[16:11:39] [Server thread/INFO]: Generating keypair
+[16:11:40] [Server thread/INFO]: Starting Minecraft server on *:25566
+[16:11:40] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[16:11:41] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[16:11:41] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[16:11:41] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[16:11:41] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[16:11:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[16:11:41] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[16:11:41] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[16:11:41] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[16:11:41] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[16:11:41] [Server thread/INFO]: [KitPvP] Loading KitPvP v1.6
+[16:11:41] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[16:11:41] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[16:11:41] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:11:41] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[16:11:41] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[16:11:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:11:41] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[16:11:41] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[16:11:41] [Server thread/INFO]: Preparing level "tutworld"
+[16:11:41] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[16:11:42] [Server thread/INFO]: Preparing spawn area: 1%
+[16:11:45] [Server thread/INFO]: Preparing spawn area: 53%
+[16:11:46] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[16:11:47] [Server thread/INFO]: Preparing spawn area: 59%
+[16:11:47] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[16:11:47] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[16:11:47] [Server thread/INFO]: [PlayerInfo] has been enabled
+[16:11:47] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[16:11:47] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[16:11:47] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[16:11:47] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[16:11:47] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[16:11:47] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[16:11:47] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[16:11:48] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[16:11:50] [Server thread/INFO]: Preparing spawn area for fromflames, 52%
+[16:11:51] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[16:11:52] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[16:11:53] [Server thread/INFO]: Preparing spawn area for creative, 36%
+[16:11:54] [Server thread/INFO]: Preparing start region for level 6 (Seed: -6426663970308026368)
+[16:11:55] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 56%
+[16:11:56] [Server thread/INFO]: Preparing start region for level 7 (Seed: 1780430939243764315)
+[16:11:57] [Server thread/INFO]: Preparing spawn area for minigames, 93%
+[16:11:59] [Server thread/INFO]: Preparing start region for level 8 (Seed: 4919839233390569991)
+[16:12:00] [Server thread/INFO]: Preparing spawn area for Bomber, 52%
+[16:12:02] [Server thread/INFO]: Preparing spawn area for Bomber, 97%
+[16:12:05] [Server thread/INFO]: Preparing start region for level 9 (Seed: 64951768)
+[16:12:09] [Server thread/INFO]: Preparing start region for level 10 (Seed: -5663810443052788782)
+[16:12:14] [Server thread/INFO]: Preparing start region for level 11 (Seed: 2282912023382338973)
+[16:12:18] [Server thread/INFO]: Preparing start region for level 12 (Seed: 0)
+[16:12:21] [Server thread/INFO]: Preparing start region for level 13 (Seed: 3981014598438330368)
+[16:12:22] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 61%
+[16:12:26] [Server thread/INFO]: Preparing start region for level 14 (Seed: 6851938583268216745)
+[16:12:29] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[16:12:30] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[16:12:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[16:12:30] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[16:12:30] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[16:12:30] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[16:12:30] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[16:12:30] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[16:13:10] [Server thread/INFO]: [MVPLogging] 9 - Portals(s) loaded
+[16:13:10] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[16:13:10] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[16:13:10] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[16:13:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkywarsSpawn'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (The Elements) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (The Elements) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (The Elements) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (The Elements) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'The Elements'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWarsBaseWorld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[16:13:18] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[16:13:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'tutworld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkywarsSpawn'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'The Elements'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkyWarsBaseWorld'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[16:13:18] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[16:13:18] [Server thread/INFO]: [KitPvP] Enabling KitPvP v1.6
+[16:13:18] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[16:13:18] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[16:13:22] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[16:13:22] [Server thread/INFO]: [WarpPortals] 2 Portals loaded!
+[16:13:22] [Server thread/INFO]: [WarpPortals] 2 Destinations loaded!
+[16:13:24] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:13:44] [Server thread/INFO]: Done (123.317s)! For help, type "help" or "?"
+[16:13:45] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[16:13:45] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[16:13:52] [pool-3-thread-5/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[16:13:52] [pool-3-thread-5/INFO]: [Vault] No new version available
+[16:13:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7064ms behind, skipping 141 tick(s)
+[16:14:04] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[16:14:04] [Server thread/INFO]: Skywarslover[/83.253.53.190:42103] logged in with entity id 2171 at ([SkywarsSpawn] -56.66179061218048, 4.0, -78.72527163928687)
+[16:14:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2222ms behind, skipping 44 tick(s)
+[16:14:15] [Server thread/INFO]: Skywarslover issued server command: /pl
+[16:14:20] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[16:14:20] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[16:14:23] [Server thread/INFO]: Skywarslover issued server command: /kitpv
+[16:14:25] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:14:28] [Server thread/INFO]: Skywarslover issued server command: /help kitpvp
+[16:14:31] [Server thread/INFO]: Skywarslover issued server command: /king
+[16:14:54] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[16:14:54] [Server thread/INFO]: FabboCJ[/37.46.178.157:47693] logged in with entity id 2174 at ([SkywarsSpawn] -29.680756577699455, 11.044070985317747, -88.53603973262621)
+[16:15:20] [Server thread/INFO]: Skywarslover issued server command: /w
+[16:15:24] [Server thread/INFO]: Skywarslover issued server command: /help worldguard
+[16:15:34] [Server thread/INFO]: Skywarslover issued server command: /rg create KitPVP
+[16:15:43] [Server thread/INFO]: Skywarslover issued server command: /rg passthrough allow
+[16:15:52] [Server thread/INFO]: Skywarslover issued server command: /rg flag passthrough allow
+[16:16:12] [Server thread/INFO]: Skywarslover issued server command: /rg flag passthrough allow
+[16:16:23] [Server thread/INFO]: Skywarslover issued server command: /rg flag KitPVP passthough allow
+[16:16:32] [Server thread/INFO]: Skywarslover issued server command: /rg flag KitPVP construct deny
+[16:16:38] [Server thread/INFO]: Skywarslover issued server command: /rg flag KitPVP pvp deny
+[16:16:42] [Server thread/INFO]: Skywarslover issued server command: /r
+[16:16:49] [Server thread/INFO]: Skywarslover issued server command: /kit King
+[16:16:52] [Server thread/INFO]: Skywarslover issued server command: /king
+[16:17:02] [Server thread/INFO]: FabboCJ issued server command: /gamemode 1
+[16:17:02] [Server thread/INFO]: [FabboCJ: Set own game mode to Creative Mode]
+[16:17:23] [Server thread/INFO]: Skywarslover issued server command: /clear
+[16:17:23] [Server thread/INFO]: [Skywarslover: Cleared the inventory of Skywarslover, removing 39 items]
+[16:17:25] [Server thread/INFO]: Skywarslover issued server command: /time set day
+[16:17:25] [Server thread/INFO]: [Skywarslover: Set the time to 1000]
+[16:17:29] [Server thread/INFO]: Skywarslover issued server command: /king
+[16:17:31] [Server thread/INFO]: Skywarslover issued server command: /god
+[16:17:42] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:17:44] [Server thread/INFO]: Skywarslover issued server command: /kitpvp
+[16:17:49] [Server thread/INFO]: Skywarslover issued server command: /ktPVP
+[16:17:54] [Server thread/INFO]: Skywarslover issued server command: /kitPvP
+[16:17:58] [Server thread/INFO]: Skywarslover issued server command: /kit
+[16:17:59] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:18:01] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:18:02] [Server thread/INFO]: Skywarslover issued server command: /help 3
+[16:18:05] [Server thread/INFO]: Skywarslover issued server command: /help 4
+[16:18:07] [Server thread/INFO]: Skywarslover issued server command: /help 5
+[16:18:09] [Server thread/INFO]: Skywarslover issued server command: /help 7
+[16:18:11] [Server thread/INFO]: Skywarslover issued server command: /help 9
+[16:18:14] [Server thread/INFO]: Skywarslover issued server command: /help 10
+[16:18:16] [Server thread/INFO]: Skywarslover issued server command: /help 12
+[16:18:20] [Server thread/INFO]: Skywarslover issued server command: /help 13
+[16:18:22] [Server thread/INFO]: Skywarslover issued server command: /help 14
+[16:18:25] [Server thread/INFO]: Skywarslover issued server command: /help 15
+[16:18:36] [Server thread/INFO]: Skywarslover issued server command: /help 16
+[16:18:43] [Server thread/INFO]: Skywarslover issued server command: /help 16
+[16:18:47] [Server thread/INFO]: Skywarslover issued server command: /help 19
+[16:18:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2767ms behind, skipping 55 tick(s)
+[16:18:52] [Server thread/INFO]: Skywarslover issued server command: /help 20
+[16:18:52] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:18:59] [Server thread/INFO]: Skywarslover issued server command: /KitPvP
+[16:19:03] [Server thread/INFO]: Skywarslover issued server command: /help kitpvp
+[16:19:08] [Server thread/INFO]: Skywarslover issued server command: /fisherman
+[16:19:13] [Netty Server IO #2/INFO]: [[0;37;1mSkywarsSpawn[0;37;1m]<Skywarslover> ./king[m
+[16:19:18] [Server thread/INFO]: FabboCJ issued server command: /king
+[16:19:55] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[16:19:55] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[16:20:03] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[16:20:03] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[16:21:12] [Server thread/INFO]: Skywarslover was slain by §9FabboCJ§r
+[16:21:30] [Server thread/INFO]: Skywarslover issued server command: /god
+[16:21:35] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:21:35] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:21:47] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[16:22:05] [Server thread/INFO]: Skywarslover issued server command: /heal FabboCJ
+[16:22:06] [Server thread/INFO]: FabboCJ issued server command: /gamemode 0
+[16:22:06] [Server thread/INFO]: [FabboCJ: Set own game mode to Survival Mode]
+[16:23:05] [Server thread/INFO]: Skywarslover issued server command: /hea
+[16:23:06] [Server thread/INFO]: Skywarslover issued server command: /heal
+[16:23:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
+[16:23:58] [Server thread/WARN]: FabboCJ moved wrongly!
+[16:24:14] [Server thread/INFO]: Skywarslover issued server command: /tpall
+[16:24:17] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:24:17] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:25:28] [Server thread/INFO]: Skywarslover was slain by §9FabboCJ§r
+[16:25:53] [Server thread/INFO]: Skywarslover issued server command: /help kitpvp
+[16:25:56] [Server thread/INFO]: Skywarslover issued server command: /elite
+[16:26:02] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:26:02] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:26:23] [Server thread/INFO]: §9FabboCJ§r was slain by Skywarslover
+[16:26:54] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:26:54] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:27:24] [Server thread/INFO]: Skywarslover was slain by §9FabboCJ§r
+[16:27:44] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:27:44] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:28:24] [Server thread/INFO]: Skywarslover was slain by §9FabboCJ§r
+[16:28:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3039ms behind, skipping 60 tick(s)
+[16:29:29] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> cj srry[m
+[16:29:32] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> sorry cj[m
+[16:29:35] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:29:35] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[16:29:58] [Server thread/INFO]: Skywarslover issued server command: /clear
+[16:29:58] [Server thread/INFO]: [Skywarslover: Cleared the inventory of Skywarslover, removing 40 items]
+[16:30:00] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> cj sorry[m
+[16:30:04] [Server thread/INFO]: FabboCJ issued server command: /deop Skywarslover
+[16:30:04] [Server thread/INFO]: [FabboCJ: De-opped Skywarslover]
+[16:30:07] [Server thread/INFO]: Skywarslover issued server command: /kitpvp
+[16:30:07] [Server thread/INFO]: Skywarslover was slain by §9FabboCJ§r
+[16:30:28] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> förlåt cj[m
+[16:30:35] [Server thread/INFO]: Skywarslover issued server command: /help kitpvp
+[16:30:37] [Server thread/INFO]: Skywarslover issued server command: /king
+[16:30:43] [Server thread/INFO]: Skywarslover issued server command: /god
+[16:30:47] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> tp FabboCJ[m
+[16:30:55] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[16:31:38] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Det är minst tredje gången du totalt skiter i reglerna, då tappar jag tålamodet[m
+[16:31:53] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> är de?[m
+[16:31:59] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Vi vill ha trevliga fungerande världar...s[m
+[16:32:09] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> förlåt ska inte göra om det[m
+[16:32:13] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> :([m
+[16:32:27] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jag deoppade dig i Horizons för att du giftade dig själv saker[m
+[16:32:47] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ber om ursäkt[m
+[16:33:31] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Det går inte spela om man inte kommer överens om regler ju... och du slog ihjäl hunden i survival[m
+[16:33:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2822ms behind, skipping 56 tick(s)
+[16:34:04] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Fine. Du får tillbaks op och sudo om en vecka om du visar att du förstått[m
+[16:34:33] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Fabbo[m
+[16:34:41] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag ska nog sluta med mc ändå[m
+[16:34:50] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Trist :-([m
+[16:34:51] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> so no idea boy...[m
+[16:35:14] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Har inte tålamod för folk som blir sura för att någon dödar en hund...[m
+[16:35:16] [Server thread/INFO]: FabboCJ issued server command: /op Skywarslover
+[16:35:16] [Server thread/INFO]: [FabboCJ: Opped Skywarslover]
+[16:35:20] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Nej[m
+[16:35:24] [Server thread/INFO]: Skywarslover issued server command: /deop Skywarslover
+[16:35:24] [Server thread/INFO]: [Skywarslover: De-opped Skywarslover]
+[16:35:28] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ska sluta minecraft[m
+[16:35:45] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> alltså tänker int på dig[m
+[16:35:58] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> jag tycker du är en fin pöjk[m
+[16:36:01] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> men alla andra[m
+[16:36:27] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Btw tack för min tid här ska dra från mc ett tag nu[m
+[16:36:30] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Alltså, du är kul och jätteduktig, men jag lackade bara ur[m
+[16:36:30] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> :C[m
+[16:36:49] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> But jag har funderat på detta jätte jätte länge.[m
+[16:36:56] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Och har insett[m
+[16:36:56] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jasså?[m
+[16:37:04] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Att minecraft inte är något för mig[m
+[16:37:10] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag gör bara alla förbannade[m
+[16:37:15] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Det är ingenting för mig[m
+[16:37:19] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> :-([m
+[16:37:24] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Så jag har insett att det är dags för mig att sluta[m
+[16:37:28] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ledsen men[m
+[16:37:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
+[16:37:38] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Kan inte spela minecraft dagarna runt[m
+[16:37:54] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Kan fortsätta här i 2 veckor till[m
+[16:37:58] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Men förlåt... jag borde veta bättre än att bli så sur på en grabb som bara är sig själv[m
+[16:38:00] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> För din skull[m
+[16:38:09] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Fabbo[m
+[16:38:15] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Det är inte ditt fel bror.[m
+[16:38:25] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag kan också bli sur på någon[m
+[16:38:34] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Slutar inte för att du blev sur på mig.[m
+[16:38:50] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Slutar för att alla retas ibland även småbarn[m
+[16:38:57] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> (bortsett från dig)[m
+[16:38:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4486ms behind, skipping 89 tick(s)
+[16:39:06] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Du gör kul grejer, men du kanske kan lära dig lyssna på andras reaktioner med...[m
+[16:39:22] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ja, jag vet.[m
+[16:39:37] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag ska jobba på det.[m
+[16:39:50] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> But ok then jag fortsätter här ett tag till då[m
+[16:39:57] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Ja, glöm att jag blev sur och deoppade dig, det var bara i stunden.[m
+[16:40:05] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Fabbo[m
+[16:40:17] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag känner inte att jag är sugen på op just nu[m
+[16:40:19] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jag var mobbad när jag var yngre, känner igen känslan av att vara missförstådd[m
+[16:40:33] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> :O[m
+[16:40:41] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Har vart de när jag var yngre[m
+[16:40:48] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Då vet vi hur det känns[m
+[16:41:04] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jo precis, så jag ångrar att jag blev så lack[m
+[16:41:43] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Det behöver du inte för du sa faktiskt till mig att inte döda hunden men jag gjorde det ändå.[m
+[16:42:00] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Men som exempel, fattar du vad som händer hos mig när du blir attackerad och har ihjäl hunden?[m
+[16:42:23] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ja.[m
+[16:42:25] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jag har typ fem till utanför, men man har breedat dem och de är rätt sällsynta (åtminstone i moddade[m
+[16:42:42] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ber om ursäkt.[m
+[16:42:49] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Det är ok[m
+[16:43:13] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Well, När du känner att du förlåtit mig helt kan du ge mig op INTE före dess ok?[m
+[16:43:55] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Det handlar inte om att förlåta, det har jag redan gjort, men jag vill att du ska kunna...[m
+[16:43:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3713ms behind, skipping 74 tick(s)
+[16:44:09] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> ... bidra positivt till servrarna och folk som vill spela här[m
+[16:44:18] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag kan förlåta.. Du var inte försent.[m
+[16:44:25] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Jag kan förlåta.. Du var inte försen.[m
+[16:44:32] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Och du är förlåten[m
+[16:44:45] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Nu är det du som får förlåta mig när du är redo för det.[m
+[16:44:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2452ms behind, skipping 49 tick(s)
+[16:45:45] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Jaja, men som sagt, det handlar inte om vad jag känner (typ), det handlar om vad jag tror du...[m
+[16:45:54] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> ... kommer göra, om du känns pålitlig[m
+[16:46:12] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Precis därför får du förlåta mig när du litar på mig igen.[m
+[16:46:14] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ...[m
+[16:46:19] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Yep[m
+[16:46:32] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Och detta går inte alltså jag får skuldkänslor[m
+[16:46:41] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> :-([m
+[16:46:46] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Du kanske kan ha lite kul att spela inom reglerna med...[m
+[16:47:05] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> ... Dö skitmånga gånger i Horizons, det är kul för det blir en utmaning då :-)[m
+[16:47:14] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ska ta en paus från datorn nu.[m
+[16:47:21] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ska nog spela horizons[m
+[16:47:23] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> xD[m
+[16:47:26] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Gör så, lite frisk luft[m
+[16:47:40] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ska dra till horizons[m
+[16:47:43] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> XD O lagga XD[m
+[16:47:44] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> CU[m
+[16:47:56] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> aa[m
+[16:48:55] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Vad är de cj[m
+[16:48:56] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ..[m
+[16:49:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2711ms behind, skipping 54 tick(s)
+[16:49:15] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Va? Inget, jag sa "see you"[m
+[16:50:01] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Ska du till horizons?[m
+[16:50:03] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> el[m
+[16:50:04] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ?[m
+[16:50:06] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> xD[m
+[16:51:13] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Mmm, när jag confat grafiken här[m
+[16:52:25] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> bye ska dra till horizons en stund[m
+[16:52:27] [Server thread/INFO]: Skywarslover went up in flames
+[16:52:56] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[16:52:56] [Server thread/INFO]: Skywarslover left the game.
+[16:54:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3878ms behind, skipping 77 tick(s)
+[16:59:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2229ms behind, skipping 44 tick(s)
+[17:03:24] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[17:03:24] [Server thread/INFO]: FabboCJ left the game.
+[17:05:29] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[17:05:29] [Server thread/INFO]: FabboCJ[/37.46.178.157:47787] logged in with entity id 7253 at ([tutworld] 1277.693971497862, 80.0, 3142.242905347265)
+[17:09:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2209ms behind, skipping 44 tick(s)
+[17:14:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[17:15:12] [User Authenticator #4/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[17:15:12] [Server thread/INFO]: Skywarslover[/83.253.53.190:42587] logged in with entity id 7589 at ([tutworld] 183.5, 80.0, 219.5)
+[17:15:28] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> cj[m
+[17:15:35] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Mmmm?[m
+[17:15:44] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> Vänner igen?[m
+[17:16:07] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Självklart :-)[m
+[17:16:31] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ska ba dränka mig 7 ggro mer[m
+[17:16:36] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> :P[m
+[17:16:44] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Heh, jag ska till Horizons[m
+[17:16:48] [Server thread/INFO]: Skywarslover drowned
+[17:17:13] [Server thread/INFO]: Skywarslover lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[17:17:13] [Server thread/INFO]: Skywarslover left the game.
+[17:19:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2150ms behind, skipping 43 tick(s)
+[17:24:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2112ms behind, skipping 42 tick(s)
+[17:26:18] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[17:26:18] [Server thread/INFO]: FabboCJ left the game.
+[17:54:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2103ms behind, skipping 42 tick(s)
+[18:19:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2012ms behind, skipping 40 tick(s)
+[18:24:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[18:49:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2292ms behind, skipping 45 tick(s)
+[18:54:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2397ms behind, skipping 47 tick(s)
+[18:59:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2058ms behind, skipping 41 tick(s)
+[20:34:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4796ms behind, skipping 95 tick(s)
+[20:39:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3790ms behind, skipping 75 tick(s)
+[20:44:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2998ms behind, skipping 59 tick(s)
+[20:49:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3656ms behind, skipping 73 tick(s)
+[20:54:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4238ms behind, skipping 84 tick(s)
+[20:59:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6295ms behind, skipping 125 tick(s)
+[21:04:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2067ms behind, skipping 41 tick(s)
+[22:14:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[22:14:18] [pool-3-thread-112/INFO]: [Vault] Checking for Updates ... 
+[22:14:19] [pool-3-thread-112/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[22:14:19] [pool-3-thread-112/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:24:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
+[22:44:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
+[23:14:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2064ms behind, skipping 41 tick(s)
+[23:44:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2088ms behind, skipping 41 tick(s)
+[23:59:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2155ms behind, skipping 43 tick(s)

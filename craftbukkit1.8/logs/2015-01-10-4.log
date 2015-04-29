@@ -1,0 +1,131 @@
+[18:21:22] [Server thread/INFO]: Starting minecraft server version 1.8
+[18:21:22] [Server thread/INFO]: Loading properties
+[18:21:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:21:22] [Server thread/INFO]: Generating keypair
+[18:21:23] [Server thread/INFO]: Starting Minecraft server on *:25566
+[18:21:23] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[18:21:23] [Server thread/ERROR]: Could not load 'plugins/EssentialsChat.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:21:23] [Server thread/ERROR]: Could not load 'plugins/EssentialsSpawn.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:21:23] [Server thread/ERROR]: Could not load 'plugins/EssentialsAntiBuild.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:21:23] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:21:23] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:21:23] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:21:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:21:23] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:21:23] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:21:23] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:21:23] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:21:23] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:21:23] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:21:23] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:21:23] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:21:23] [Server thread/INFO]: Preparing level "tutworld"
+[18:21:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[18:21:24] [Server thread/INFO]: Preparing spawn area: 18%
+[18:21:26] [Server thread/INFO]: Preparing spawn area: 34%
+[18:21:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[18:21:28] [Server thread/INFO]: Preparing spawn area: 92%
+[18:21:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[18:21:28] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:21:28] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:21:28] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:21:28] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[18:21:29] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1780430939243764315)
+[18:21:32] [Server thread/INFO]: Preparing start region for level 4 (Seed: -2903505127734604271)
+[18:21:33] [Server thread/INFO]: Preparing spawn area for fromflames, 89%
+[18:21:36] [Server thread/INFO]: Preparing start region for level 5 (Seed: 4919839233390569991)
+[18:21:37] [Server thread/INFO]: Preparing spawn area for Bomber, 77%
+[18:21:39] [Server thread/INFO]: Preparing start region for level 6 (Seed: 8440151354802767546)
+[18:21:40] [Server thread/INFO]: Preparing spawn area for fromashes, 44%
+[18:21:42] [Server thread/INFO]: Preparing start region for level 7 (Seed: -2369971020579525390)
+[18:21:44] [Server thread/INFO]: Preparing start region for level 8 (Seed: 64951768)
+[18:21:50] [Server thread/INFO]: Preparing start region for level 9 (Seed: -6426663970308026368)
+[18:21:51] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 81%
+[18:21:56] [Server thread/INFO]: Preparing start region for level 10 (Seed: 3981014598438330368)
+[18:21:57] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 97%
+[18:22:00] [Server thread/INFO]: Preparing start region for level 11 (Seed: 6851938583268216745)
+[18:22:04] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[18:22:04] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:22:04] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:22:04] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:22:04] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:22:04] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[18:22:04] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[18:22:34] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[18:22:34] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[18:22:34] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[18:22:34] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[18:22:38] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:22:41] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[18:22:42] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[18:22:45] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:23:06] [Server thread/INFO]: Done (102.155s)! For help, type "help" or "?"
+[18:23:06] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[18:23:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@339475e2[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@229757c0]},legacy=false] (/192.168.1.137:60622) lost connection: Disconnected
+[18:23:07] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:23:07] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[18:23:07] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[18:23:07] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[18:23:07] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[18:23:07] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[18:23:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[18:23:07] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[18:23:07] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[18:23:07] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[18:23:07] [Server thread/INFO]: [PlayerInfo] has been disabled
+[18:23:07] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[18:23:07] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:23:07] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:23:07] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:23:07] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:23:07] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:23:07] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:23:07] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:23:07] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:23:07] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:23:07] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:23:07] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:23:07] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:23:07] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:23:07] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:23:07] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:23:07] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:23:07] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[18:23:41] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[18:23:41] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:23:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:23:41] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:23:41] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:23:41] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[18:23:41] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[18:24:06] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:24:06] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:24:06] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-10_18.24.06-server.txt
+[18:24:06] [Thread-4/INFO]: Stopping server

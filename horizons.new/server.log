@@ -1,0 +1,1691 @@
+2015-02-15 11:11:49 [INFO] Starting minecraft server version 1.6.4
+2015-02-15 11:12:07 [INFO] [Aroma1997Core] Finished Pre-initialization.
+2015-02-15 11:12:13 [INFO] [Aroma1997CoreHelper] Helping Aroma1997Core
+2015-02-15 11:12:23 [INFO] Loading properties
+2015-02-15 11:12:23 [WARNING] server.properties does not exist
+2015-02-15 11:12:23 [INFO] Generating new properties file
+2015-02-15 11:12:24 [INFO] Default game type: SURVIVAL
+2015-02-15 11:12:24 [INFO] Generating keypair
+2015-02-15 11:12:24 [INFO] Starting Minecraft server on *:25565
+2015-02-15 11:12:24 [WARNING] **** FAILED TO BIND TO PORT!
+2015-02-15 11:12:24 [WARNING] The exception was: {0}
+2015-02-15 11:12:24 [WARNING] Perhaps a server is already running on that port?
+2015-02-15 11:12:27 [INFO] An unknown error occurred while attempting to perform this command
+2015-02-15 11:12:30 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:12:31 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:12:34 [INFO] An unknown error occurred while attempting to perform this command
+2015-02-15 11:12:36 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:12:40 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:12:42 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:12:42 [INFO] Stopping server
+2015-02-15 11:12:42 [INFO] Saving worlds
+2015-02-15 11:13:49 [INFO] Starting minecraft server version 1.6.4
+2015-02-15 11:14:05 [INFO] [Aroma1997Core] Finished Pre-initialization.
+2015-02-15 11:14:11 [INFO] [Aroma1997CoreHelper] Helping Aroma1997Core
+2015-02-15 11:14:22 [INFO] Loading properties
+2015-02-15 11:14:22 [INFO] Default game type: SURVIVAL
+2015-02-15 11:14:22 [INFO] Generating keypair
+2015-02-15 11:14:23 [INFO] Starting Minecraft server on *:25567
+2015-02-15 11:14:23 [INFO] [Aroma1997Core] Finished Post-Initialization.
+2015-02-15 11:14:23 [INFO] [Aroma1997Core] Finished Initialization.
+2015-02-15 11:14:41 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2015-02-15 11:14:41 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2015-02-15 11:14:41 [INFO] Preparing level "world"
+2015-02-15 11:14:42 [INFO] Preparing start region for level 0
+2015-02-15 11:14:43 [INFO] Preparing spawn area: 34%
+2015-02-15 11:14:44 [INFO] Done (2.588s)! For help, type "help" or "?"
+2015-02-15 11:14:44 [INFO] [Aroma1997Core] Starting up server.
+2015-02-15 11:14:44 [INFO] [Aroma1997Core] Started up server.
+2015-02-15 11:15:02 [INFO] FabboCJ[/37.46.178.157:54647] logged in with entity id 473 at (-62.14962300068987, 32.0, 61.596601038856264)
+2015-02-15 11:15:02 [INFO] FabboCJ joined the game
+2015-02-15 11:15:28 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-15 11:15:28 [INFO] FabboCJ left the game
+2015-02-15 11:15:36 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:15:37 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:15:37 [INFO] Unknown command. Try /help for a list of commands
+2015-02-15 11:15:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 11:19:33 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-15 11:19:38 [INFO] FabboCJ[/37.46.178.157:54741] logged in with entity id 595 at (-66.10699383733792, 32.0, 64.48585002495622)
+2015-02-15 11:19:38 [INFO] FabboCJ joined the game
+2015-02-15 11:23:05 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-15 11:23:05 [INFO] FabboCJ left the game
+2015-02-15 11:26:22 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-15 11:26:22 [INFO] /37.46.178.157:54838 lost connection
+2015-02-15 11:26:27 [INFO] FabboCJ[/37.46.178.157:54842] logged in with entity id 1210 at (-61.701724297802166, 32.0, 64.80118369243559)
+2015-02-15 11:26:27 [INFO] FabboCJ joined the game
+2015-02-15 11:32:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 11:51:53 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-15 11:51:57 [INFO] WizCraker[/67.209.200.177:59177] logged in with entity id 26923 at (403.30000001192093, 69.0, 574.764540285586)
+2015-02-15 11:51:57 [INFO] WizCraker joined the game
+2015-02-15 11:53:01 [INFO] <WizCraker> hello
+2015-02-15 11:53:08 [INFO] <FabboCJ> Oh, howdy!
+2015-02-15 11:53:15 [INFO] <FabboCJ> You're at spawn?
+2015-02-15 11:53:56 [INFO] <WizCraker> no i'm at 378, 570
+2015-02-15 11:54:04 [INFO] <FabboCJ> Hmm
+2015-02-15 11:54:59 [INFO] <FabboCJ> 500 m south of me
+2015-02-15 11:55:43 [INFO] <WizCraker> you have a nice place?
+2015-02-15 11:57:37 [INFO] <WizCraker> i'm living in a desert dungeon
+2015-02-15 11:58:14 [INFO] <FabboCJ> Cool!
+2015-02-15 11:58:31 [INFO] <FabboCJ> We have a mine here with a pretty rad shaft you can jump down
+2015-02-15 11:59:22 [INFO] <WizCraker> nice, i'll stop by
+2015-02-15 11:59:42 [INFO] <FabboCJ> I'll try to find you, bringing a map
+2015-02-15 11:59:58 [INFO] WizCraker was shot by Skeleton
+2015-02-15 12:00:03 [INFO] <FabboCJ> Ouch!
+2015-02-15 12:00:40 [INFO] <FabboCJ> The night is very dark in this game...
+2015-02-15 12:00:49 [INFO] <WizCraker> yes it is
+2015-02-15 12:00:53 [INFO] <WizCraker> i have night vision
+2015-02-15 12:01:05 [INFO] <FabboCJ> Hah, meant the monsters are mean
+2015-02-15 12:01:08 [INFO] <FabboCJ> But yeah
+2015-02-15 12:01:24 [INFO] <WizCraker> I I built a titan helment
+2015-02-15 12:01:50 [INFO] <WizCraker> yeah i always seem to be near death as I'm always starving
+2015-02-15 12:02:17 [INFO] <WizCraker> not a titan helmet, but a Nightfall Helmet
+2015-02-15 12:02:24 [INFO] <WizCraker> from the hide of titans
+2015-02-15 12:02:38 [INFO] <WizCraker> which is a giant enderman with two heads.
+2015-02-15 12:02:44 [INFO] <FabboCJ> Oh, I only got one of thise hides...
+2015-02-15 12:02:53 [INFO] <WizCraker> I died at least 5 times trying to kill it.
+2015-02-15 12:03:42 [INFO] <FabboCJ> I found your desert
+2015-02-15 12:10:47 [INFO] <WizCraker> hello
+2015-02-15 12:10:58 [INFO] <FabboCJ> LOL
+2015-02-15 12:11:09 [INFO] <FabboCJ> Let's copy that map
+2015-02-15 12:11:21 [INFO] <WizCraker> with?
+2015-02-15 12:11:30 [INFO] <WizCraker> what is needed to copy?
+2015-02-15 12:11:31 [INFO] <FabboCJ> Gimme
+2015-02-15 12:12:50 [INFO] <WizCraker> thanks
+2015-02-15 12:13:20 [INFO] <FabboCJ> You look scary in that helmet with those eyes :-)
+2015-02-15 12:13:26 [INFO] <WizCraker> haha
+2015-02-15 12:13:40 [INFO] <WizCraker> oh thanks
+2015-02-15 12:13:44 [INFO] <FabboCJ> You said you were hungry
+2015-02-15 12:13:44 [INFO] <WizCraker> food
+2015-02-15 12:13:51 [INFO] <FabboCJ> One map back plz?
+2015-02-15 12:13:56 [INFO] <WizCraker> yes I'm usually at deaths door
+2015-02-15 12:14:05 [INFO] <FabboCJ> Aren't we all...
+2015-02-15 12:14:23 [INFO] <FabboCJ> Look at that one ;-)
+2015-02-15 12:14:43 [INFO] <WizCraker> look at which?
+2015-02-15 12:14:59 [INFO] <FabboCJ> Just a useful bag :-)
+2015-02-15 12:15:15 [INFO] <FabboCJ> So, you're doing well here? :-)
+2015-02-15 12:15:24 [INFO] <WizCraker> oh yeah i need to build one soon
+2015-02-15 12:15:33 [INFO] <WizCraker> yeah I just started about 4 hours ago
+2015-02-15 12:15:47 [INFO] <WizCraker> ever see these storage crates?
+2015-02-15 12:16:33 [INFO] <WizCraker> let me show you how they work
+2015-02-15 12:16:46 [INFO] <FabboCJ> Wow.,... crate, haven't seen them
+2015-02-15 12:17:14 [INFO] <WizCraker> that one has 24 blocks
+2015-02-15 12:17:20 [INFO] <FabboCJ> Ok...
+2015-02-15 12:17:23 [INFO] <WizCraker> every time you open them it is random
+2015-02-15 12:17:28 [INFO] <FabboCJ> Ahhhh!
+2015-02-15 12:17:33 [INFO] <FabboCJ> Yeah, it seemed funky
+2015-02-15 12:17:43 [INFO] <WizCraker> like going through a giant crate looking for legos
+2015-02-15 12:17:57 [INFO] <FabboCJ> Hehe
+2015-02-15 12:18:07 [INFO] <FabboCJ> Not sure we have keep inventory at death ATM
+2015-02-15 12:18:20 [INFO] <FabboCJ> Anyway there can be a soul chest and an undertaker too
+2015-02-15 12:18:22 [INFO] <WizCraker> yeah keep inventory at death is active
+2015-02-15 12:18:33 [INFO] <WizCraker> i've died at least 30 times in the last 2 hours
+2015-02-15 12:18:39 [INFO] <FabboCJ> After server restart? I just upgraded
+2015-02-15 12:18:41 [INFO] <FabboCJ> Ok
+2015-02-15 12:18:45 [INFO] <FabboCJ> True that
+2015-02-15 12:19:08 [INFO] <FabboCJ> Gee, you hit him with a tray!?
+2015-02-15 12:19:08 [INFO] <WizCraker> let me show you how the crate wrks
+2015-02-15 12:19:31 [INFO] <FabboCJ> LOL...
+2015-02-15 12:20:02 [INFO] <FabboCJ> Yeah, random, and expandable?
+2015-02-15 12:20:29 [INFO] <WizCraker> so see there is only 2 rows of 9?
+2015-02-15 12:20:31 [INFO] <FabboCJ> Can't pick the arrows... :-P
+2015-02-15 12:20:35 [INFO] <FabboCJ> Mmmm
+2015-02-15 12:20:40 [INFO] <WizCraker> there is actually more there even though you can not see it
+2015-02-15 12:20:46 [INFO] <FabboCJ> Ok?
+2015-02-15 12:21:00 [INFO] <FabboCJ> .... show me
+2015-02-15 12:21:05 [INFO] <WizCraker> if you shift click next block it expands
+2015-02-15 12:21:29 [INFO] <WizCraker> notice that the line on top of the first block is not dark
+2015-02-15 12:21:35 [INFO] <FabboCJ> Sry, I'm acting drunk, but I understand
+2015-02-15 12:21:41 [INFO] <FabboCJ> Mmm
+2015-02-15 12:21:58 [INFO] <FabboCJ> Ohhh! :-)
+2015-02-15 12:22:09 [INFO] <FabboCJ> Separate crates!
+2015-02-15 12:22:12 [INFO] <FabboCJ> Niiice
+2015-02-15 12:22:14 [INFO] <WizCraker> that second column is two separate crates
+2015-02-15 12:22:18 [INFO] <FabboCJ> How do I make them?
+2015-02-15 12:22:43 [INFO] <WizCraker> the layout is kind of weird once you get past 4 you have to be creative.
+2015-02-15 12:23:24 [INFO] <WizCraker> you have to expand in the Z depths before you can build up
+2015-02-15 12:24:13 [INFO] <WizCraker> it really shines if hooked up to a AE system
+2015-02-15 12:24:22 [INFO] <FabboCJ> I can imagine!
+2015-02-15 12:24:29 [INFO] <WizCraker> as you do not need drives
+2015-02-15 12:24:39 [INFO] <WizCraker> an this thing grows pretty fast.
+2015-02-15 12:24:41 [INFO] <FabboCJ> Do we have AE?
+2015-02-15 12:24:52 [INFO] <FabboCJ> Z depth before you build up?
+2015-02-15 12:25:01 [INFO] <WizCraker> yep we have AE
+2015-02-15 12:25:04 [INFO] <WizCraker> yes
+2015-02-15 12:25:09 [INFO] <FabboCJ> cewl
+2015-02-15 12:25:24 [INFO] <WizCraker> at least 2 deep before a 3rd row up
+2015-02-15 12:25:25 [INFO] <FabboCJ> We haven't built even the sorting we have in ftblite here
+2015-02-15 12:25:35 [INFO] <FabboCJ> Ok...
+2015-02-15 12:27:08 [INFO] <WizCraker> that is crazy
+2015-02-15 12:27:08 [INFO] <FabboCJ> Keep it if you want
+2015-02-15 12:28:31 [INFO] <FabboCJ> Hehe
+2015-02-15 12:30:08 [INFO] <WizCraker> i've built one in my lab that was at least 10x10 and it just keeps growing
+2015-02-15 12:30:13 [INFO] <WizCraker> the more you add to it
+2015-02-15 12:30:21 [INFO] <FabboCJ> Nice, I'll have to check it out further
+2015-02-15 12:30:29 [INFO] <FabboCJ> Your lab?
+2015-02-15 12:30:30 [INFO] <WizCraker> and they are rather cheapt to make
+2015-02-15 12:30:36 [INFO] <FabboCJ> Indeed!
+2015-02-15 12:30:50 [INFO] <WizCraker> single player to test out how to build something correctly
+2015-02-15 12:31:06 [INFO] <WizCraker> i didnt' know that you had to shift click to get it to expand correctly
+2015-02-15 12:31:11 [INFO] <FabboCJ> Mmm
+2015-02-15 12:32:02 [INFO] <FabboCJ> What did you call it... AE?
+2015-02-15 12:32:10 [INFO] <WizCraker> yep
+2015-02-15 12:32:20 [INFO] <WizCraker> applied energistics
+2015-02-15 12:33:22 [INFO] <WizCraker> did you know of the @ sign in NEI?
+2015-02-15 12:33:25 [INFO] <FabboCJ> Youtubing :-)
+2015-02-15 12:33:28 [INFO] <FabboCJ> Nope?
+2015-02-15 12:33:33 [INFO] <WizCraker> if you type @ then the mod name
+2015-02-15 12:33:39 [INFO] <WizCraker> so like @applied
+2015-02-15 12:33:54 [INFO] <WizCraker> it will show you all the applied energistcs stuff
+2015-02-15 12:33:56 [INFO] <FabboCJ> Umm, do you even need the at-sigh?
+2015-02-15 12:34:27 [INFO] <WizCraker> if you just want to see those items
+2015-02-15 12:34:36 [INFO] <FabboCJ> Anyway, our mine is highligted on the map, drop by sometime
+2015-02-15 12:34:54 [INFO] <FabboCJ> I had a multi-level trampoline there for a while :-P
+2015-02-15 12:34:57 [INFO] <WizCraker> if you leave the @ sign out you get anything that has applied in its name or desc
+2015-02-15 12:35:10 [INFO] <FabboCJ> Ok, yeah, not huge difference :-)
+2015-02-15 12:35:28 [INFO] <FabboCJ> I just re-downloaded the mod to get NEI
+2015-02-15 12:35:41 [INFO] <FabboCJ> But I don't like this minimap version, it doesn't have the radar?
+2015-02-15 12:35:43 [INFO] <WizCraker> ah yeah
+2015-02-15 12:35:48 [INFO] <WizCraker> radar?
+2015-02-15 12:35:54 [INFO] <WizCraker> which minimap you using?
+2015-02-15 12:35:56 [INFO] <FabboCJ> Shows mobs
+2015-02-15 12:36:01 [INFO] <FabboCJ> Now, Rei's
+2015-02-15 12:36:13 [INFO] <WizCraker> ah yeah I disabled that one and used the other one
+2015-02-15 12:36:14 [INFO] <FabboCJ> Guess it used to be some other, will ls
+2015-02-15 12:36:58 [INFO] <FabboCJ> I stole some books from the farlanders, heading back then :-)
+2015-02-15 12:36:59 [INFO] <WizCraker> in the FTB launcher it is in the edit mod pack or whatever it is called
+2015-02-15 12:37:14 [INFO] <WizCraker> There is jouneymap also
+2015-02-15 12:37:17 [INFO] <FabboCJ> Yeah, just so many mods...
+2015-02-15 12:37:20 [INFO] <FabboCJ> Ok
+2015-02-15 12:37:31 [INFO] <WizCraker> which is pretty cool as it maps out as you walk
+2015-02-15 12:37:47 [INFO] <FabboCJ> Magician out here!
+2015-02-15 12:37:49 [INFO] <WizCraker> and you can even go to localhost:8080 to see the map in a browser as you walk
+2015-02-15 12:38:38 [INFO] <WizCraker> you kill it?
+2015-02-15 12:38:47 [INFO] <FabboCJ> Mystic enderman wants to bury me in rubble
+2015-02-15 12:39:10 [INFO] <WizCraker> did you get a cool staff?
+2015-02-15 12:39:34 [INFO] <FabboCJ> Hehe, apple trees...
+2015-02-15 12:40:02 [INFO] <FabboCJ> Do it
+2015-02-15 12:40:19 [INFO] <WizCraker> said only stone
+2015-02-15 12:40:23 [INFO] <WizCraker> or netherrack
+2015-02-15 12:40:44 [INFO] <WizCraker> there is some stone
+2015-02-15 12:40:50 [INFO] <FabboCJ> Used it already :-/
+2015-02-15 12:40:58 [INFO] <WizCraker> oh what did it do?
+2015-02-15 12:41:02 [INFO] <FabboCJ> Kind of weak that one
+2015-02-15 12:41:09 [INFO] <FabboCJ> Two coal, one redstone...
+2015-02-15 12:41:33 [INFO] <WizCraker> oh that is kind of weak
+2015-02-15 12:41:38 [INFO] <FabboCJ> Yup
+2015-02-15 12:41:45 [INFO] <WizCraker> guessing it vanishes after use?
+2015-02-15 12:41:50 [INFO] <FabboCJ> Yup
+2015-02-15 12:42:17 [INFO] <FabboCJ> I'll be on my way :-)
+2015-02-15 12:42:22 [INFO] <FabboCJ> Nice seeing your place!
+2015-02-15 12:42:24 [INFO] <WizCraker> okay see you later
+2015-02-15 12:43:33 [INFO] <FabboCJ> Nice straw man over noth
+2015-02-15 12:43:45 [INFO] <FabboCJ> Crap, tainted pig! :-P
+2015-02-15 12:45:41 [INFO] <WizCraker> here
+2015-02-15 12:45:46 [INFO] <FabboCJ> Hi again :-)
+2015-02-15 12:45:50 [INFO] <WizCraker> i made it for you
+2015-02-15 12:45:56 [INFO] <FabboCJ> Sapling? Sweet :-)
+2015-02-15 12:45:59 [INFO] <WizCraker> just in case you have no apple trees
+2015-02-15 12:46:08 [INFO] <FabboCJ> I didn't, thanks
+2015-02-15 12:46:16 [INFO] <WizCraker> you can make more by a oak sapling and an apple
+2015-02-15 12:46:18 [INFO] <FabboCJ> Wish we could get rid of this taint
+2015-02-15 12:46:20 [INFO] <FabboCJ> Ah
+2015-02-15 12:46:31 [INFO] <WizCraker> how did the taint get created?
+2015-02-15 12:46:33 [INFO] <FabboCJ> I had no idea :-)
+2015-02-15 12:46:50 [INFO] <FabboCJ> It spawns... got to kill spawners in it, but it's nasty...
+2015-02-15 12:50:09 [INFO] <WizCraker> your place?
+2015-02-15 12:50:18 [INFO] <FabboCJ> Yes, magic crops :-)
+2015-02-15 12:50:40 [INFO] <WizCraker> that soul sand looks creepy
+2015-02-15 12:50:41 [INFO] <FabboCJ> Keep that coal seed?
+2015-02-15 12:51:04 [INFO] <FabboCJ> LOL, your damn pan...
+2015-02-15 12:51:22 [INFO] <WizCraker> it has knockback damage
+2015-02-15 12:51:26 [INFO] <FabboCJ> I'll make one :-)
+2015-02-15 12:51:33 [INFO] <WizCraker> plus you can cook with it
+2015-02-15 12:52:29 [INFO] <WizCraker> at least the knockback part is cause I made the pan part with bone
+2015-02-15 12:52:33 [INFO] <FabboCJ> Let's go
+2015-02-15 12:52:37 [INFO] <FabboCJ> Ah
+2015-02-15 12:52:57 [INFO] <WizCraker> so you can really use that it make anything
+2015-02-15 12:53:04 [INFO] <FabboCJ> Hmm
+2015-02-15 12:53:06 [INFO] <WizCraker> put the pan just hits pretty hard, and it is funny
+2015-02-15 12:53:15 [INFO] <FabboCJ> Yeah :-)
+2015-02-15 12:54:22 [INFO] <FabboCJ> So many creeper visits, want to clean this place up :-P
+2015-02-15 12:54:33 [INFO] <WizCraker> creepers like you?
+2015-02-15 12:56:13 [INFO] <FabboCJ> Smeltery here, haven't learnt to use it properly yet
+2015-02-15 12:56:21 [INFO] <FabboCJ> They love us :-P
+2015-02-15 12:56:21 [INFO] <WizCraker> did you have a massive lava lake that here?
+2015-02-15 12:56:26 [INFO] <WizCraker> oh these things are awesome
+2015-02-15 12:56:27 [INFO] <FabboCJ> Yep
+2015-02-15 12:56:38 [INFO] <WizCraker> did you read the books?
+2015-02-15 12:56:49 [INFO] <FabboCJ> Knock yourself out? We've got some materials too...
+2015-02-15 12:56:57 [INFO] <FabboCJ> Guess we should make some tanks for it
+2015-02-15 12:57:17 [INFO] <WizCraker> did youk know you can smelt multiple things and the one you want to drain you just click on it and
+2015-02-15 12:57:29 [INFO] <WizCraker> it moves to the bottom so you can drain it
+2015-02-15 12:57:36 [INFO] <FabboCJ> Oh... nope :-)
+2015-02-15 12:58:07 [INFO] <WizCraker> you can also make those smaller
+2015-02-15 12:58:26 [INFO] <WizCraker> tso they take up half a brick
+2015-02-15 13:00:26 [INFO] <FabboCJ> Sry :-)
+2015-02-15 13:00:38 [INFO] <FabboCJ> Ah
+2015-02-15 13:00:41 [INFO] <WizCraker> that is okay
+2015-02-15 13:00:42 [INFO] <FabboCJ> That didn
+2015-02-15 13:00:51 [INFO] <FabboCJ> didn't work... too little
+2015-02-15 13:01:03 [INFO] <FabboCJ> Got to make an ingot cast, can you?
+2015-02-15 13:01:15 [INFO] <WizCraker> yeah you would need 9 ingots worth to make a block
+2015-02-15 13:03:01 [INFO] <WizCraker> is that gold?
+2015-02-15 13:03:08 [INFO] <FabboCJ> Now liquiducts...
+2015-02-15 13:03:19 [INFO] <FabboCJ> Nope, alumite something...
+2015-02-15 13:03:25 [INFO] <WizCraker> ah
+2015-02-15 13:03:40 [INFO] <WizCraker> if you lay down a iron ingot on the table you can make a cast of the ingot
+2015-02-15 13:03:50 [INFO] <WizCraker> that way you can make individual ingots instead of blocks
+2015-02-15 13:04:15 [INFO] <FabboCJ> Yeah, that's what I wanted
+2015-02-15 13:04:31 [INFO] <WizCraker> also using fluidducts in place of the drain you can reverse the flow and it will
+2015-02-15 13:04:52 [INFO] <WizCraker> suck it out in the event you do not have enough to make an entire block
+2015-02-15 13:05:02 [INFO] <FabboCJ> I thought you attach the duct to the drain?
+2015-02-15 13:05:26 [INFO] <WizCraker> yeah you do. I meant you replace the faucet
+2015-02-15 13:05:41 [INFO] <FabboCJ> exactly
+2015-02-15 13:07:24 [INFO] <FabboCJ> This mess... doooo not like!
+2015-02-15 13:07:55 [INFO] <WizCraker> mess of not able to find anything?
+2015-02-15 13:08:12 [INFO] <FabboCJ> Yeah, we just haven't sorted properly yet
+2015-02-15 13:11:26 [INFO] <FabboCJ> I got it out to the tank! :-P
+2015-02-15 13:12:09 [INFO] <FabboCJ> And they connect like the crates do
+2015-02-15 13:12:43 [INFO] <WizCraker> oh yeah
+2015-02-15 13:12:59 [INFO] <FabboCJ> Figured you didn't mean to smelt bricks?
+2015-02-15 13:12:59 [INFO] <WizCraker> just making some clear glass
+2015-02-15 13:13:04 [INFO] <FabboCJ> Nice
+2015-02-15 13:13:09 [INFO] <WizCraker> oh no didn't meant to
+2015-02-15 13:13:20 [INFO] <FabboCJ> I should check my minimap issue, BRB
+2015-02-15 13:13:31 [INFO] <FabboCJ> In the meantime, we have mean ores, feel free
+2015-02-15 13:13:44 [INFO] <FabboCJ> Make a copy of any tool and you can keep it :-)
+2015-02-15 13:13:46 [INFO] <WizCraker> you can double your seared bricks if you pour it over gravel or cobble I cannot remember which
+2015-02-15 13:14:00 [INFO] <FabboCJ> Ok
+2015-02-15 13:15:45 [INFO] <FabboCJ> Don't laugh at me! :-P
+2015-02-15 13:16:03 [INFO] <WizCraker> i fell down earlier
+2015-02-15 13:16:26 [INFO] <FabboCJ> Our ores, crushers and stuff are over there
+2015-02-15 13:16:27 [INFO] <WizCraker> can you reverese this duct?
+2015-02-15 13:16:55 [INFO] <WizCraker> the other one
+2015-02-15 13:20:46 [INFO] <WizCraker> moving stuff?
+2015-02-15 13:20:51 [INFO] <FabboCJ> Yup
+2015-02-15 13:22:27 [INFO] <WizCraker> there you go your part builder is pulling from the pattern chest
+2015-02-15 13:22:48 [INFO] <FabboCJ> Oh *slightly confused*
+2015-02-15 13:22:59 [INFO] <FabboCJ> Can't make the ingot cast! :-/
+2015-02-15 13:23:36 [INFO] <WizCraker> there you go
+2015-02-15 13:23:51 [INFO] <FabboCJ> Oh, indeed
+2015-02-15 13:23:56 [INFO] <WizCraker> i moved the molten gold to the bottom
+2015-02-15 13:24:07 [INFO] <WizCraker> since gold can be used to make the casts
+2015-02-15 13:24:12 [INFO] <FabboCJ> Oh, and that mattered?
+2015-02-15 13:24:15 [INFO] <FabboCJ> Ok!
+2015-02-15 13:24:17 [INFO] <WizCraker> yep
+2015-02-15 13:24:26 [INFO] <FabboCJ> Hehe
+2015-02-15 13:24:33 [INFO] <WizCraker> can you reverese this fluid duct?
+2015-02-15 13:24:51 [INFO] <WizCraker> the one above the basin
+2015-02-15 13:24:54 [INFO] <FabboCJ> You have the wrench?
+2015-02-15 13:25:07 [INFO] <WizCraker> nope
+2015-02-15 13:25:16 [INFO] <WizCraker> i forgot the wrench is made with invar
+2015-02-15 13:26:02 [INFO] <FabboCJ> Rly?
+2015-02-15 13:26:04 [INFO] <FabboCJ> :-(
+2015-02-15 13:26:08 [INFO] <WizCraker> yep
+2015-02-15 13:27:07 [INFO] <FabboCJ> I'll have more in a moment then
+2015-02-15 13:27:33 [INFO] <FabboCJ> What... a fire inside?
+2015-02-15 13:27:51 [INFO] <WizCraker> a fire inside?
+2015-02-15 13:27:55 [INFO] <WizCraker> where?
+2015-02-15 13:28:01 [INFO] <FabboCJ> By the crates
+2015-02-15 13:28:12 [INFO] <WizCraker> hmm
+2015-02-15 13:28:53 [INFO] <WizCraker> I've never used metalugy is it fun?
+2015-02-15 13:29:02 [INFO] <FabboCJ> Me neither :-PÅ
+2015-02-15 13:29:16 [INFO] <FabboCJ> Why is that happening?
+2015-02-15 13:29:23 [INFO] <FabboCJ> Lava beneath...
+2015-02-15 13:30:00 [INFO] <FabboCJ> Wrench is made with tin
+2015-02-15 13:30:48 [INFO] <WizCraker> oops i was looking at the wrong wrench
+2015-02-15 13:31:10 [INFO] <WizCraker> the invar battle wrench is
+2015-02-15 13:31:20 [INFO] <FabboCJ> Hah, I need one too :-P
+2015-02-15 13:31:43 [INFO] <FabboCJ> You had it all along :-P
+2015-02-15 13:34:12 [INFO] <WizCraker> clear glass
+2015-02-15 13:34:27 [INFO] <WizCraker> you can break it and it will drop to a block
+2015-02-15 13:34:36 [INFO] <WizCraker> you can even dye it
+2015-02-15 13:34:46 [INFO] <FabboCJ> Nice!
+2015-02-15 13:34:57 [INFO] <FabboCJ> Just sand in smeltery?
+2015-02-15 13:35:01 [INFO] <WizCraker> yep
+2015-02-15 13:35:06 [INFO] <FabboCJ> BRB, journeymap
+2015-02-15 13:35:18 [INFO] <WizCraker> okay
+2015-02-15 13:35:34 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-15 13:35:34 [INFO] FabboCJ left the game
+2015-02-15 13:37:55 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-15 13:38:00 [INFO] FabboCJ[/37.46.178.157:55091] logged in with entity id 150780 at (475.70529912070987, 11.0, 22.888009891137965)
+2015-02-15 13:38:00 [INFO] FabboCJ joined the game
+2015-02-15 13:40:41 [INFO] <FabboCJ> Heh, journeymap...
+2015-02-15 13:40:57 [INFO] <WizCraker> yeah journeymap is pretty cool
+2015-02-15 13:41:09 [INFO] <WizCraker> j to see it in game or localhost:8080 to see it in browser.
+2015-02-15 13:41:20 [INFO] <WizCraker> be perfect for a second monitor
+2015-02-15 13:41:27 [INFO] <FabboCJ> Hehe, I imagine
+2015-02-15 13:41:45 [INFO] <WizCraker> do you have some redstone I could use?
+2015-02-15 13:41:49 [INFO] <FabboCJ> Lemme go to the surface
+2015-02-15 13:50:43 [INFO] <WizCraker> next time you are down below let me show you something I made you.
+2015-02-15 13:50:50 [INFO] <FabboCJ> Sweet!
+2015-02-15 13:51:04 [INFO] <FabboCJ> Yeah, getting used to the journeymap, it's a bit funky
+2015-02-15 13:51:12 [INFO] <FabboCJ> I miss the waypoints only
+2015-02-15 13:53:07 [INFO] <FabboCJ> :-D
+2015-02-15 13:53:20 [INFO] <FabboCJ> Transfer node...
+2015-02-15 13:53:24 [INFO] <WizCraker> first i made those
+2015-02-15 13:53:29 [INFO] <FabboCJ> Huh
+2015-02-15 13:53:31 [INFO] <WizCraker> cheapest way to make the transfer node
+2015-02-15 13:53:33 [INFO] <FabboCJ> :-)
+2015-02-15 13:54:03 [INFO] <WizCraker> crap
+2015-02-15 13:54:16 [INFO] <FabboCJ> Oh?
+2015-02-15 13:54:57 [INFO] <FabboCJ> BTW, you have no farm... here
+2015-02-15 13:55:17 [INFO] <WizCraker> shit click to the side of whatever connects it
+2015-02-15 13:55:29 [INFO] <WizCraker> the chest hast to be at least 2 blocks away
+2015-02-15 13:55:37 [INFO] <FabboCJ> Ok...
+2015-02-15 13:56:02 [INFO] <WizCraker> btw to move the liquid to the bottom you click on the controller and pick the one you want
+2015-02-15 13:56:10 [INFO] <WizCraker> iron on bottom
+2015-02-15 13:56:18 [INFO] <WizCraker> the other one now
+2015-02-15 13:56:30 [INFO] <FabboCJ> Yep, saw that
+2015-02-15 13:56:40 [INFO] <WizCraker> the transfer node will suck it out automaticlly
+2015-02-15 13:57:35 [INFO] <FabboCJ> Nice!
+2015-02-15 13:58:45 [INFO] <WizCraker> so close to auto smelting
+2015-02-15 13:59:04 [INFO] <WizCraker> except it doesn't check to see if there is one two many or few ingots
+2015-02-15 13:59:07 [INFO] <WizCraker> to make a block
+2015-02-15 13:59:09 [INFO] <FabboCJ> Yeah... Better yield than crushers too?
+2015-02-15 13:59:13 [INFO] <FabboCJ> Mmm
+2015-02-15 13:59:20 [INFO] <WizCraker> yeah
+2015-02-15 13:59:42 [INFO] <FabboCJ> Sweetness :-)
+2015-02-15 14:00:02 [INFO] <FabboCJ> Thank you so much for showing it
+2015-02-15 14:00:08 [INFO] <WizCraker> yep
+2015-02-15 14:00:14 [INFO] <FabboCJ> Make some tools? :-)
+2015-02-15 14:00:19 [INFO] <WizCraker> any of the advanced weapons or tools require the smelter
+2015-02-15 14:00:28 [INFO] <WizCraker> nope
+2015-02-15 14:00:52 [INFO] <FabboCJ> Let's do it, what material?
+2015-02-15 14:01:49 [INFO] <WizCraker> we need to the tool forge to make the advanced tools
+2015-02-15 14:01:56 [INFO] <WizCraker> it takes 4 blocks of iron
+2015-02-15 14:02:01 [INFO] <FabboCJ> Hmm
+2015-02-15 14:02:19 [INFO] <WizCraker> three seared bricks, and the tool station to make the tool forge
+2015-02-15 14:02:47 [INFO] <WizCraker> then it takes much more mats for the bigger itesms.
+2015-02-15 14:03:01 [INFO] <FabboCJ> Hmmm
+2015-02-15 14:03:29 [INFO] <WizCraker> the smelting book shows you what you need
+2015-02-15 14:04:00 [INFO] <WizCraker> thanks for the wheat
+2015-02-15 14:08:29 [INFO] <FabboCJ> Niiice...
+2015-02-15 14:08:53 [INFO] <WizCraker> the tool forge gives you bigger items
+2015-02-15 14:11:20 [INFO] <FabboCJ> I dropped the carmot blocks? :-(
+2015-02-15 14:11:37 [INFO] <WizCraker> what are carmot?
+2015-02-15 14:12:00 [INFO] <FabboCJ> No idea
+2015-02-15 14:12:05 [INFO] <FabboCJ> I was gonna make an armor
+2015-02-15 14:12:50 [INFO] <WizCraker> is carmot a ore?
+2015-02-15 14:13:00 [INFO] <FabboCJ> No, alloy
+2015-02-15 14:14:33 [INFO] <WizCraker> hmm how do you make it?
+2015-02-15 14:14:48 [INFO] <FabboCJ> I found it in the box... then it disappeared :-/
+2015-02-15 14:15:32 [INFO] <WizCraker> freaking creeper
+2015-02-15 14:15:35 [INFO] <FabboCJ> See
+2015-02-15 14:18:48 [INFO] <WizCraker> interesting i never heard of carmot
+2015-02-15 14:21:19 [INFO] <WizCraker> F7 will show you what is too dark
+2015-02-15 14:21:30 [INFO] <FabboCJ> OOOps!
+2015-02-15 14:21:56 [INFO] <FabboCJ> Poisonous pick, very useful, not
+2015-02-15 14:22:33 [INFO] <WizCraker> Red X's is anything can spawn
+2015-02-15 14:22:42 [INFO] <FabboCJ> Didn't understand F7 before, sweet
+2015-02-15 14:23:06 [INFO] <WizCraker> here is a red X surrounded by light
+2015-02-15 14:24:06 [INFO] <WizCraker> yeah the fluid duct sometimes needs to be reset
+2015-02-15 14:28:38 [INFO] <WizCraker> i got most of the red X's lit up for you
+2015-02-15 14:28:44 [INFO] <FabboCJ> Nice
+2015-02-15 14:28:48 [INFO] <WizCraker> so that Creepers do not spawn on top of you
+2015-02-15 14:28:52 [INFO] <FabboCJ> I made a sword I wanna try
+2015-02-15 14:29:36 [INFO] <WizCraker> you already poisoned me
+2015-02-15 14:29:39 [INFO] <WizCraker> haha
+2015-02-15 14:29:44 [INFO] <FabboCJ> Yeah :-P
+2015-02-15 14:32:12 [INFO] <WizCraker> nice
+2015-02-15 14:37:56 [INFO] <WizCraker> there you go. got you some stairs so you have less jumping
+2015-02-15 14:38:24 [INFO] <FabboCJ> Heh, thanks, I've just been lazy
+2015-02-15 14:38:43 [INFO] <FabboCJ> The poisonous pick, wanna keep it?
+2015-02-15 14:39:14 [INFO] <WizCraker> sure i can use it to poison something
+2015-02-15 14:39:25 [INFO] <FabboCJ> Mmm, can't enchant them it seems
+2015-02-15 14:40:29 [INFO] <WizCraker> now it can mine up to cobolt
+2015-02-15 14:41:01 [INFO] <FabboCJ> Cewl :-)
+2015-02-15 14:42:07 [INFO] <WizCraker> has haste on it
+2015-02-15 14:42:37 [INFO] <FabboCJ> Cool
+2015-02-15 14:43:55 [INFO] <WizCraker> if you make a block it goes faster
+2015-02-15 14:44:10 [INFO] <FabboCJ> Aha
+2015-02-15 14:44:13 [INFO] <WizCraker> nice
+2015-02-15 14:46:00 [INFO] <WizCraker> do you have any flint?
+2015-02-15 14:46:07 [INFO] <FabboCJ> So armor doesn't work like that, but I can make the alloys
+2015-02-15 14:47:25 [INFO] <WizCraker> i think the problem is you have so many entrances these enemies just creep in
+2015-02-15 14:47:35 [INFO] <FabboCJ> True
+2015-02-15 14:48:10 [INFO] <WizCraker> wow that is a lot of flint
+2015-02-15 15:02:05 [INFO] <WizCraker> there i fixed some walking path problems
+2015-02-15 15:02:16 [INFO] <FabboCJ> :-)
+2015-02-15 15:02:22 [INFO] <FabboCJ> What did you want the flint for?
+2015-02-15 15:02:35 [INFO] <WizCraker> and I covered up your transer node.
+2015-02-15 15:02:37 [INFO] <FabboCJ> I should get going and do other stuff than play, but this was fun :-)
+2015-02-15 15:02:47 [INFO] <WizCraker> okay.
+2015-02-15 15:02:55 [INFO] <WizCraker> i better get back to my base.
+2015-02-15 15:02:58 [INFO] <FabboCJ> Hehe, you got yourself a saw?
+2015-02-15 15:03:04 [INFO] <FabboCJ> Welcome back anytime
+2015-02-15 15:03:16 [INFO] <WizCraker> yep a saw is always a good tool to have
+2015-02-15 15:03:18 [INFO] <WizCraker> okay
+2015-02-15 15:04:38 [INFO] <WizCraker> crazy creepers
+2015-02-15 15:04:43 [INFO] <FabboCJ> Got him
+2015-02-15 15:04:45 [INFO] <WizCraker> you can keep the head.
+2015-02-15 15:04:57 [INFO] <FabboCJ> Bet there may be more of those
+2015-02-15 15:12:30 [INFO] WizCraker was shot by Skeleton
+2015-02-15 15:33:16 [INFO] WizCraker was slain by entity.farlanders.Mystic Enderman.name
+2015-02-15 15:33:23 [INFO] <FabboCJ> Hehe :-)
+2015-02-15 15:35:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 15:35:07 [INFO] <WizCraker> yeah he got m
+2015-02-15 15:35:07 [INFO] <WizCraker> yeah he got me.
+2015-02-15 15:56:09 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-15 15:56:09 [INFO] FabboCJ left the game
+2015-02-15 15:56:13 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-15 15:56:17 [INFO] FabboCJ[/37.46.178.157:55324] logged in with entity id 345662 at (476.92450575186524, 10.5, 25.454271780283054)
+2015-02-15 15:56:17 [INFO] FabboCJ joined the game
+2015-02-15 15:58:50 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-15 15:58:50 [INFO] WizCraker left the game
+2015-02-15 18:04:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 18:05:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 19:26:39 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-15 19:26:39 [INFO] FabboCJ left the game
+2015-02-16 09:00:56 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-16 09:01:02 [INFO] WizCraker[/67.209.200.177:65030] logged in with entity id 552331 at (381.11110426771614, 65.0, 574.0429686784825)
+2015-02-16 09:01:02 [INFO] WizCraker joined the game
+2015-02-16 10:00:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-16 10:55:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-16 10:55:25 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-16 10:55:25 [INFO] WizCraker left the game
+2015-02-16 10:55:28 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-16 10:55:33 [INFO] WizCraker[/67.209.200.177:50029] logged in with entity id 573792 at (371.72655276928793, 65.0, 577.300000011921)
+2015-02-16 10:55:33 [INFO] WizCraker joined the game
+2015-02-16 11:19:23 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-16 11:19:23 [INFO] WizCraker left the game
+2015-02-16 12:43:17 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-16 12:43:22 [INFO] WizCraker[/67.209.200.177:52943] logged in with entity id 578457 at (383.6776248492169, 65.0, 570.4911693107257)
+2015-02-16 12:43:22 [INFO] WizCraker joined the game
+2015-02-16 15:21:48 [INFO] WizCraker was corrupted by Taint whilst fighting Skeleton
+2015-02-16 16:03:24 [INFO] WizCraker suffocated in a wall
+2015-02-16 16:05:30 [INFO] WizCraker was slain by entity.farlanders.Ender Golem.name
+2015-02-16 16:20:51 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-16 16:20:51 [INFO] WizCraker left the game
+2015-02-16 21:02:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-17 02:30:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-17 07:21:31 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-17 07:39:56 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-17 07:40:01 [INFO] WizCraker[/67.209.200.177:61585] logged in with entity id 627256 at (373.03198064652287, 65.0, 573.0594931741151)
+2015-02-17 07:40:01 [INFO] WizCraker joined the game
+2015-02-17 08:33:25 [INFO] WizCraker fell from a high place
+2015-02-17 08:34:03 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-17 08:34:03 [INFO] WizCraker left the game
+2015-02-17 08:34:06 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-17 08:34:11 [INFO] WizCraker[/67.209.200.177:61882] logged in with entity id 640755 at (371.25096511832686, 62.0, 567.5122998091392)
+2015-02-17 08:34:11 [INFO] WizCraker joined the game
+2015-02-17 09:15:50 [SEVERE] Reached end of stream for /213.89.201.232
+2015-02-17 09:15:55 [INFO] Siroxone[/213.89.201.232:51299] logged in with entity id 653860 at (61.5, 56.0, 437.5)
+2015-02-17 09:15:55 [INFO] Siroxone joined the game
+2015-02-17 09:16:22 [INFO] <WizCraker> hello
+2015-02-17 09:49:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-17 10:33:49 [INFO] Siroxone was slain by entity.farlanders.Titan.name
+2015-02-17 10:39:48 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-17 10:39:48 [INFO] WizCraker left the game
+2015-02-17 10:44:16 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-17 10:44:21 [INFO] WizCraker[/67.209.200.177:62066] logged in with entity id 751064 at (432.9887216582777, 73.0, 554.4973017150638)
+2015-02-17 10:44:21 [INFO] WizCraker joined the game
+2015-02-17 11:26:24 [INFO] Siroxone lost connection: disconnect.quitting
+2015-02-17 11:26:24 [INFO] Siroxone left the game
+2015-02-17 11:38:40 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-17 11:38:40 [INFO] WizCraker left the game
+2015-02-17 12:03:01 [SEVERE] Reached end of stream for /213.89.201.232
+2015-02-17 12:03:12 [INFO] Siroxone[/213.89.201.232:56055] logged in with entity id 805081 at (61.5, 56.0, 437.5)
+2015-02-17 12:03:12 [INFO] Siroxone joined the game
+2015-02-17 12:18:54 [INFO] Siroxone was slain by Spider
+2015-02-17 21:19:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 17:40:30 [INFO] Siroxone lost connection: disconnect.quitting
+2015-02-18 17:40:30 [INFO] Siroxone left the game
+2015-02-18 18:24:48 [SEVERE] Reached end of stream for /213.89.201.232
+2015-02-18 18:24:55 [INFO] Siroxone[/213.89.201.232:51613] logged in with entity id 886900 at (62.36033110290207, 57.0, 433.843062807858)
+2015-02-18 18:24:55 [INFO] Siroxone joined the game
+2015-02-18 18:53:53 [INFO] Siroxone went up in flames
+2015-02-18 19:06:46 [INFO] jennysun[/85.229.225.202:57515] logged in with entity id 893621 at (477.6213693842381, 11.0, 12.300000011920922)
+2015-02-18 19:06:46 [INFO] jennysun joined the game
+2015-02-18 19:21:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 19:26:08 [INFO] Siroxone was shot by Skeleton
+2015-02-18 19:30:01 [INFO] Siroxone was shot by Skeleton
+2015-02-18 19:42:14 [INFO] Siroxone drowned
+2015-02-18 19:43:50 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-18 19:43:54 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-18 19:43:54 [INFO] FabboCJ [/37.46.178.157:33997] lost connection
+2015-02-18 19:43:57 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-18 19:46:47 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-18 19:46:52 [INFO] FabboCJ[/37.46.178.157:34230] logged in with entity id 983515 at (507.6839299253228, 71.0, 49.204136148428354)
+2015-02-18 19:46:52 [INFO] FabboCJ joined the game
+2015-02-18 19:47:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 19:47:16 [INFO] <FabboCJ> Oh hai :-)
+2015-02-18 19:47:21 [INFO] <FabboCJ> Hej Sirox!
+2015-02-18 19:47:52 [INFO] <FabboCJ> Sirox, snackar du inte? Tryck 't' :-P
+2015-02-18 19:48:06 [INFO] <jennysun> Hej! :)
+2015-02-18 19:48:25 [INFO] <FabboCJ> Tänkte mest komma in och hålla ställningnarna :-P
+2015-02-18 19:48:52 [INFO] <FabboCJ> Sirox, var är du? Jag kan komma förbi med en karta
+2015-02-18 20:06:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:06:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:07:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:08:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:08:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:08:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:09:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:09:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 20:17:00 [INFO] Siroxone was slain by entity.farlanders.Looter.name
+2015-02-18 20:52:22 [INFO] <FabboCJ> Vill du ha det...? Kan göra ditt eget bättre
+2015-02-18 20:52:54 [INFO] <jennysun> sure :) men svärd går inte åt så mycket...
+2015-02-18 20:52:54 [INFO] <FabboCJ> Visst är hjälmen läskig?
+2015-02-18 20:53:33 [INFO] <jennysun> oj, 4 i taget?
+2015-02-18 20:53:39 [INFO] <FabboCJ> 9
+2015-02-18 20:54:36 [INFO] <jennysun> :) snyggt
+2015-02-18 20:54:43 [INFO] <FabboCJ> Jag har två
+2015-02-18 20:56:53 [INFO] <FabboCJ> Anyway, sitter med presentationen i knät fortfarande... :-)
+2015-02-18 21:01:00 [INFO] <FabboCJ> Det kommer aldrig bli sig likt att minea...?
+2015-02-18 21:01:35 [INFO] <jennysun> nope!
+2015-02-18 21:03:00 [INFO] <FabboCJ> Ses på andra sidan... :-*
+2015-02-18 21:08:44 [INFO] FabboCJ was slain by Zombie
+2015-02-18 21:12:36 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-18 21:12:36 [INFO] jennysun left the game
+2015-02-18 21:29:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-18 22:32:36 [INFO] FabboCJ suffocated in a wall
+2015-02-18 22:36:35 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-18 22:36:35 [INFO] FabboCJ left the game
+2015-02-19 05:45:08 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-19 05:45:18 [INFO] WizCraker[/67.209.200.177:50824] logged in with entity id 1301090 at (385.57889862640855, 65.0, 570.8045928994516)
+2015-02-19 05:45:18 [INFO] WizCraker joined the game
+2015-02-19 05:46:10 [INFO] <WizCraker> hello
+2015-02-19 06:07:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 06:07:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 06:18:54 [INFO] WizCraker was burnt to a crisp whilst fighting Ghast
+2015-02-19 06:19:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 06:19:59 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-19 06:19:59 [INFO] WizCraker left the game
+2015-02-19 06:20:03 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-19 06:20:08 [INFO] WizCraker[/67.209.200.177:52091] logged in with entity id 1323470 at (383.16677831081466, 65.0, 574.0712943850456)
+2015-02-19 06:20:08 [INFO] WizCraker joined the game
+2015-02-19 06:20:37 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-19 06:20:37 [INFO] WizCraker left the game
+2015-02-19 06:50:07 [INFO] Siroxone lost connection: disconnect.genericReason
+2015-02-19 06:50:07 [INFO] Siroxone left the game
+2015-02-19 07:04:50 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-19 07:04:56 [INFO] WizCraker[/67.209.200.177:53975] logged in with entity id 1324381 at (382.2007369340021, 65.0, 573.449498322649)
+2015-02-19 07:04:56 [INFO] WizCraker joined the game
+2015-02-19 07:09:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 07:24:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 08:12:28 [INFO] WizCraker was shot by Skeleton
+2015-02-19 08:12:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 08:13:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 08:29:24 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-19 08:29:24 [INFO] WizCraker left the game
+2015-02-19 08:29:28 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-19 08:29:34 [INFO] WizCraker[/67.209.200.177:54109] logged in with entity id 1374614 at (381.69999998807907, 46.96636804164124, 582.7893684900815)
+2015-02-19 08:29:34 [INFO] WizCraker joined the game
+2015-02-19 08:29:56 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-19 08:29:56 [INFO] WizCraker left the game
+2015-02-19 08:30:01 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-19 08:30:07 [INFO] WizCraker[/67.209.200.177:54115] logged in with entity id 1374848 at (381.61159705440514, 46.96636804164124, 582.9887032615703)
+2015-02-19 08:30:07 [INFO] WizCraker joined the game
+2015-02-19 09:09:21 [INFO] WizCraker was slain by entity.farlanders.Mystic Enderman.name
+2015-02-19 09:20:38 [INFO] WizCraker was slain by Taint Swarm
+2015-02-19 09:21:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 10:10:34 [WARNING] WizCraker moved wrongly!
+2015-02-19 10:11:56 [INFO] WizCraker blew up
+2015-02-19 12:32:30 [INFO] WizCraker was slain by Zombie
+2015-02-19 13:15:33 [INFO] WizCraker was slain by Zombie
+2015-02-19 13:31:52 [INFO] WizCraker was slain by Zombie
+2015-02-19 13:47:47 [INFO] WizCraker was slain by Zombie
+2015-02-19 14:45:44 [INFO] WizCraker was fireballed by Blaze
+2015-02-19 14:51:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-19 15:25:47 [INFO] WizCraker was fireballed by Blaze
+2015-02-19 15:50:08 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-19 15:50:08 [INFO] WizCraker left the game
+2015-02-20 17:48:58 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-20 17:48:59 [INFO] jennysun [/85.229.225.202:53528] lost connection
+2015-02-20 17:49:23 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-20 17:49:23 [INFO] jennysun [/85.229.225.202:53533] lost connection
+2015-02-20 17:49:43 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-20 17:49:43 [INFO] jennysun [/85.229.225.202:53535] lost connection
+2015-02-20 20:32:19 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-20 20:32:24 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-20 20:32:24 [INFO] FabboCJ [/37.46.178.157:37958] lost connection
+2015-02-20 20:32:27 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-20 20:34:25 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-20 20:34:30 [INFO] FabboCJ[/37.46.178.157:38049] logged in with entity id 1644335 at (-71.12923142059243, 64.0, 199.23345352022776)
+2015-02-20 20:34:30 [INFO] FabboCJ joined the game
+2015-02-20 22:29:34 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-20 22:29:34 [INFO] FabboCJ left the game
+2015-02-21 03:01:25 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-21 03:01:31 [INFO] FabboCJ[/37.46.178.157:49995] logged in with entity id 1721646 at (507.561293430568, 71.0, 51.98673644013845)
+2015-02-21 03:01:31 [INFO] FabboCJ joined the game
+2015-02-21 03:57:20 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-21 03:57:20 [INFO] FabboCJ left the game
+2015-02-21 04:16:26 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-21 04:16:35 [INFO] WizCraker[/67.209.200.177:59423] logged in with entity id 1765413 at (383.67478383393757, 65.0, 570.5208677830423)
+2015-02-21 04:16:35 [INFO] WizCraker joined the game
+2015-02-21 04:35:42 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-21 04:35:42 [INFO] WizCraker left the game
+2015-02-21 04:35:45 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-21 04:35:54 [INFO] WizCraker[/67.209.200.177:59504] logged in with entity id 1778162 at (688.4235297793773, 64.0, 636.2910834894492)
+2015-02-21 04:35:54 [INFO] WizCraker joined the game
+2015-02-21 04:36:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-21 04:50:24 [INFO] WizCraker was burnt to a crisp whilst fighting Blaze
+2015-02-21 04:50:39 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-21 04:50:39 [INFO] WizCraker left the game
+2015-02-22 03:29:01 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-22 03:29:07 [INFO] WizCraker[/67.209.200.177:62311] logged in with entity id 1794087 at (882.5, 79.0, 739.5)
+2015-02-22 03:29:07 [INFO] WizCraker joined the game
+2015-02-22 05:33:46 [INFO] WizCraker was fireballed by Blaze
+2015-02-22 05:38:37 [INFO] WizCraker fell from a high place
+2015-02-22 06:03:37 [INFO] WizCraker was fireballed by Blaze
+2015-02-22 07:55:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 07:55:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 07:56:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 08:09:16 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-22 08:09:16 [INFO] WizCraker left the game
+2015-02-22 08:09:19 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-22 08:09:23 [INFO] WizCraker[/67.209.200.177:62973] logged in with entity id 2040514 at (889.3108138855308, 70.0, 748.4978605383104)
+2015-02-22 08:09:23 [INFO] WizCraker joined the game
+2015-02-22 08:25:45 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-22 08:25:45 [INFO] WizCraker lost connection: disconnect.endOfStream
+2015-02-22 08:25:45 [INFO] WizCraker left the game
+2015-02-22 08:28:16 [SEVERE] Reached end of stream for /67.209.200.177
+2015-02-22 08:28:20 [INFO] WizCraker[/67.209.200.177:63408] logged in with entity id 2057940 at (885.6652212598691, 60.0, 743.1321073333604)
+2015-02-22 08:28:20 [INFO] WizCraker joined the game
+2015-02-22 08:48:02 [INFO] WizCraker was killed by Mana Elemental using magic
+2015-02-22 09:20:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 09:21:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 09:27:39 [INFO] WizCraker lost connection: disconnect.quitting
+2015-02-22 09:27:39 [INFO] WizCraker left the game
+2015-02-22 22:14:00 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-22 22:14:05 [INFO] FabboCJ[/37.46.178.157:51939] logged in with entity id 2103536 at (208.38388888871393, 70.0, 736.6178088902561)
+2015-02-22 22:14:05 [INFO] FabboCJ joined the game
+2015-02-22 23:20:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-23 00:15:33 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-23 00:15:33 [INFO] FabboCJ left the game
+2015-02-23 17:45:39 [INFO] jennysun[/85.229.225.202:55220] logged in with entity id 2152641 at (483.69999998807907, 10.0, 25.699999988079067)
+2015-02-23 17:45:39 [INFO] jennysun joined the game
+2015-02-23 20:06:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-23 21:21:46 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-23 21:21:46 [INFO] jennysun left the game
+2015-02-24 18:06:13 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-24 18:06:20 [INFO] FabboCJ[/85.229.225.202:50025] logged in with entity id 2206764 at (466.0853149732449, 11.0, 8.974796964127275)
+2015-02-24 18:06:20 [INFO] FabboCJ joined the game
+2015-02-24 18:07:07 [INFO] jennysun[/85.229.225.202:63439] logged in with entity id 2207595 at (483.69999998807907, 10.0, 25.69999998807907)
+2015-02-24 18:07:07 [INFO] jennysun joined the game
+2015-02-24 18:08:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:09:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:09:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:10:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:10:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:15:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-24 18:27:30 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-24 18:27:30 [INFO] FabboCJ left the game
+2015-02-24 18:36:19 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-24 18:36:43 [INFO] FabboCJ[/85.229.225.202:50713] logged in with entity id 2225863 at (478.31513726153236, 9.0, 29.010158275526663)
+2015-02-24 18:36:43 [INFO] FabboCJ joined the game
+2015-02-24 20:53:33 [INFO] jennysun was slain by Zombie Pigman
+2015-02-24 20:55:03 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-24 20:55:03 [INFO] jennysun left the game
+2015-02-24 21:30:35 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-24 21:30:35 [INFO] FabboCJ left the game
+2015-02-24 21:37:31 [SEVERE] Reached end of stream for /85.229.225.202
+2015-02-24 21:37:36 [INFO] FabboCJ[/85.229.225.202:51406] logged in with entity id 2357254 at (479.9643891529082, 9.0, 24.958670211044378)
+2015-02-24 21:37:36 [INFO] FabboCJ joined the game
+2015-02-24 21:40:23 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-24 21:40:23 [INFO] FabboCJ left the game
+2015-02-25 08:16:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-26 19:43:39 [INFO] jennysun[/85.229.225.202:51484] logged in with entity id 2358729 at (483.6549546767496, 10.0, 25.170349066343107)
+2015-02-26 19:43:39 [INFO] jennysun joined the game
+2015-02-26 21:07:05 [INFO] jennysun went up in flames
+2015-02-26 21:27:54 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-26 21:27:54 [INFO] jennysun left the game
+2015-02-27 07:54:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-27 19:59:20 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-27 19:59:29 [INFO] FabboCJ[/37.46.178.157:49396] logged in with entity id 2412214 at (475.1526418083238, 10.0, 27.034127693249072)
+2015-02-27 19:59:29 [INFO] FabboCJ joined the game
+2015-02-27 21:15:24 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-27 21:15:24 [INFO] FabboCJ left the game
+2015-02-27 21:24:56 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-27 21:25:05 [INFO] jennysun[/37.46.178.157:50348] logged in with entity id 2431718 at (-387.76249998807907, 63.0, 356.36554884801967)
+2015-02-27 21:25:05 [INFO] jennysun joined the game
+2015-02-27 21:41:02 [WARNING] jennysun moved wrongly!
+2015-02-27 21:41:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-27 22:20:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-27 22:37:18 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-27 22:37:34 [INFO] FabboCJ[/37.46.178.157:49494] logged in with entity id 2486071 at (478.032830645785, 9.0, 28.432921107015442)
+2015-02-27 22:37:34 [INFO] FabboCJ joined the game
+2015-02-27 22:41:45 [INFO] jennysun burned to death
+2015-02-27 22:42:23 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-27 22:42:23 [INFO] FabboCJ left the game
+2015-02-27 22:42:46 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-27 22:42:46 [INFO] jennysun left the game
+2015-02-27 22:49:29 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-27 22:51:49 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-27 22:51:54 [INFO] FabboCJ[/37.46.178.157:50778] logged in with entity id 2499962 at (481.69999998807907, 9.0, 22.85564864214342)
+2015-02-27 22:51:54 [INFO] FabboCJ joined the game
+2015-02-27 23:16:03 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-27 23:16:03 [INFO] FabboCJ left the game
+2015-02-27 23:16:49 [INFO] /192.168.1.106:49727 lost connection
+2015-02-27 23:17:51 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-27 23:17:51 [INFO] FabboCJ [/192.168.1.106:49731] lost connection
+2015-02-28 10:41:05 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 10:41:15 [INFO] FabboCJ[/37.46.178.157:53121] logged in with entity id 2513173 at (-2.699999988079073, 17.0, -562.9879562741366)
+2015-02-28 10:41:15 [INFO] FabboCJ joined the game
+2015-02-28 10:52:49 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-28 10:52:49 [INFO] FabboCJ left the game
+2015-02-28 10:53:41 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 11:02:13 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 11:03:04 [INFO] FabboCJ[/192.168.1.106:49881] logged in with entity id 2519424 at (-40.7116327039603, 11.0, -494.48708515016085)
+2015-02-28 11:03:04 [INFO] FabboCJ joined the game
+2015-02-28 11:06:58 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-28 11:06:58 [INFO] FabboCJ left the game
+2015-02-28 11:12:55 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 11:13:12 [INFO] jennysun[/37.46.178.157:53342] logged in with entity id 2521938 at (-103.5, 64.0, 263.5)
+2015-02-28 11:13:12 [INFO] jennysun joined the game
+2015-02-28 11:20:49 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 11:22:09 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 11:24:26 [INFO] FabboCJ [/37.46.178.157:50308] lost connection
+2015-02-28 11:24:39 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 11:24:39 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 11:24:44 [INFO] FabboCJ[/37.46.178.157:50312] logged in with entity id 2528024 at (-97.69999998807907, 13.0, -491.3171725521505)
+2015-02-28 11:24:44 [INFO] FabboCJ joined the game
+2015-02-28 11:42:17 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-02-28 11:42:17 [INFO] FabboCJ left the game
+2015-02-28 12:02:29 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 12:02:29 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 12:03:08 [INFO] FabboCJ[/37.46.178.157:49580] logged in with entity id 2561082 at (-40.89769160243418, 11.0, -527.3899776184064)
+2015-02-28 12:03:08 [INFO] FabboCJ joined the game
+2015-02-28 12:24:55 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-02-28 12:24:55 [INFO] FabboCJ left the game
+2015-02-28 12:32:56 [SEVERE] Reached end of stream for /192.168.1.106
+2015-02-28 12:32:56 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 13:45:51 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 13:46:33 [INFO] FabboCJ[/37.46.178.157:50002] logged in with entity id 2670718 at (-86.30000001192094, 5.0, -538.4555007718812)
+2015-02-28 13:46:33 [INFO] FabboCJ joined the game
+2015-02-28 13:49:57 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-28 13:49:57 [INFO] FabboCJ left the game
+2015-02-28 13:54:16 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 13:54:40 [INFO] FabboCJ[/37.46.178.157:50053] logged in with entity id 2677290 at (-86.30000001192094, 5.0, -538.4555007718812)
+2015-02-28 13:54:40 [INFO] FabboCJ joined the game
+2015-02-28 14:07:59 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-02-28 14:07:59 [INFO] FabboCJ left the game
+2015-02-28 14:14:05 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 14:14:11 [INFO] FabboCJ[/37.46.178.157:50106] logged in with entity id 2695066 at (-88.48771047510726, 5.0, -547.5173283841934)
+2015-02-28 14:14:11 [INFO] FabboCJ joined the game
+2015-02-28 15:08:30 [WARNING] FabboCJ moved wrongly!
+2015-02-28 15:11:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-28 15:14:55 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-02-28 15:14:55 [INFO] FabboCJ left the game
+2015-02-28 15:22:33 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 15:23:01 [INFO] FabboCJ[/37.46.178.157:50271] logged in with entity id 2774058 at (475.4819367100741, 9.0, 25.6513129277552)
+2015-02-28 15:23:01 [INFO] FabboCJ joined the game
+2015-02-28 15:25:21 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-02-28 15:25:21 [INFO] FabboCJ left the game
+2015-02-28 15:36:06 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 15:37:59 [INFO] jennysun lost connection: disconnect.quitting
+2015-02-28 15:37:59 [INFO] jennysun left the game
+2015-02-28 18:05:15 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 18:05:20 [INFO] FabboCJ[/37.46.178.157:54840] logged in with entity id 2788130 at (477.12001214867183, 9.0, 26.508092994019)
+2015-02-28 18:05:20 [INFO] FabboCJ joined the game
+2015-02-28 19:12:55 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-28 19:12:55 [INFO] FabboCJ left the game
+2015-02-28 21:54:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-28 23:25:45 [SEVERE] Reached end of stream for /37.46.178.157
+2015-02-28 23:25:50 [INFO] FabboCJ[/37.46.178.157:56198] logged in with entity id 2846445 at (513.6999999880791, 86.0, 56.2224985138251)
+2015-02-28 23:25:50 [INFO] FabboCJ joined the game
+2015-02-28 23:55:17 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-02-28 23:55:17 [INFO] FabboCJ left the game
+2015-03-01 12:54:56 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-01 12:55:01 [INFO] FabboCJ[/37.46.178.157:57486] logged in with entity id 2870110 at (472.83283767681695, 9.0, 29.419300517834788)
+2015-03-01 12:55:01 [INFO] FabboCJ joined the game
+2015-03-01 13:26:36 [INFO] FabboCJ burned to death
+2015-03-01 14:56:34 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-01 14:56:34 [INFO] FabboCJ left the game
+2015-03-03 20:39:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-03 21:07:34 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-03 21:07:37 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-03 21:07:37 [INFO] FabboCJ [/37.46.178.157:53156] lost connection
+2015-03-03 21:07:44 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-03 21:10:16 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-03 21:10:43 [INFO] FabboCJ[/37.46.178.157:53311] logged in with entity id 2962007 at (52.16461164874723, 84.0, -356.07234492550776)
+2015-03-03 21:10:43 [INFO] FabboCJ joined the game
+2015-03-03 21:13:06 [INFO] jennysun[/37.46.178.157:60894] logged in with entity id 2962692 at (476.86779139360726, 9.0, 24.003756921178677)
+2015-03-03 21:13:06 [INFO] jennysun joined the game
+2015-03-03 23:12:50 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-03 23:12:50 [INFO] FabboCJ left the game
+2015-03-03 23:18:23 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-03 23:18:23 [INFO] jennysun left the game
+2015-03-04 21:26:54 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-04 21:27:01 [INFO] FabboCJ[/37.46.178.157:56013] logged in with entity id 3072837 at (-96.51501280285243, 5.0, -539.7520725335918)
+2015-03-04 21:27:01 [INFO] FabboCJ joined the game
+2015-03-04 22:20:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-04 22:21:13 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-04 22:21:13 [INFO] FabboCJ left the game
+2015-03-04 22:30:07 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-04 22:30:28 [INFO] FabboCJ[/37.46.178.157:56413] logged in with entity id 3100531 at (52.72028497003387, 53.0, -385.65545868019814)
+2015-03-04 22:30:28 [INFO] FabboCJ joined the game
+2015-03-04 22:49:25 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-04 22:49:25 [INFO] FabboCJ left the game
+2015-03-06 01:10:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-06 09:33:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-07 19:33:53 [SEVERE] Reached end of stream for /85.229.225.202
+2015-03-07 19:34:04 [INFO] FabboCJ[/85.229.225.202:50529] logged in with entity id 3122432 at (473.7884242538556, 9.0, 26.156631740803526)
+2015-03-07 19:34:04 [INFO] FabboCJ joined the game
+2015-03-07 19:44:34 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-03-07 19:44:34 [INFO] FabboCJ left the game
+2015-03-07 19:45:17 [INFO] FabboCJ[/85.229.225.202:50890] logged in with entity id 3133316 at (485.40483027584924, 7.0, -5.649812737141264)
+2015-03-07 19:45:17 [INFO] FabboCJ joined the game
+2015-03-07 19:45:19 [INFO] /85.229.225.202:50889 lost connection
+2015-03-07 19:55:35 [INFO] jennysun[/85.229.225.202:49216] logged in with entity id 3139674 at (-104.69999998807907, 5.0, -537.6899029966444)
+2015-03-07 19:55:35 [INFO] jennysun joined the game
+2015-03-07 20:05:30 [INFO] jennysun was shot by Skeleton
+2015-03-07 20:16:07 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-07 20:16:07 [INFO] jennysun left the game
+2015-03-07 20:53:10 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-07 20:53:10 [INFO] FabboCJ left the game
+2015-03-08 15:43:11 [INFO] jennysun[/85.229.225.202:56023] logged in with entity id 3196205 at (473.28303853629774, 9.0, 24.93250384061897)
+2015-03-08 15:43:11 [INFO] jennysun joined the game
+2015-03-08 16:10:01 [SEVERE] Reached end of stream for /85.229.225.202
+2015-03-08 16:10:09 [INFO] FabboCJ[/85.229.225.202:60198] logged in with entity id 3214979 at (478.14944685633964, 11.0, 13.705980766273363)
+2015-03-08 16:10:09 [INFO] FabboCJ joined the game
+2015-03-08 18:08:25 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-08 18:08:25 [INFO] FabboCJ left the game
+2015-03-08 18:13:18 [SEVERE] Reached end of stream for /85.229.225.202
+2015-03-08 18:13:23 [INFO] FabboCJ[/85.229.225.202:61375] logged in with entity id 3342094 at (-95.76461219918752, 18.0, -536.6999999880791)
+2015-03-08 18:13:23 [INFO] FabboCJ joined the game
+2015-03-08 18:18:35 [INFO] jennysun was shot by Skeleton
+2015-03-08 18:33:00 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-08 18:33:00 [INFO] jennysun left the game
+2015-03-08 18:41:34 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-08 18:41:34 [INFO] FabboCJ left the game
+2015-03-08 21:19:51 [INFO] jennysun[/37.46.178.157:56163] logged in with entity id 3360264 at (63.799668328238155, 80.0, -350.78705939939675)
+2015-03-08 21:19:51 [INFO] jennysun joined the game
+2015-03-08 21:21:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-08 21:29:29 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-08 21:29:36 [INFO] FabboCJ[/37.46.178.157:62216] logged in with entity id 3365730 at (-94.80129747247365, 28.0, -536.7211468652426)
+2015-03-08 21:29:36 [INFO] FabboCJ joined the game
+2015-03-08 21:35:17 [WARNING] jennysun moved wrongly!
+2015-03-08 21:35:19 [INFO] jennysun was shot by Skeleton
+2015-03-08 21:54:32 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-08 21:54:32 [INFO] FabboCJ left the game
+2015-03-08 21:58:50 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-08 21:58:50 [INFO] /37.46.178.157:62451 lost connection
+2015-03-08 21:58:55 [INFO] FabboCJ[/37.46.178.157:62452] logged in with entity id 3384666 at (-93.72058786831926, 13.5, -539.1339799534986)
+2015-03-08 21:58:55 [INFO] FabboCJ joined the game
+2015-03-09 00:01:42 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-09 00:01:42 [INFO] jennysun left the game
+2015-03-09 00:04:24 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-09 00:04:24 [INFO] FabboCJ left the game
+2015-03-10 01:53:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-10 16:34:43 [INFO] jennysun[/85.229.225.202:56445] logged in with entity id 3466064 at (474.23750001192093, 9.0, 22.300000011920915)
+2015-03-10 16:34:43 [INFO] jennysun joined the game
+2015-03-10 16:51:48 [INFO] jennysun was shot by Skeleton
+2015-03-10 18:27:28 [INFO] jennysun lost connection: disconnect.genericReason
+2015-03-10 18:27:28 [INFO] jennysun left the game
+2015-03-10 20:05:46 [INFO] jennysun[/85.229.225.202:56671] logged in with entity id 3513035 at (84.61730564923455, 32.0, -260.12746961955565)
+2015-03-10 20:05:46 [INFO] jennysun joined the game
+2015-03-10 20:46:57 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-10 20:46:57 [INFO] jennysun left the game
+2015-03-12 20:57:02 [INFO] jennysun[/85.229.225.202:61629] logged in with entity id 3536527 at (474.2502179128203, 9.0, 26.531561413933314)
+2015-03-12 20:57:02 [INFO] jennysun joined the game
+2015-03-12 21:57:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-12 22:03:02 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-12 22:03:02 [INFO] jennysun left the game
+2015-03-12 23:29:46 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-12 23:29:52 [INFO] FabboCJ[/37.46.178.157:49605] logged in with entity id 3606712 at (478.49009935534247, 11.0, 14.061126536608931)
+2015-03-12 23:29:52 [INFO] FabboCJ joined the game
+2015-03-13 01:20:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-13 01:20:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-13 01:49:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-13 02:05:23 [INFO] FabboCJ tried to swim in lava to escape Firebat
+2015-03-13 02:05:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-13 02:06:06 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-13 02:06:06 [INFO] FabboCJ left the game
+2015-03-13 08:39:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-13 22:14:05 [INFO] jennysun[/85.229.225.202:62130] logged in with entity id 3687456 at (481.30000001192093, 9.0, 26.015676716473585)
+2015-03-13 22:14:05 [INFO] jennysun joined the game
+2015-03-13 23:39:09 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-13 23:39:09 [INFO] jennysun left the game
+2015-03-14 11:57:14 [INFO] jennysun[/85.229.225.202:49826] logged in with entity id 3722228 at (-93.4677930216939, 5.0, -549.4164410739938)
+2015-03-14 11:57:14 [INFO] jennysun joined the game
+2015-03-14 11:57:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 12:19:40 [SEVERE] Reached end of stream for /193.235.58.10
+2015-03-14 12:19:53 [INFO] FabboCJ[/193.235.58.10:50659] logged in with entity id 3733570 at (43.30000001192093, 48.0, -380.45946281505235)
+2015-03-14 12:19:53 [INFO] FabboCJ joined the game
+2015-03-14 12:20:12 [INFO] <FabboCJ> Hej! ;.)
+2015-03-14 12:29:00 [INFO] <FabboCJ> Loggar in lite för att rensa skallen, står AFK :-*
+2015-03-14 12:41:56 [INFO] <jennysun> ok
+2015-03-14 13:38:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 13:45:09 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-14 13:45:09 [INFO] jennysun left the game
+2015-03-14 13:50:30 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-14 13:50:30 [INFO] FabboCJ left the game
+2015-03-14 14:52:10 [INFO] jennysun[/85.229.225.202:53169] logged in with entity id 3772025 at (-51.69999998807906, 53.0, -7.699999988079074)
+2015-03-14 14:52:10 [INFO] jennysun joined the game
+2015-03-14 14:55:42 [WARNING] jennysun moved wrongly!
+2015-03-14 14:56:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 14:57:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 14:58:23 [INFO] jennysun walked into fire whilst fighting Firebat
+2015-03-14 15:10:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:11:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:11:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:11:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:11:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:12:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:12:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:12:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:13:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:13:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:13:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:14:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:14:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:14:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:14:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:15:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:15:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:16:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:16:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:16:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:17:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:17:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:17:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:18:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:18:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:18:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:19:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:19:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:19:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:19:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:20:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:20:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:21:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:21:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:22:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:22:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:22:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:23:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:23:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:23:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:24:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:25:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:26:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:26:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:27:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:28:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:30:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:30:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:32:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:32:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:33:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:33:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:34:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:34:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:35:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:35:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:36:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:36:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 15:38:36 [SEVERE] Reached end of stream for /85.229.225.202
+2015-03-14 15:40:05 [SEVERE] Reached end of stream for /85.229.225.202
+2015-03-14 15:43:22 [INFO] jennysun [/85.229.225.202:54077] lost connection
+2015-03-14 15:43:22 [INFO] jennysun lost connection: disconnect.endOfStream
+2015-03-14 15:43:22 [INFO] jennysun left the game
+2015-03-14 15:43:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 16:43:41 [INFO] jennysun[/85.229.225.202:55026] logged in with entity id 3875124 at (-27.0, 38.00999999046324, 27.0)
+2015-03-14 16:43:41 [INFO] jennysun joined the game
+2015-03-14 18:38:57 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-14 18:38:57 [INFO] jennysun left the game
+2015-03-14 23:36:25 [INFO] jennysun[/85.229.225.202:55272] logged in with entity id 3957332 at (-84.30000001192091, 6.0, -539.2095626970868)
+2015-03-14 23:36:25 [INFO] jennysun joined the game
+2015-03-14 23:37:29 [INFO] jennysun was slain by Cave Spider
+2015-03-14 23:55:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-15 01:29:45 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-15 01:29:45 [INFO] jennysun left the game
+2015-03-15 02:22:35 [SEVERE] Reached end of stream for /193.235.58.10
+2015-03-15 02:22:40 [INFO] FabboCJ[/193.235.58.10:45296] logged in with entity id 3974708 at (-102.61022846735818, 5.0, -537.6565100444321)
+2015-03-15 02:22:40 [INFO] FabboCJ joined the game
+2015-03-15 02:43:48 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-15 02:43:48 [INFO] FabboCJ left the game
+2015-03-15 21:09:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-16 08:14:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-18 11:36:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-18 19:02:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-21 15:03:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-23 01:01:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-25 21:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-25 23:33:24 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-25 23:33:29 [INFO] FabboCJ[/37.46.178.157:59519] logged in with entity id 3981712 at (131.00831309411484, 71.0, -170.23271784691124)
+2015-03-25 23:33:29 [INFO] FabboCJ joined the game
+2015-03-25 23:33:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-26 00:05:24 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-26 00:05:24 [INFO] FabboCJ left the game
+2015-03-26 08:50:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-26 12:18:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-27 08:17:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-28 01:12:29 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-28 01:12:34 [INFO] FabboCJ[/37.46.178.157:62309] logged in with entity id 3990295 at (519.3000000119209, 69.0, 51.83597592032839)
+2015-03-28 01:12:34 [INFO] FabboCJ joined the game
+2015-03-28 02:22:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-28 02:22:56 [INFO] FabboCJ fell from a high place
+2015-03-28 03:17:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-28 03:28:48 [INFO] FabboCJ was slain by Cave Spider
+2015-03-28 03:29:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-28 04:48:34 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-28 04:48:34 [INFO] FabboCJ left the game
+2015-03-28 07:50:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-28 12:43:19 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-28 12:43:24 [INFO] FabboCJ[/37.46.178.157:50034] logged in with entity id 4055978 at (480.26221008857016, 9.0, 21.415768934160436)
+2015-03-28 12:43:24 [INFO] FabboCJ joined the game
+2015-03-28 15:13:50 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-03-28 15:13:50 [INFO] FabboCJ left the game
+2015-03-28 22:06:34 [INFO] jennysun[/85.229.225.202:54277] logged in with entity id 4090573 at (-84.37459133093246, 5.0, -544.6999999880791)
+2015-03-28 22:06:34 [INFO] jennysun joined the game
+2015-03-28 23:07:36 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-28 23:07:36 [INFO] jennysun left the game
+2015-03-29 08:17:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 11:12:32 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 11:12:37 [INFO] FabboCJ[/37.46.178.157:53578] logged in with entity id 4110711 at (251.30336512796538, 31.69999998807907, -120.19663487203464)
+2015-03-29 11:12:37 [INFO] FabboCJ joined the game
+2015-03-29 11:13:54 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-03-29 11:13:54 [INFO] FabboCJ left the game
+2015-03-29 11:35:59 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 11:36:04 [INFO] FabboCJ[/37.46.178.157:53738] logged in with entity id 4111632 at (250.12594362477475, 31.69999998807907, -120.5)
+2015-03-29 11:36:04 [INFO] FabboCJ joined the game
+2015-03-29 12:45:15 [INFO] jennysun[/85.229.225.202:55426] logged in with entity id 4124803 at (474.7979970556724, 9.0, 27.166929392717044)
+2015-03-29 12:45:15 [INFO] jennysun joined the game
+2015-03-29 12:45:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 12:45:34 [INFO] <FabboCJ> Hej älsklingen :-*
+2015-03-29 12:45:51 [INFO] <FabboCJ> Vi kan mötas i nether
+2015-03-29 12:46:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 12:46:39 [INFO] <jennysun> håller påmed setup ett par min...
+2015-03-29 12:46:47 [INFO] <FabboCJ> Ingen fara :-)
+2015-03-29 12:52:30 [INFO] <jennysun> tvn krånglade... men nu funkaar det
+2015-03-29 12:52:47 [INFO] <FabboCJ> Ok! :-*
+2015-03-29 12:55:41 [INFO] <FabboCJ> Jag väntar i nether :-)
+2015-03-29 12:56:03 [INFO] jennysun lost connection: disconnect.genericReason
+2015-03-29 12:56:03 [INFO] jennysun left the game
+2015-03-29 12:56:16 [INFO] jennysun[/85.229.225.202:55454] logged in with entity id 4130167 at (465.73688102003706, 11.0, 8.060003719223253)
+2015-03-29 12:56:16 [INFO] jennysun joined the game
+2015-03-29 12:58:34 [INFO] <FabboCJ> Strular det?
+2015-03-29 12:59:27 [INFO] <jennysun> som fn
+2015-03-29 12:59:33 [INFO] <FabboCJ> :-(
+2015-03-29 12:59:39 [INFO] <jennysun> 3fps
+2015-03-29 13:00:04 [INFO] <FabboCJ> Oj, du får fixa det först eller nåt... :-*
+2015-03-29 13:04:51 [INFO] <jennysun> ca 10 nu... har slut på ideer om va'd jag kan ändra mer...
+2015-03-29 13:05:12 [INFO] <FabboCJ> Starta om datorn?
+2015-03-29 13:05:38 [INFO] <jennysun> hihi, tänktente på det..
+2015-03-29 13:05:43 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-29 13:05:43 [INFO] jennysun left the game
+2015-03-29 13:16:54 [INFO] jennysun[/85.229.225.202:49414] logged in with entity id 4135730 at (467.51311416285506, 11.0, 12.829753740920497)
+2015-03-29 13:16:54 [INFO] jennysun joined the game
+2015-03-29 13:17:09 [INFO] <FabboCJ> Jag har lite lagg med...
+2015-03-29 13:17:20 [INFO] <FabboCJ> Skillnad för dig nu?
+2015-03-29 13:22:57 [INFO] <FabboCJ> BRB
+2015-03-29 13:23:01 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-29 13:23:01 [INFO] FabboCJ left the game
+2015-03-29 13:36:44 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 13:36:48 [INFO] FabboCJ[/37.46.178.157:41050] logged in with entity id 4141851 at (55.69999998807905, 83.0, -69.69999998807907)
+2015-03-29 13:36:48 [INFO] FabboCJ joined the game
+2015-03-29 13:37:28 [INFO] <FabboCJ> Hej igen :-)
+2015-03-29 13:37:34 [INFO] <jennysun> hej
+2015-03-29 13:37:46 [INFO] <FabboCJ> Var är du?
+2015-03-29 13:38:17 [INFO] <jennysun> hemma
+2015-03-29 13:38:23 [INFO] <jennysun> i köket
+2015-03-29 13:38:45 [INFO] <FabboCJ> Ok :-)
+2015-03-29 13:41:44 [INFO] <jennysun> brb
+2015-03-29 13:41:50 [INFO] <FabboCJ> NP
+2015-03-29 13:42:23 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-29 13:42:23 [INFO] FabboCJ left the game
+2015-03-29 13:44:14 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 13:44:19 [INFO] FabboCJ[/37.46.178.157:41177] logged in with entity id 4145125 at (27.964596679040273, 78.0, -54.502487302358986)
+2015-03-29 13:44:19 [INFO] FabboCJ joined the game
+2015-03-29 13:44:45 [INFO] <FabboCJ> Nu har jag ljud med :-)
+2015-03-29 13:44:53 [INFO] <FabboCJ> Sitter vid skrivbordet...
+2015-03-29 13:49:06 [INFO] <jennysun> tebax  med mellisknäckemackor...
+2015-03-29 13:49:11 [INFO] <FabboCJ> :-)
+2015-03-29 13:49:23 [INFO] <FabboCJ> Jag hittar inte min musmatta, menmen... :-)
+2015-03-29 13:54:53 [INFO] <FabboCJ> En hiss, sen är jag tillbaks vid hemma
+2015-03-29 13:59:31 [INFO] <FabboCJ> Gröna byxor?! :-) Vad har du för chestplate?
+2015-03-29 14:00:16 [INFO] <jennysun> carmot :)
+2015-03-29 14:00:23 [INFO] <FabboCJ> Ohhhh... :-)
+2015-03-29 14:01:46 [INFO] <FabboCJ> Aww! Mat :-)
+2015-03-29 14:01:56 [INFO] <jennysun> en magtröja liksom ;)
+2015-03-29 14:02:05 [INFO] <FabboCJ> Can I see you in sexy copper top? :-)
+2015-03-29 14:02:33 [INFO] <FabboCJ> Nice, så ser man byxorna bättre! :-P
+2015-03-29 14:02:45 [INFO] <FabboCJ> Ooops! :-P
+2015-03-29 14:03:19 [INFO] <jennysun> har du solrosfrön?
+2015-03-29 14:03:28 [INFO] <FabboCJ> Hmm... canola...
+2015-03-29 14:03:50 [INFO] <FabboCJ> Nice! :-)
+2015-03-29 14:04:09 [INFO] <jennysun> smaksätt med nästan viken frukt som helst...
+2015-03-29 14:04:09 [INFO] <FabboCJ> Mina italienska ponnys...
+2015-03-29 14:04:26 [INFO] <FabboCJ> (fast det är syntetiskt, rotten meat som behandlats till läder
+2015-03-29 14:04:30 [INFO] <jennysun> coola
+2015-03-29 14:08:13 [INFO] <FabboCJ> Går ut till farmen :-*
+2015-03-29 14:08:30 [INFO] <jennysun> tar du mjölk med in?
+2015-03-29 14:08:35 [INFO] <FabboCJ> Absolut :-)
+2015-03-29 14:12:36 [INFO] <jennysun> har vi kokos därute?
+2015-03-29 14:12:59 [INFO] <FabboCJ> Näe... kanske kan fixa det
+2015-03-29 14:13:04 [INFO] <FabboCJ> Har vi några nötter?
+2015-03-29 14:13:13 [INFO] <FabboCJ> Hela, som jag inte slagit upp? :-/
+2015-03-29 14:22:25 [INFO] <FabboCJ> Skulle gärna ha flaskor med mjölk...
+2015-03-29 14:23:33 [INFO] <jennysun> nu försvann mitt nei!?
+2015-03-29 14:23:46 [INFO] <FabboCJ> Aww?
+2015-03-29 14:23:58 [INFO] <jennysun> kokos tar jag gärna en hel om du har...
+2015-03-29 14:24:17 [INFO] <FabboCJ> Har ingen hel... :-/
+2015-03-29 14:24:44 [INFO] <jennysun> ok, np!
+2015-03-29 14:24:59 [INFO] <FabboCJ> Jag traskar till buridan i öknen och hämtar?
+2015-03-29 14:25:07 [INFO] <FabboCJ> Attans att jag tappade min häst...
+2015-03-29 14:25:19 [INFO] <FabboCJ> Förresten, hittat en fin hacker-film på youtube... :-)
+2015-03-29 14:25:20 [INFO] <jennysun> behövs inte just nu...
+2015-03-29 14:25:54 [INFO] <jennysun> ok, jag har ju bara en skärm itaget att tillgå så jag försökerf göra en sak i taget...
+2015-03-29 14:26:05 [INFO] <FabboCJ> Mmm :-) :-*
+2015-03-29 14:28:24 [INFO] <FabboCJ> Gör du något fint/gott? :-3
+2015-03-29 14:29:47 [INFO] <jennysun> nja, försöker överblicka vad vi har och kollar recept i mobilen är inte så smiidgt...
+2015-03-29 14:30:01 [INFO] <FabboCJ> Ok :-)
+2015-03-29 14:32:24 [INFO] <FabboCJ> Hittade jättefina palmer! :-)
+2015-03-29 14:38:31 [INFO] <FabboCJ> Med en mattock och stegar kan man slå världen med häpnad ;-)
+2015-03-29 14:41:48 [INFO] <jennysun> säkert
+2015-03-29 14:42:11 [INFO] <jennysun> om vi inte ska göra nåt i nether idag så tar jag nog en paus nu...
+2015-03-29 14:42:27 [INFO] <FabboCJ> Vi har en palm utanför nu
+2015-03-29 14:42:36 [INFO] <FabboCJ> Jag kan gå till nether, eller så tar vi paus
+2015-03-29 14:42:43 [INFO] <FabboCJ> Jag kunde ordna mat...
+2015-03-29 14:43:32 [INFO] <FabboCJ> Vassego :-)
+2015-03-29 14:43:35 [INFO] <FabboCJ> :-*
+2015-03-29 14:44:11 [INFO] <jennysun> urk
+2015-03-29 14:44:22 [INFO] <FabboCJ> Mmm...
+2015-03-29 14:44:26 [INFO] <jennysun> tack
+2015-03-29 14:45:10 [INFO] <jennysun> skulle du fixa mat, eller? jag kan väl leta på youtube hur man gör förstås...
+2015-03-29 14:45:25 [INFO] <FabboCJ> Jag tänkte mat IRL :-D
+2015-03-29 14:45:31 [INFO] <jennysun> e överbrygga det känslomässiga gapet lite bara...
+2015-03-29 14:46:19 [INFO] <FabboCJ> Mmm... :-*
+2015-03-29 14:46:58 [INFO] <FabboCJ> :-)
+2015-03-29 14:47:23 [INFO] <FabboCJ> Vill du se nethern?
+2015-03-29 14:47:32 [INFO] <jennysun> ?
+2015-03-29 14:47:39 [INFO] <FabboCJ> Jag har byggt lite
+2015-03-29 14:47:47 [INFO] <jennysun> ok
+2015-03-29 14:48:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 14:48:31 [INFO] <FabboCJ> Titta på kartan?
+2015-03-29 14:49:00 [INFO] <FabboCJ> Ser du... piren i nordväst?
+2015-03-29 14:49:15 [INFO] <jennysun> mm
+2015-03-29 14:49:44 [INFO] <FabboCJ> Kom?
+2015-03-29 14:51:45 [INFO] <FabboCJ> Sätter du upp de sista fyra?
+2015-03-29 14:52:30 [INFO] <FabboCJ> Netherbat, jag dödade den :-)
+2015-03-29 14:53:18 [INFO] <FabboCJ> Fire away :-)
+2015-03-29 14:54:02 [INFO] <FabboCJ> Ghast...
+2015-03-29 14:54:28 [INFO] <jennysun> hittar inge att tända med...
+2015-03-29 14:54:38 [INFO] <FabboCJ> Jag gav dig flinta och stål?
+2015-03-29 14:55:25 [INFO] <FabboCJ> Funkar inte... ? :-(
+2015-03-29 14:55:38 [INFO] <FabboCJ> Uppe på väggen?
+2015-03-29 14:56:27 [INFO] <jennysun> är den inte en för hög?
+2015-03-29 14:56:42 [INFO] <FabboCJ> Nu?
+2015-03-29 14:56:51 [INFO] <FabboCJ> Den är för bred med kanske, men testa
+2015-03-29 14:58:15 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-03-29 14:58:15 [INFO] FabboCJ left the game
+2015-03-29 15:03:04 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 15:03:07 [INFO] FabboCJ[/37.46.178.157:41715] logged in with entity id 4186609 at (-90.0, 11.0, -537.0)
+2015-03-29 15:03:07 [INFO] FabboCJ joined the game
+2015-03-29 15:03:21 [INFO] jennysun walked into fire whilst fighting Cave Spider
+2015-03-29 15:03:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:04:21 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-29 15:04:21 [INFO] jennysun left the game
+2015-03-29 15:04:34 [INFO] jennysun[/85.229.225.202:49479] logged in with entity id 4188428 at (469.6597873278814, 10.957440623518677, 17.379527472971787)
+2015-03-29 15:04:34 [INFO] jennysun joined the game
+2015-03-29 15:05:15 [INFO] jennysun lost connection: disconnect.quitting
+2015-03-29 15:05:15 [INFO] jennysun left the game
+2015-03-29 15:07:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:07:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:08:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:15:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:18:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:43:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:45:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:48:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:48:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:49:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 15:49:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 16:01:03 [WARNING] FabboCJ moved wrongly!
+2015-03-29 17:56:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 17:56:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 18:00:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 18:01:23 [INFO] FabboCJ was slain by Zombie Pigman
+2015-03-29 18:03:14 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-29 18:03:14 [INFO] FabboCJ left the game
+2015-03-29 20:38:23 [SEVERE] Reached end of stream for /37.46.178.157
+2015-03-29 20:38:27 [INFO] FabboCJ[/37.46.178.157:51902] logged in with entity id 4222420 at (477.537676034114, 11.012047499417804, 13.148153235529884)
+2015-03-29 20:38:27 [INFO] FabboCJ joined the game
+2015-03-29 21:43:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 21:45:41 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-03-29 21:45:41 [INFO] FabboCJ left the game
+2015-03-30 11:54:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-02 15:42:31 [INFO] jennysun[/37.46.178.157:56980] logged in with entity id 4248761 at (469.38335428154096, 10.957440623518677, 17.30000001192093)
+2015-04-02 15:42:31 [INFO] jennysun joined the game
+2015-04-02 18:12:40 [INFO] jennysun was slain by Zombie
+2015-04-02 19:27:13 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-02 19:27:13 [INFO] jennysun left the game
+2015-04-02 22:05:43 [INFO] jennysun[/37.46.178.157:57308] logged in with entity id 4351544 at (476.8721208969608, 9.0, 28.806026474761907)
+2015-04-02 22:05:43 [INFO] jennysun joined the game
+2015-04-02 22:24:20 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-02 22:24:20 [INFO] jennysun left the game
+2015-04-02 22:28:45 [INFO] jennysun[/37.46.178.157:57415] logged in with entity id 4358742 at (473.1108765869058, 9.0, 27.15551986084044)
+2015-04-02 22:28:45 [INFO] jennysun joined the game
+2015-04-02 22:52:46 [INFO] jennysun drowned
+2015-04-02 23:51:37 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-02 23:51:37 [INFO] jennysun left the game
+2015-04-03 09:52:20 [INFO] jennysun[/37.46.178.157:58136] logged in with entity id 4382742 at (507.7615894540007, 71.0, 47.87184108958262)
+2015-04-03 09:52:20 [INFO] jennysun joined the game
+2015-04-03 10:16:38 [INFO] jennysun was slain by Zombie Pigman
+2015-04-03 10:17:04 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 10:17:04 [INFO] jennysun lost connection: disconnect.endOfStream
+2015-04-03 10:17:04 [INFO] jennysun left the game
+2015-04-03 10:17:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:17:07 [INFO] jennysun[/37.46.178.157:58201] logged in with entity id 4391278 at (471.5, 14.100000381469727, 31.5)
+2015-04-03 10:17:07 [INFO] jennysun joined the game
+2015-04-03 10:18:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:19:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:19:53 [INFO] jennysun was slain by Zombie Pigman
+2015-04-03 10:20:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:21:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:23:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 10:25:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 11:11:07 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 11:11:12 [INFO] FabboCJ[/37.46.178.157:60661] logged in with entity id 4408990 at (475.63828482037775, 9.0, 24.941896041073278)
+2015-04-03 11:11:12 [INFO] FabboCJ joined the game
+2015-04-03 11:48:09 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-04-03 11:48:09 [INFO] FabboCJ left the game
+2015-04-03 11:55:15 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 11:55:21 [INFO] FabboCJ[/37.46.178.157:61392] logged in with entity id 4427917 at (483.41538163930926, 10.5, 17.51066836545182)
+2015-04-03 11:55:21 [INFO] FabboCJ joined the game
+2015-04-03 12:13:58 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-03 12:13:58 [INFO] jennysun left the game
+2015-04-03 12:31:16 [INFO] jennysun[/37.46.178.157:58470] logged in with entity id 4439468 at (485.92272337105356, 11.0, 9.419491401021201)
+2015-04-03 12:31:16 [INFO] jennysun joined the game
+2015-04-03 13:00:25 [WARNING] FabboCJ moved wrongly!
+2015-04-03 13:18:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 13:56:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 14:10:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 14:30:24 [WARNING] jennysun moved wrongly!
+2015-04-03 14:42:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 14:42:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 15:02:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 15:03:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 15:05:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 15:31:52 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-03 15:31:52 [INFO] jennysun left the game
+2015-04-03 15:50:09 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 15:50:09 [INFO] FabboCJ left the game
+2015-04-03 18:07:05 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 18:07:10 [INFO] FabboCJ[/37.46.178.157:49700] logged in with entity id 4616128 at (491.56129846272, 11.0, 7.387547108669451)
+2015-04-03 18:07:10 [INFO] FabboCJ joined the game
+2015-04-03 18:07:58 [INFO] jennysun[/37.46.178.157:59120] logged in with entity id 4616473 at (484.69999998807907, 11.0, 20.699999988079064)
+2015-04-03 18:07:58 [INFO] jennysun joined the game
+2015-04-03 18:57:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 18:58:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 19:35:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 19:44:04 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 19:44:04 [INFO] FabboCJ left the game
+2015-04-03 19:44:29 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-03 19:44:29 [INFO] jennysun left the game
+2015-04-03 19:50:22 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 19:50:27 [INFO] FabboCJ[/37.46.178.157:61879] logged in with entity id 4699146 at (498.5546152678247, 70.0, 60.82857170545642)
+2015-04-03 19:50:27 [INFO] FabboCJ joined the game
+2015-04-03 20:02:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 20:08:22 [INFO] jennysun[/37.46.178.157:59273] logged in with entity id 4702609 at (-87.69999998807907, 5.0, -543.3000000119209)
+2015-04-03 20:08:22 [INFO] jennysun joined the game
+2015-04-03 20:10:02 [INFO] FabboCJ was slain by Tainted Crawler
+2015-04-03 20:28:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 20:28:28 [INFO] jennysun was slain by Cave Spider
+2015-04-03 20:35:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 21:04:26 [INFO] jennysun was doomed to fall by Blue Slime
+2015-04-03 21:13:31 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 21:13:31 [INFO] FabboCJ left the game
+2015-04-03 21:16:54 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 21:16:57 [INFO] FabboCJ[/37.46.178.157:62491] logged in with entity id 4766689 at (442.3722466717138, 161.0, 606.2398669810774)
+2015-04-03 21:16:57 [INFO] FabboCJ joined the game
+2015-04-03 21:23:05 [INFO] FabboCJ fell from a high place
+2015-04-03 21:25:47 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 21:25:47 [INFO] FabboCJ left the game
+2015-04-03 21:52:19 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 21:52:24 [INFO] FabboCJ[/37.46.178.157:62960] logged in with entity id 4794984 at (489.93369011890405, 11.0, 10.755752699268882)
+2015-04-03 21:52:24 [INFO] FabboCJ joined the game
+2015-04-03 22:24:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 22:25:24 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 22:25:24 [INFO] FabboCJ left the game
+2015-04-03 22:28:48 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 22:28:53 [INFO] FabboCJ[/37.46.178.157:63412] logged in with entity id 4818249 at (54.48924859001298, 32.0, 0.3673688893191687)
+2015-04-03 22:28:53 [INFO] FabboCJ joined the game
+2015-04-03 22:30:59 [INFO] FabboCJ tried to swim in lava
+2015-04-03 22:31:19 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-03 22:31:19 [INFO] FabboCJ left the game
+2015-04-03 22:31:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-03 22:31:21 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-03 22:31:27 [INFO] FabboCJ[/37.46.178.157:63471] logged in with entity id 4821900 at (469.42907853644596, 11.021027669456975, 12.913509542179689)
+2015-04-03 22:31:27 [INFO] FabboCJ joined the game
+2015-04-04 01:01:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 01:01:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 01:02:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 01:36:29 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-04 01:36:29 [INFO] jennysun left the game
+2015-04-04 01:37:00 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-04 01:37:00 [INFO] FabboCJ left the game
+2015-04-04 10:25:39 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-04 10:25:46 [INFO] FabboCJ[/37.46.178.157:65312] logged in with entity id 4940950 at (470.64179676744175, 11.0, 0.11388753781044007)
+2015-04-04 10:25:46 [INFO] FabboCJ joined the game
+2015-04-04 10:34:32 [INFO] jennysun[/37.46.178.157:59691] logged in with entity id 4943626 at (475.3069691087249, 9.0, 25.348281033787778)
+2015-04-04 10:34:32 [INFO] jennysun joined the game
+2015-04-04 10:41:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:42:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:42:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:42:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:43:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:43:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 10:57:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 11:17:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 11:17:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 11:18:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 13:11:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 13:11:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-04 13:16:53 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-04 13:16:53 [INFO] FabboCJ left the game
+2015-04-04 13:19:39 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-04 13:19:39 [INFO] jennysun left the game
+2015-04-05 20:33:01 [INFO] jennysun[/85.229.225.202:60346] logged in with entity id 5091075 at (473.3314354915706, 9.0, 30.313668501278897)
+2015-04-05 20:33:01 [INFO] jennysun joined the game
+2015-04-05 20:37:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 20:50:54 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-05 20:51:07 [INFO] FabboCJ[/85.229.225.202:54821] logged in with entity id 5098932 at (478.80780335418143, 9.0, 24.948441886012446)
+2015-04-05 20:51:07 [INFO] FabboCJ joined the game
+2015-04-05 20:51:46 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-05 20:51:46 [INFO] FabboCJ left the game
+2015-04-05 22:07:20 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-05 22:07:25 [INFO] FabboCJ[/85.229.225.202:55800] logged in with entity id 5123279 at (486.1459436001206, 11.0, 17.50480655320507)
+2015-04-05 22:07:25 [INFO] FabboCJ joined the game
+2015-04-05 22:10:11 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-04-05 22:10:11 [INFO] FabboCJ left the game
+2015-04-05 22:13:51 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-05 22:13:59 [INFO] FabboCJ [/85.229.225.202:55935] lost connection
+2015-04-05 22:21:11 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-05 22:21:16 [INFO] FabboCJ[/85.229.225.202:56087] logged in with entity id 5126630 at (483.69999998807907, 10.0, 11.6662789064776)
+2015-04-05 22:21:16 [INFO] FabboCJ joined the game
+2015-04-05 22:56:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:14:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:15:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:29:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:50:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:51:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:52:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 23:57:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-06 01:19:56 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-06 01:19:56 [INFO] FabboCJ left the game
+2015-04-06 01:20:37 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-06 01:20:37 [INFO] jennysun left the game
+2015-04-06 11:03:47 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-06 11:03:52 [INFO] FabboCJ[/85.229.225.202:56753] logged in with entity id 5237192 at (494.6596622758305, 75.0, 40.76824069889216)
+2015-04-06 11:03:52 [INFO] FabboCJ joined the game
+2015-04-06 11:55:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-06 12:02:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-06 12:02:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-06 12:04:00 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-06 12:04:00 [INFO] FabboCJ left the game
+2015-04-06 15:48:38 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-06 15:48:41 [INFO] FabboCJ[/85.229.225.202:56965] logged in with entity id 5260305 at (470.00804186158973, 32.0, 5.434775738371603)
+2015-04-06 15:48:41 [INFO] FabboCJ joined the game
+2015-04-06 15:59:00 [INFO] jennysun[/85.229.225.202:60930] logged in with entity id 5264491 at (477.15755540135365, 9.0, 29.124510147175187)
+2015-04-06 15:59:00 [INFO] jennysun joined the game
+2015-04-06 17:48:36 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-06 17:48:36 [INFO] jennysun left the game
+2015-04-06 17:48:38 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-06 17:48:38 [INFO] FabboCJ left the game
+2015-04-06 17:56:28 [INFO] jennysun[/85.229.225.202:61050] logged in with entity id 5308757 at (465.2345551071883, 11.0, 7.388377178713706)
+2015-04-06 17:56:28 [INFO] jennysun joined the game
+2015-04-06 17:56:50 [SEVERE] Reached end of stream for /85.229.225.202
+2015-04-06 17:56:54 [INFO] FabboCJ[/85.229.225.202:57268] logged in with entity id 5308991 at (468.22457960497, 11.0, 6.9791829857868874)
+2015-04-06 17:56:54 [INFO] FabboCJ joined the game
+2015-04-06 21:02:05 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-06 21:02:05 [INFO] FabboCJ left the game
+2015-04-06 21:09:52 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-06 21:09:52 [INFO] jennysun left the game
+2015-04-07 21:07:01 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-07 21:07:06 [INFO] FabboCJ[/37.46.178.157:64124] logged in with entity id 5395968 at (472.64812661995967, 11.0, 9.87673507531352)
+2015-04-07 21:07:06 [INFO] FabboCJ joined the game
+2015-04-07 21:39:13 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-07 21:39:13 [INFO] FabboCJ left the game
+2015-04-07 21:57:40 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-07 21:57:46 [INFO] FabboCJ[/37.46.178.157:50346] logged in with entity id 5405394 at (477.01960038967866, 9.0, 24.01824058278994)
+2015-04-07 21:57:46 [INFO] FabboCJ joined the game
+2015-04-07 22:38:34 [INFO] FabboCJ lost connection: disconnect.genericReason
+2015-04-07 22:38:34 [INFO] FabboCJ left the game
+2015-04-08 18:24:28 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-08 18:24:33 [INFO] FabboCJ[/37.46.178.157:52272] logged in with entity id 5416711 at (473.29464285515826, 11.0, 7.39445896598005)
+2015-04-08 18:24:33 [INFO] FabboCJ joined the game
+2015-04-08 18:25:16 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-08 18:25:16 [INFO] FabboCJ left the game
+2015-04-09 10:03:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 02:05:07 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-11 02:05:21 [INFO] FabboCJ[/37.46.178.157:49689] logged in with entity id 5417270 at (483.69999998807907, 8.0, 14.699999988079071)
+2015-04-11 02:05:21 [INFO] FabboCJ joined the game
+2015-04-11 02:05:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 02:05:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 02:13:51 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-11 02:13:51 [INFO] FabboCJ left the game
+2015-04-11 09:58:10 [INFO] wiwas002[/85.229.21.158:49777] logged in with entity id 5420459 at (-101.5, 64.0, 247.5)
+2015-04-11 09:58:10 [INFO] wiwas002 joined the game
+2015-04-11 10:12:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 10:12:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 10:12:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 13:06:36 [INFO] wiwas002 lost connection: disconnect.quitting
+2015-04-11 13:06:36 [INFO] wiwas002 left the game
+2015-04-11 13:50:17 [SEVERE] Reached end of stream for /85.229.21.158
+2015-04-11 13:50:20 [INFO] wiwas002[/85.229.21.158:50603] logged in with entity id 5478642 at (917.5, 12.021600379943848, -585.5)
+2015-04-11 13:50:20 [INFO] wiwas002 joined the game
+2015-04-11 14:05:37 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-11 14:05:43 [INFO] FabboCJ[/37.46.178.157:53739] logged in with entity id 5482496 at (477.30000001192093, 11.0, 13.783948077169589)
+2015-04-11 14:05:43 [INFO] FabboCJ joined the game
+2015-04-11 14:05:47 [INFO] <wiwas002> ello
+2015-04-11 14:05:59 [INFO] <FabboCJ> Yay :-)
+2015-04-11 14:06:11 [INFO] <wiwas002> jag antar att det e du cj
+2015-04-11 14:06:43 [INFO] <FabboCJ> jajjemen, william?
+2015-04-11 14:06:50 [INFO] <wiwas002> jupp =)
+2015-04-11 14:08:25 [INFO] <FabboCJ> Nu ska vi se, var hamnade du?
+2015-04-11 14:08:47 [INFO] <wiwas002> jag är x:887 z:-532
+2015-04-11 14:10:01 [INFO] <FabboCJ> Ok!
+2015-04-11 14:10:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 14:11:17 [INFO] <wiwas002> du borde lägga in tp och set home plugins
+2015-04-11 14:12:19 [INFO] <FabboCJ> Förlåt?
+2015-04-11 14:12:55 [INFO] <wiwas002> så man kan teleporteras till varandra och kunna teleportera hem nätr man vill :)
+2015-04-11 14:13:40 [INFO] <FabboCJ> Vi tänkte att teleportera vore fusk, just den här servern är smärtsamt "realistisk" :-)
+2015-04-11 14:13:51 [INFO] <wiwas002> haha okidoki XD
+2015-04-11 14:14:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 14:14:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 14:19:12 [INFO] <wiwas002> ska du hit elr? med tanke att du fråga var jag va
+2015-04-11 14:19:17 [INFO] <FabboCJ> Japp
+2015-04-11 14:19:34 [INFO] <wiwas002> schysst
+2015-04-11 14:21:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 14:21:35 [INFO] <FabboCJ> NU ska vi se ...
+2015-04-11 14:22:37 [INFO] <FabboCJ> x860,z-250
+2015-04-11 14:24:38 [INFO] <wiwas002> x836 z-570 mer wxact
+2015-04-11 14:24:43 [INFO] <wiwas002> kurwa
+2015-04-11 14:24:50 [INFO] <wiwas002> wisp
+2015-04-11 14:27:06 [INFO] <wiwas002> tja
+2015-04-11 14:27:22 [INFO] <wiwas002> vad har du på huvet?
+2015-04-11 14:27:35 [INFO] <FabboCJ> Lite allt möjligt. Show m,e around!
+2015-04-11 14:27:39 [INFO] <wiwas002> oki
+2015-04-11 14:27:51 [INFO] <wiwas002> måste fixa det ghär
+2015-04-11 14:28:09 [INFO] <wiwas002> aj
+2015-04-11 14:28:10 [INFO] <FabboCJ> Ooops!
+2015-04-11 14:28:24 [INFO] <wiwas002> välkomen
+2015-04-11 14:28:39 [INFO] <FabboCJ> Sweet!
+2015-04-11 14:29:04 [INFO] <wiwas002> har du provat tinker?
+2015-04-11 14:29:50 [INFO] <FabboCJ> Allvarligt, fixa vettiga ugnar... :-P
+2015-04-11 14:30:11 [INFO] <wiwas002> haha behöver typ inte dem längre med min nya ugn
+2015-04-11 14:30:19 [INFO] <wiwas002> ooooo
+2015-04-11 14:32:59 [INFO] <wiwas002> vad gör du?
+2015-04-11 14:33:05 [INFO] <FabboCJ> brb
+2015-04-11 14:41:23 [INFO] <FabboCJ> A gift
+2015-04-11 14:41:29 [INFO] <wiwas002> tack ;)
+2015-04-11 14:45:54 [INFO] <FabboCJ> Du får komma och se min katedral med... var har du nethern?
+2015-04-11 14:46:10 [INFO] <wiwas002> har ingen än började igår när jag kom hem
+2015-04-11 14:46:38 [INFO] <wiwas002> hade ni ingen karta btw?
+2015-04-11 14:53:14 [INFO] <FabboCJ> Hjälper pappa lite i teamviewer
+2015-04-11 14:53:20 [INFO] <wiwas002> oki
+2015-04-11 14:53:34 [INFO] <wiwas002> brb ska röka
+2015-04-11 15:02:04 [INFO] <wiwas002> tillbaka
+2015-04-11 15:03:24 [INFO] <wiwas002> :( inge kykling
+2015-04-11 15:05:50 [INFO] <FabboCJ> Help, this madman is keeping me trapped in his basement....
+2015-04-11 15:06:12 [INFO] <wiwas002> you will never leave as long as my name is fritz
+2015-04-11 15:06:29 [INFO] <FabboCJ> Josef, is that you?!
+2015-04-11 15:06:40 [INFO] <wiwas002> yeeesss
+2015-04-11 15:07:10 [INFO] <wiwas002> fixa hålet e du snäll
+2015-04-11 15:07:23 [INFO] <wiwas002> som du grävde
+2015-04-11 15:09:45 [INFO] <FabboCJ> Gillar du påsen du lånade?
+2015-04-11 15:09:57 [INFO] <wiwas002> oooo
+2015-04-11 15:10:16 [INFO] <wiwas002> får jag elr vill du ha tillbaka?
+2015-04-11 15:10:37 [INFO] <FabboCJ> Jag tänkte nog behålla den, använder ju....
+2015-04-11 15:10:46 [INFO] <wiwas002> okidoki
+2015-04-11 15:12:59 [INFO] <wiwas002> snyggt men föredrar nog brick
+2015-04-11 15:13:06 [INFO] <FabboCJ> Sure
+2015-04-11 15:16:16 [INFO] <FabboCJ> Pappa Joooooosef, varför får inte jag vara ute och leka med de andra barnen???
+2015-04-11 15:16:41 [INFO] <wiwas002> för att du har vart stygg och förtjänar straffas
+2015-04-11 15:17:03 [INFO] <FabboCJ> Är det därför du tar mina byxor?
+2015-04-11 15:17:19 [INFO] <wiwas002> precisdu ska få smisk
+2015-04-11 15:18:37 [INFO] <wiwas002> sitt still ungjävel
+2015-04-11 15:18:53 [INFO] <wiwas002> buu
+2015-04-11 15:19:06 [INFO] <wiwas002> tackar
+2015-04-11 15:19:19 [INFO] <wiwas002> nu får dina kläder
+2015-04-11 15:19:51 [INFO] <FabboCJ> Jag vill gå till nether!
+2015-04-11 15:20:10 [INFO] <FabboCJ> Fast kanske duschar först...
+2015-04-11 15:22:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:23:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:23:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:25:00 [INFO] <FabboCJ> Jag smet! :-P :-*
+2015-04-11 15:25:05 [INFO] <wiwas002> såg det
+2015-04-11 15:25:10 [INFO] <FabboCJ> Vår zombie spawner här...
+2015-04-11 15:26:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:27:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:27:42 [INFO] wiwas002 was fireballed by Ghast
+2015-04-11 15:27:53 [INFO] <wiwas002> fuu
+2015-04-11 15:28:02 [INFO] <FabboCJ> OOps? :-P
+2015-04-11 15:28:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:28:42 [INFO] <wiwas002> har ni inventory stay?? O.O
+2015-04-11 15:28:50 [INFO] <FabboCJ> Japp :-)
+2015-04-11 15:29:11 [INFO] <wiwas002> host.. realistiskt.. host
+2015-04-11 15:29:17 [INFO] <FabboCJ> :-P
+2015-04-11 15:29:41 [INFO] <FabboCJ> BRB
+2015-04-11 15:29:49 [INFO] <wiwas002> ok
+2015-04-11 15:53:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:55:10 [INFO] FabboCJ went up in flames
+2015-04-11 15:55:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 15:55:20 [INFO] <FabboCJ> OOps :-P
+2015-04-11 15:55:24 [INFO] <wiwas002> haha
+2015-04-11 16:02:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 16:02:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 16:03:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 16:05:08 [INFO] <FabboCJ> afk
+2015-04-11 16:05:11 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-11 16:05:11 [INFO] FabboCJ left the game
+2015-04-11 16:39:08 [INFO] wiwas002 was pricked to death
+2015-04-11 17:11:45 [INFO] wiwas002 lost connection: disconnect.quitting
+2015-04-11 17:11:45 [INFO] wiwas002 left the game
+2015-04-11 17:39:58 [SEVERE] Reached end of stream for /85.229.21.158
+2015-04-11 17:40:03 [INFO] wiwas002[/85.229.21.158:51500] logged in with entity id 5592729 at (904.1449372313995, 12.0, -579.3008212531379)
+2015-04-11 17:40:03 [INFO] wiwas002 joined the game
+2015-04-11 17:50:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-11 17:59:00 [INFO] wiwas002 lost connection: disconnect.quitting
+2015-04-11 17:59:00 [INFO] wiwas002 left the game
+2015-04-12 08:18:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 08:19:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 10:19:34 [SEVERE] Reached end of stream for /85.229.21.158
+2015-04-12 10:19:39 [INFO] wiwas002[/85.229.21.158:49694] logged in with entity id 5601181 at (907.9382520475042, 12.0, -576.5891384343294)
+2015-04-12 10:19:39 [INFO] wiwas002 joined the game
+2015-04-12 10:32:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 10:34:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 10:35:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 11:08:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 11:42:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 11:42:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 11:56:35 [INFO] wiwas002 lost connection: disconnect.quitting
+2015-04-12 11:56:35 [INFO] wiwas002 left the game
+2015-04-13 07:50:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-15 04:39:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 07:55:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 15:54:28 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-19 15:54:33 [INFO] FabboCJ[/37.46.178.157:56316] logged in with entity id 5634925 at (474.3984629118029, 14.0, 26.195226166041405)
+2015-04-19 15:54:33 [INFO] FabboCJ joined the game
+2015-04-19 15:54:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 21:29:07 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-19 21:29:07 [INFO] FabboCJ left the game
+2015-04-21 20:02:12 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-21 20:02:19 [INFO] FabboCJ[/37.46.178.157:51775] logged in with entity id 5662684 at (380.55517306119265, 69.0, 571.6520627443658)
+2015-04-21 20:02:19 [INFO] FabboCJ joined the game
+2015-04-21 22:07:49 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-21 22:07:49 [INFO] FabboCJ left the game
+2015-04-24 21:45:55 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-24 21:46:07 [INFO] FabboCJ[/37.46.178.157:56723] logged in with entity id 5704751 at (462.30000001192093, 6.0, 25.976123582719396)
+2015-04-24 21:46:07 [INFO] FabboCJ joined the game
+2015-04-24 21:46:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:47:12 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-24 21:47:13 [INFO] FabboCJ lost connection: disconnect.endOfStream
+2015-04-24 21:47:13 [INFO] FabboCJ left the game
+2015-04-24 21:47:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:47:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:49:27 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-24 21:49:32 [INFO] FabboCJ[/37.46.178.157:56754] logged in with entity id 5705749 at (462.30000001192093, 6.0, 25.976123582719396)
+2015-04-24 21:49:32 [INFO] FabboCJ joined the game
+2015-04-24 21:51:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:52:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:52:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:53:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:54:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:54:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:54:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:55:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:56:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:56:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 21:57:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 22:05:21 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-24 22:05:21 [INFO] FabboCJ left the game
+2015-04-24 22:13:43 [SEVERE] Reached end of stream for /37.46.178.157
+2015-04-24 22:13:56 [INFO] FabboCJ[/37.46.178.157:56889] logged in with entity id 5713367 at (474.69999998807907, 9.0, 28.850375535761394)
+2015-04-24 22:13:56 [INFO] FabboCJ joined the game
+2015-04-24 22:54:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:10:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:10:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:11:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:15:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:15:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:19:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:19:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:23:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:26:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:27:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:27:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:27:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:30:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:34:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:34:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:42:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:42:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:43:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:43:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:49:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-24 23:56:50 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-24 23:56:50 [INFO] FabboCJ left the game
+2015-04-25 20:38:06 [INFO] jennysun[/85.229.225.195:51940] logged in with entity id 5734048 at (473.2048244267594, 11.0, 7.631265377053177)
+2015-04-25 20:38:06 [INFO] jennysun joined the game
+2015-04-25 20:45:14 [INFO] jennysun lost connection: disconnect.genericReason
+2015-04-25 20:45:14 [INFO] jennysun left the game
+2015-04-26 11:24:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-26 17:38:40 [INFO] jennysun[/85.229.225.195:55341] logged in with entity id 5735889 at (471.533228004276, 12.0, 18.04344122355811)
+2015-04-26 17:38:40 [INFO] jennysun joined the game
+2015-04-26 17:40:12 [INFO] jennysun lost connection: disconnect.quitting
+2015-04-26 17:40:12 [INFO] jennysun left the game
+2015-04-26 18:00:59 [SEVERE] Reached end of stream for /85.229.225.195
+2015-04-26 18:01:04 [INFO] FabboCJ[/85.229.225.195:50613] logged in with entity id 5736650 at (471.64216641962815, 14.0, 29.69999998807907)
+2015-04-26 18:01:04 [INFO] FabboCJ joined the game
+2015-04-26 18:08:09 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-04-26 18:08:09 [INFO] FabboCJ left the game
+2015-04-26 20:34:11 [INFO] jennysun[/85.229.225.195:55780] logged in with entity id 5739455 at (471.533228004276, 12.0, 18.04344122355811)
+2015-04-26 20:34:11 [INFO] jennysun joined the game
+2015-04-26 20:46:36 [SEVERE] Reached end of stream for /85.229.225.195
+2015-04-26 20:46:36 [INFO] jennysun lost connection: disconnect.endOfStream
+2015-04-26 20:46:36 [INFO] jennysun left the game
+2015-04-26 20:55:22 [INFO] jennysun[/85.229.225.195:55875] logged in with entity id 5746392 at (471.533228004276, 12.0, 18.04344122355811)
+2015-04-26 20:55:22 [INFO] jennysun joined the game
+2015-04-26 20:57:49 [SEVERE] Reached end of stream for /85.229.225.195
+2015-04-26 20:57:49 [INFO] jennysun lost connection: disconnect.endOfStream
+2015-04-26 20:57:49 [INFO] jennysun left the game
+2015-04-28 00:12:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?

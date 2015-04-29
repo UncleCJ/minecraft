@@ -1,0 +1,30 @@
+[00:33:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
+[01:53:01] [pool-3-thread-12818/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[02:03:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2111ms behind, skipping 42 tick(s)
+[02:03:01] [pool-3-thread-12822/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[02:48:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2064ms behind, skipping 41 tick(s)
+[04:23:01] [pool-3-thread-12865/INFO]: [Vault] Checking for Updates ... 
+[04:23:02] [pool-3-thread-12865/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[04:23:02] [pool-3-thread-12865/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[04:48:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2527ms behind, skipping 50 tick(s)
+[06:13:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2017ms behind, skipping 40 tick(s)
+[07:48:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[07:53:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2427ms behind, skipping 48 tick(s)
+[10:23:02] [pool-3-thread-12974/INFO]: [Vault] Checking for Updates ... 
+[10:23:03] [pool-3-thread-12974/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[10:23:03] [pool-3-thread-12974/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:13:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2084ms behind, skipping 41 tick(s)
+[14:48:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2288ms behind, skipping 45 tick(s)
+[16:15:09] [pool-3-thread-13080/INFO]: [Metrics] Connection timed out
+[16:23:02] [pool-3-thread-13083/INFO]: [Vault] Checking for Updates ... 
+[16:23:02] [pool-3-thread-13081/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:23:03] [pool-3-thread-13083/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[16:23:03] [pool-3-thread-13083/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[16:33:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[19:58:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2206ms behind, skipping 44 tick(s)
+[20:28:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2236ms behind, skipping 44 tick(s)
+[22:23:03] [pool-3-thread-13192/INFO]: [Vault] Checking for Updates ... 
+[22:23:03] [pool-3-thread-13192/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[22:23:03] [pool-3-thread-13192/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:43:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2542ms behind, skipping 50 tick(s)
+[22:58:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2305ms behind, skipping 46 tick(s)

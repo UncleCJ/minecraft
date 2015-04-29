@@ -1,0 +1,13 @@
+[23:14:47] [Server thread/INFO]: Starting minecraft server version 1.8
+[23:14:47] [Server thread/INFO]: Loading properties
+[23:14:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:47] [Server thread/INFO]: Generating keypair
+[23:14:48] [Server thread/INFO]: Starting Minecraft server on *:25566
+[23:14:48] [Server thread/INFO]: Preparing level "tutworld"
+[23:14:48] [Server thread/INFO]: Preparing start region for level 0
+[23:14:49] [Server thread/INFO]: Preparing spawn area: 0%
+[23:14:51] [Server thread/INFO]: Preparing spawn area: 84%
+[23:14:51] [Server thread/INFO]: Done (3.787s)! For help, type "help" or "?"
+[23:18:43] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[23:18:43] [Server thread/INFO]: FabboCJ[/37.46.178.157:49595] logged in with entity id 263 at (444.7484727834435, 97.0, 2530.3918219865463)
+[23:18:43] [Server thread/INFO]: §9FabboCJ§r joined the game

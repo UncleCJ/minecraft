@@ -1,0 +1,342 @@
+[00:04:01] [pool-3-thread-38044/INFO]: [Vault] Checking for Updates ... 
+[00:04:01] [pool-3-thread-38044/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[00:04:01] [pool-3-thread-38044/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[00:34:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2553ms behind, skipping 51 tick(s)
+[02:09:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2003ms behind, skipping 40 tick(s)
+[02:24:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2553ms behind, skipping 51 tick(s)
+[02:54:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2571ms behind, skipping 51 tick(s)
+[02:59:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2718ms behind, skipping 54 tick(s)
+[03:19:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2538ms behind, skipping 50 tick(s)
+[03:39:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2498ms behind, skipping 49 tick(s)
+[05:14:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2664ms behind, skipping 53 tick(s)
+[05:19:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2546ms behind, skipping 50 tick(s)
+[05:39:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2531ms behind, skipping 50 tick(s)
+[05:59:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2707ms behind, skipping 54 tick(s)
+[06:04:06] [pool-3-thread-38153/INFO]: [Vault] Checking for Updates ... 
+[06:04:08] [pool-3-thread-38153/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[06:04:08] [pool-3-thread-38153/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[07:24:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
+[07:59:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2715ms behind, skipping 54 tick(s)
+[08:04:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2719ms behind, skipping 54 tick(s)
+[08:14:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6336ms behind, skipping 126 tick(s)
+[09:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2540ms behind, skipping 50 tick(s)
+[09:59:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2535ms behind, skipping 50 tick(s)
+[11:29:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2558ms behind, skipping 51 tick(s)
+[11:34:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2555ms behind, skipping 51 tick(s)
+[12:04:15] [pool-3-thread-38262/INFO]: [Vault] Checking for Updates ... 
+[12:04:15] [pool-3-thread-38262/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[12:04:15] [pool-3-thread-38262/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:29:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2573ms behind, skipping 51 tick(s)
+[14:44:46] [pool-3-thread-38310/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[14:54:15] [pool-3-thread-38314/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[15:04:15] [pool-3-thread-38315/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[15:16:22] [pool-3-thread-38319/INFO]: [Metrics] Connection timed out
+[15:24:15] [pool-3-thread-38323/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[15:36:22] [pool-3-thread-38324/INFO]: [Metrics] Connection timed out
+[15:44:15] [pool-3-thread-38328/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[15:54:15] [pool-3-thread-38332/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:04:15] [pool-3-thread-38333/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:14:15] [pool-3-thread-38337/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:24:15] [pool-3-thread-38341/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:44:15] [pool-3-thread-38346/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:54:15] [pool-3-thread-38350/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[16:59:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2555ms behind, skipping 51 tick(s)
+[17:14:16] [pool-3-thread-38355/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[17:24:16] [pool-3-thread-38359/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[17:34:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2566ms behind, skipping 51 tick(s)
+[17:44:16] [pool-3-thread-38364/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[17:49:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2654ms behind, skipping 53 tick(s)
+[17:54:17] [pool-3-thread-38368/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:04:17] [pool-3-thread-38371/INFO]: [Vault] Checking for Updates ... 
+[18:04:17] [pool-3-thread-38369/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:04:18] [pool-3-thread-38371/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[18:04:18] [pool-3-thread-38371/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2589ms behind, skipping 51 tick(s)
+[18:14:18] [pool-3-thread-38374/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:24:18] [pool-3-thread-38378/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:34:18] [pool-3-thread-38379/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:44:18] [pool-3-thread-38383/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[18:54:18] [pool-3-thread-38387/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[19:01:37] [User Authenticator #15/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:01:37] [Server thread/INFO]: FabboCJ[/37.46.178.157:53737] logged in with entity id 355420 at ([tutworld] 1311.7755527526945, 62.23488519966189, 3175.890536865508)
+[19:04:18] [pool-3-thread-38388/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[19:07:28] [User Authenticator #16/INFO]: UUID of player ProKillerNohax is 794ef548-7750-427f-a5b8-a57606d34d71
+[19:07:28] [Server thread/INFO]: ProKillerNohax[/83.253.53.190:56884] logged in with entity id 355575 at ([tutworld] 183.5, 80.0, 219.5)
+[19:07:36] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> yo[m
+[19:07:45] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> CJ[m
+[19:07:57] [Server thread/INFO]: ProKillerNohax issued server command: /gm 1
+[19:08:15] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[19:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[19:10:29] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> FabboCJ[m
+[19:12:00] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Får jag ta diamond?[m
+[19:13:03] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Så, tja[m
+[19:13:06] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Tja[m
+[19:13:11] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Får jag ta lite diamonds?[m
+[19:13:14] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Behöver bara 28 st.[m
+[19:13:17] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> För liten text, kan inte läsa chaten härifrån, vänta...[m
+[19:13:39] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Fast jag har fått två dioprier bättre syn senaste åren![m
+[19:13:48] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Plus kan jag få tillbaks OP och Sudo?[m
+[19:14:13] [Netty Server IO #0/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> Men chilla, hur mycket diamond har vi ens?[m
+[19:14:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2799ms behind, skipping 55 tick(s)
+[19:14:19] [pool-3-thread-38392/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[19:14:23] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> 2 stacks[m
+[19:15:01] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Kan du opa mig? elle?[m
+[19:16:08] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<ProKillerNohax> Vi har 2 stacks.[m
+[19:19:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2542ms behind, skipping 50 tick(s)
+[19:24:08] [Server thread/INFO]: ProKillerNohax lost connection: Disconnected
+[19:24:08] [Server thread/INFO]: ProKillerNohax left the game.
+[19:24:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2254ms behind, skipping 45 tick(s)
+[19:24:20] [pool-3-thread-38396/INFO]: [Metrics] Server returned HTTP response code: 408 for URL: http://mcstats.org/report/Multiverse-Core
+[19:29:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[19:39:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2241ms behind, skipping 44 tick(s)
+[20:19:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[20:59:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2085ms behind, skipping 41 tick(s)
+[21:02:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2594ms behind, skipping 51 tick(s)
+[21:04:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2036ms behind, skipping 40 tick(s)
+[21:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2009ms behind, skipping 40 tick(s)
+[21:14:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
+[21:24:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2773ms behind, skipping 55 tick(s)
+[21:34:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2042ms behind, skipping 40 tick(s)
+[21:38:03] [Server thread/INFO]: FabboCJ issued server command: /home
+[21:38:10] [Server thread/INFO]: FabboCJ issued server command: /tp home
+[21:38:22] [Server thread/INFO]: FabboCJ issued server command: /help tp
+[21:38:43] [Server thread/INFO]: FabboCJ issued server command: /tp 0 0 70
+[21:38:43] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to 0.5, 0.0, 70.5]
+[21:38:48] [Server thread/INFO]: §9FabboCJ§r fell out of the world
+[21:39:09] [Server thread/INFO]: FabboCJ issued server command: /tp 0 0 100
+[21:39:09] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to 0.5, 0.0, 100.5]
+[21:39:14] [Server thread/INFO]: §9FabboCJ§r fell out of the world
+[21:39:30] [Server thread/INFO]: FabboCJ issued server command: /tp 0 100 0
+[21:39:30] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to 0.5, 100.0, 0.5]
+[21:39:32] [Server thread/INFO]: §9FabboCJ§r fell from a high place
+[21:39:41] [Server thread/INFO]: FabboCJ issued server command: /tp 0 65 0
+[21:39:41] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to 0.5, 65.0, 0.5]
+[21:44:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2216ms behind, skipping 44 tick(s)
+[21:49:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2495ms behind, skipping 49 tick(s)
+[21:54:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
+[21:58:16] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[21:58:16] [Server thread/INFO]: FabboCJ left the game.
+[22:00:33] [User Authenticator #17/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[22:00:33] [Server thread/INFO]: FabboCJ[/37.46.178.157:56253] logged in with entity id 369311 at ([tutworld] 193.7019444446544, 69.0, 198.69999998807907)
+[22:04:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2194ms behind, skipping 43 tick(s)
+[22:09:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2278ms behind, skipping 45 tick(s)
+[22:14:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2210ms behind, skipping 44 tick(s)
+[22:19:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2217ms behind, skipping 44 tick(s)
+[22:24:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2144ms behind, skipping 42 tick(s)
+[22:29:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
+[22:34:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2239ms behind, skipping 44 tick(s)
+[22:39:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
+[22:44:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
+[22:48:53] [Server thread/INFO]: FabboCJ issued server command: /settimeofday 0
+[22:48:57] [Server thread/INFO]: FabboCJ issued server command: /time 0
+[22:49:04] [Server thread/INFO]: FabboCJ issued server command: /time set 0
+[22:49:04] [Server thread/INFO]: [FabboCJ: Set the time to 0]
+[22:49:20] [Server thread/INFO]: FabboCJ issued server command: /time set 10
+[22:49:20] [Server thread/INFO]: [FabboCJ: Set the time to 10]
+[22:49:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[22:49:27] [Server thread/INFO]: FabboCJ issued server command: /rain off
+[22:49:33] [Server thread/INFO]: FabboCJ issued server command: /help rain
+[22:49:39] [Server thread/INFO]: FabboCJ issued server command: /weather
+[22:49:46] [Server thread/INFO]: FabboCJ issued server command: /weather clear
+[22:49:47] [Server thread/INFO]: [FabboCJ: Changing to clear weather]
+[22:50:11] [Server thread/INFO]: FabboCJ issued server command: /time set 0
+[22:50:11] [Server thread/INFO]: [FabboCJ: Set the time to 0]
+[22:50:23] [Server thread/INFO]: FabboCJ issued server command: /time set 12
+[22:50:23] [Server thread/INFO]: [FabboCJ: Set the time to 12]
+[22:50:29] [Server thread/INFO]: FabboCJ issued server command: /time set 100
+[22:50:29] [Server thread/INFO]: [FabboCJ: Set the time to 100]
+[22:50:38] [Server thread/INFO]: FabboCJ issued server command: /time set 1000
+[22:50:38] [Server thread/INFO]: [FabboCJ: Set the time to 1000]
+[22:50:45] [Server thread/INFO]: FabboCJ issued server command: /time set 10000
+[22:50:45] [Server thread/INFO]: [FabboCJ: Set the time to 10000]
+[22:51:01] [Server thread/INFO]: FabboCJ issued server command: /time set 12000
+[22:51:01] [Server thread/INFO]: [FabboCJ: Set the time to 12000]
+[22:51:16] [Server thread/INFO]: FabboCJ issued server command: /time set 1200
+[22:51:16] [Server thread/INFO]: [FabboCJ: Set the time to 1200]
+[22:51:23] [Server thread/INFO]: FabboCJ issued server command: /time set 12000
+[22:51:23] [Server thread/INFO]: [FabboCJ: Set the time to 12000]
+[22:51:28] [Server thread/INFO]: FabboCJ issued server command: /time set 13000
+[22:51:28] [Server thread/INFO]: [FabboCJ: Set the time to 13000]
+[22:52:24] [Server thread/INFO]: FabboCJ issued server command: /time set 0
+[22:52:24] [Server thread/INFO]: [FabboCJ: Set the time to 0]
+[22:54:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2160ms behind, skipping 43 tick(s)
+[22:56:11] [Server thread/INFO]: FabboCJ issued server command: /time set 15000
+[22:56:11] [Server thread/INFO]: [FabboCJ: Set the time to 15000]
+[22:59:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
+[23:01:37] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[23:01:37] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[23:01:37] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[23:01:37] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[23:01:37] [Server thread/INFO]: [KitPvP] Disabling KitPvP v1.6
+[23:01:37] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[23:01:37] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[23:01:37] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[23:01:37] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[23:01:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[23:01:37] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[23:01:37] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[23:01:37] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[23:01:37] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[23:01:37] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is disabled!
+[23:01:37] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[23:01:37] [Server thread/INFO]: [PlayerInfo] has been disabled
+[23:01:40] [Server thread/ERROR]: Nag author: 'Rigby' of 'Multiverse-Core' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[23:01:40] [Server thread/ERROR]: Nag author: 'AnjoCaido' of 'GroupManager' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[23:01:40] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[23:01:40] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[23:01:40] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[23:01:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[23:01:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[23:01:40] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[23:01:40] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[23:01:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[23:01:40] [Server thread/INFO]: [KitPvP] Loading KitPvP v1.6
+[23:01:40] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v2.4-b523
+[23:01:40] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[23:01:40] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[23:01:40] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[23:01:40] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[23:01:40] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[23:01:40] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:01:40] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[23:01:40] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[23:01:40] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[23:01:40] [Server thread/INFO]: [PlayerInfo] has been enabled
+[23:01:40] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[23:01:40] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[23:01:40] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[23:01:40] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[23:01:40] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[23:01:40] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[23:01:40] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[23:01:40] [Server thread/INFO]: [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+[23:01:43] [Server thread/ERROR]: Cannot load plugins/Multiverse-Core/worlds.yml
+org.bukkit.configuration.InvalidConfigurationException: org.yaml.snakeyaml.error.YAMLException: Could not deserialize object
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:180) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.loadWorldConfig(WorldManager.java:603) [Multiverse-Core-2.4.jar:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.loadConfigs(MultiverseCore.java:300) [Multiverse-Core-2.4.jar:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:239) [Multiverse-Core-2.4.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_80]
+Caused by: org.yaml.snakeyaml.error.YAMLException: Could not deserialize object
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:37) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:400) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	... 22 more
+Caused by: java.lang.IllegalArgumentException: Specified class does not exist ('MVSpawnSubSettings')
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeObject(ConfigurationSerialization.java:183) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:35) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping2ndStep(BaseConstructor.java:373) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor.constructMapping2ndStep(SafeConstructor.java:147) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructMapping(BaseConstructor.java:354) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.SafeConstructor$ConstructYamlMap.construct(SafeConstructor.java:485) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:26) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:400) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	... 22 more
+[23:01:43] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld' - Env: NORMAL - Type: NORMAL & seed: -3414234582187284145
+[23:01:45] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld_nether' - Env: NETHER - Type: NORMAL & seed: -3414234582187284145
+[23:01:48] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld_the_end' - Env: THE_END - Type: NORMAL & seed: -3414234582187284145
+[23:01:49] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'fromflames' - Env: NORMAL - Type: FLAT & seed: -2903505127734604271
+[23:01:50] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'fromashes' - Env: NORMAL - Type: FLAT & seed: 8440151354802767546
+[23:01:51] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: FLAT & seed: -2369971020579525390
+[23:01:51] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[23:01:51] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 489 Y: 10 Z: -184 P: 0 Y: 0 
+[23:01:51] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'creative' is Located at: creative:490.50,10.00,-182.50:0.00:0.00
+[23:01:54] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'cubeception2smp' - Env: NORMAL - Type: NORMAL & seed: -6426663970308026368
+[23:01:55] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 1780430939243764315
+[23:01:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Bomber' - Env: NORMAL - Type: FLAT & seed: 4919839233390569991
+[23:01:59] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'cityworld' - Env: NORMAL - Type: NORMAL & seed: 64951768
+[23:01:59] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[23:01:59] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 53 Y: 117 Z: 39 P: 0 Y: 0 
+[23:01:59] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'cityworld' is Located at: cityworld:46.50,117.00,43.50:0.00:0.00
+[23:02:01] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'SkywarsSpawn' - Env: NORMAL - Type: FLAT & seed: -5663810443052788782
+[23:02:05] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'The Elements' - Env: NORMAL - Type: FLAT & seed: 2282912023382338973
+[23:02:07] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'SkyWarsBaseWorld' - Env: NORMAL - Type: FLAT & seed: 0
+[23:02:09] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'cubeceptionreloaded' - Env: NORMAL - Type: NORMAL & seed: 3981014598438330368
+[23:02:12] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'creepersoccer' - Env: NORMAL - Type: FLAT & seed: 6851938583268216745
+[23:02:14] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld' - Env: NORMAL - Type: NORMAL & seed: -3414234582187284145
+[23:02:17] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld_nether' - Env: NETHER - Type: NORMAL & seed: -3414234582187284145
+[23:02:19] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'tutworld_the_end' - Env: THE_END - Type: NORMAL & seed: -3414234582187284145
+[23:02:22] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'fromflames' - Env: NORMAL - Type: FLAT & seed: -2903505127734604271
+[23:02:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'fromashes' - Env: NORMAL - Type: FLAT & seed: 8440151354802767546
+[23:02:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: FLAT & seed: -2369971020579525390
+[23:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'cubeception2smp' - Env: NORMAL - Type: NORMAL & seed: -6426663970308026368
+[23:02:33] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 1780430939243764315
+[23:02:35] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Bomber' - Env: NORMAL - Type: FLAT & seed: 4919839233390569991
+[23:02:37] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[23:02:37] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[23:02:37] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-04-29_23.02.37-server.txt

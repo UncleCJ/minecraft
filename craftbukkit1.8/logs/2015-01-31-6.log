@@ -1,0 +1,239 @@
+[16:04:01] [Server thread/INFO]: Starting minecraft server version 1.8
+[16:04:01] [Server thread/INFO]: Loading properties
+[16:04:01] [Server thread/INFO]: Default game type: SURVIVAL
+[16:04:01] [Server thread/INFO]: Generating keypair
+[16:04:01] [Server thread/INFO]: Starting Minecraft server on *:25566
+[16:04:01] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[16:04:02] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[16:04:02] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[16:04:02] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[16:04:02] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[16:04:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[16:04:02] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[16:04:02] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[16:04:02] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[16:04:02] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[16:04:02] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[16:04:02] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[16:04:02] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:04:02] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[16:04:02] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[16:04:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:04:02] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[16:04:02] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[16:04:02] [Server thread/INFO]: Preparing level "tutworld"
+[16:04:02] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 3%
+[16:04:06] [Server thread/INFO]: Preparing spawn area: 38%
+[16:04:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[16:04:08] [Server thread/INFO]: Preparing spawn area: 63%
+[16:04:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[16:04:08] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[16:04:08] [Server thread/INFO]: [PlayerInfo] has been enabled
+[16:04:08] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[16:04:08] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[16:04:08] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[16:04:08] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[16:04:08] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[16:04:08] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[16:04:08] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[16:04:09] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[16:04:11] [Server thread/INFO]: Preparing spawn area for fromflames, 73%
+[16:04:12] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[16:04:13] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[16:04:13] [Server thread/INFO]: Preparing start region for level 6 (Seed: -6426663970308026368)
+[16:04:15] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 32%
+[16:04:16] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 89%
+[16:04:16] [Server thread/INFO]: Preparing start region for level 7 (Seed: 1780430939243764315)
+[16:04:17] [Server thread/INFO]: Preparing spawn area for minigames, 32%
+[16:04:20] [Server thread/INFO]: Preparing start region for level 8 (Seed: 4919839233390569991)
+[16:04:21] [Server thread/INFO]: Preparing spawn area for Bomber, 69%
+[16:04:25] [Server thread/INFO]: Preparing start region for level 9 (Seed: 64951768)
+[16:04:28] [Server thread/INFO]: Preparing start region for level 10 (Seed: -5663810443052788782)
+[16:04:33] [Server thread/INFO]: Preparing start region for level 11 (Seed: 2282912023382338973)
+[16:04:38] [Server thread/INFO]: Preparing start region for level 12 (Seed: 0)
+[16:04:41] [Server thread/INFO]: Preparing start region for level 13 (Seed: 3981014598438330368)
+[16:04:45] [Server thread/INFO]: Preparing start region for level 14 (Seed: 6851938583268216745)
+[16:04:48] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[16:04:49] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[16:04:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[16:04:49] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[16:04:49] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[16:04:49] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[16:04:49] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[16:04:49] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[16:05:28] [Server thread/INFO]: [MVPLogging] 9 - Portals(s) loaded
+[16:05:28] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[16:05:28] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[16:05:28] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[16:05:36] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkywarsSpawn'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (The Elements) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (The Elements) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (The Elements) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (The Elements) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'The Elements'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWarsBaseWorld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[16:05:36] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[16:05:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'tutworld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkywarsSpawn'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'The Elements'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkyWarsBaseWorld'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[16:05:36] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[16:05:37] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[16:05:37] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[16:05:40] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[16:05:40] [Server thread/INFO]: [WarpPortals] 2 Portals loaded!
+[16:05:40] [Server thread/INFO]: [WarpPortals] 2 Destinations loaded!
+[16:05:42] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:06:03] [Server thread/INFO]: Done (120.902s)! For help, type "help" or "?"
+[16:06:04] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[16:06:04] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[16:06:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2364ms behind, skipping 47 tick(s)
+[16:06:06] [pool-3-thread-5/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[16:06:06] [pool-3-thread-5/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[16:06:17] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[16:06:18] [Server thread/INFO]: Skywarslover[/83.253.53.190:41798] logged in with entity id 2165 at ([SkywarsSpawn] -56.66179061218048, 5.434345200937642, -78.72527163928687)
+[16:06:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4874ms behind, skipping 97 tick(s)
+[16:06:28] [Server thread/INFO]: Skywarslover issued server command: /pl
+[16:09:25] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:09:25] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[16:09:25] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[16:09:25] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[16:09:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[16:09:25] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[16:09:25] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[16:09:25] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[16:09:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[16:09:25] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[16:09:25] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[16:09:25] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[16:09:25] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[16:09:25] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is disabled!
+[16:09:25] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[16:09:25] [Server thread/INFO]: [PlayerInfo] has been disabled
+[16:09:25] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[16:09:25] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[16:09:25] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[16:09:25] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[16:09:25] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[16:09:25] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[16:09:25] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[16:09:25] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[16:09:25] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[16:09:25] [Server thread/INFO]: [KitPvP] Loading KitPvP v1.6
+[16:09:25] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[16:09:25] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[16:09:25] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[16:09:25] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[16:09:26] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[16:09:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:09:26] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[16:09:26] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[16:09:26] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[16:09:26] [Server thread/INFO]: [PlayerInfo] has been enabled
+[16:09:26] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[16:09:26] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[16:09:26] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[16:09:26] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[16:09:26] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[16:09:26] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[16:09:26] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[16:10:02] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[16:10:03] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[16:10:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[16:10:03] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[16:10:03] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[16:10:03] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[16:10:03] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[16:10:03] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[16:10:25] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:10:25] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:10:25] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-31_16.10.25-server.txt

@@ -1,0 +1,17 @@
+[01:34:21] [Server thread/INFO]: Starting minecraft server version 1.8
+[01:34:21] [Server thread/INFO]: Loading properties
+[01:34:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:34:21] [Server thread/INFO]: Generating keypair
+[01:34:21] [Server thread/INFO]: Starting Minecraft server on *:25566
+[01:34:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[01:34:21] [Server thread/INFO]: Preparing level "tutworld"
+[01:34:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[01:34:23] [Server thread/INFO]: Preparing spawn area: 0%
+[01:34:24] [Server thread/INFO]: Preparing spawn area: 80%
+[01:34:25] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[01:34:26] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[01:34:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:34:26] [Server thread/INFO]: Done (5.092s)! For help, type "help" or "?"
+[01:43:01] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@2af298db[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56731): Authentication servers are down. Please try again later, sorry!
+[01:43:01] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[01:43:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@2af298db[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:56731) lost connection: Authentication servers are down. Please try again later, sorry!

@@ -1,0 +1,496 @@
+[17:10:15] [Server thread/INFO]: Starting minecraft server version 1.8
+[17:10:15] [Server thread/INFO]: Loading properties
+[17:10:15] [Server thread/INFO]: Default game type: SURVIVAL
+[17:10:15] [Server thread/INFO]: Generating keypair
+[17:10:15] [Server thread/INFO]: Starting Minecraft server on *:25566
+[17:10:16] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[17:10:16] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[17:10:16] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[17:10:16] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[17:10:16] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[17:10:16] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[17:10:16] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[17:10:16] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[17:10:16] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[17:10:16] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:10:16] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[17:10:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:10:16] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[17:10:16] [Server thread/INFO]: Preparing level "tutworld"
+[17:10:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[17:10:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:19] [Server thread/INFO]: Preparing spawn area: 58%
+[17:10:20] [Server thread/INFO]: Preparing spawn area: 72%
+[17:10:20] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[17:10:21] [Server thread/INFO]: Preparing spawn area: 90%
+[17:10:21] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[17:10:22] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[17:10:22] [Server thread/INFO]: [PlayerInfo] has been enabled
+[17:10:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[17:10:22] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[17:10:22] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1780430939243764315)
+[17:10:26] [Server thread/INFO]: Preparing start region for level 4 (Seed: -2903505127734604271)
+[17:10:27] [Server thread/INFO]: Preparing spawn area for fromflames, 89%
+[17:10:29] [Server thread/INFO]: Preparing start region for level 5 (Seed: 4919839233390569991)
+[17:10:30] [Server thread/INFO]: Preparing spawn area for Bomber, 69%
+[17:10:33] [Server thread/INFO]: Preparing start region for level 6 (Seed: 8440151354802767546)
+[17:10:36] [Server thread/INFO]: Preparing start region for level 7 (Seed: -2369971020579525390)
+[17:10:38] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[17:10:39] [Server thread/INFO]: Preparing start region for level 8 (Seed: 64951768)
+[17:10:47] [Server thread/INFO]: Preparing start region for level 9 (Seed: -6426663970308026368)
+[17:10:48] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 77%
+[17:10:52] [Server thread/INFO]: Preparing start region for level 10 (Seed: 3981014598438330368)
+[17:10:53] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 89%
+[17:10:56] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[17:10:57] [Server thread/INFO]: Preparing start region for level 11 (Seed: 6851938583268216745)
+[17:11:00] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[17:11:00] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:11:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[17:11:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:11:01] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[17:11:01] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[17:11:01] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[17:11:23] [User Authenticator #3/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[17:11:30] [User Authenticator #4/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[17:11:35] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[17:11:35] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[17:11:35] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[17:11:35] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[17:11:43] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[17:11:43] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[17:11:47] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:11:48] [User Authenticator #5/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[17:12:08] [Server thread/INFO]: Done (111.330s)! For help, type "help" or "?"
+[17:12:08] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[17:12:09] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[17:12:09] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a433882[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@5becd7b5]},legacy=false] (/192.168.1.137:60584) lost connection: Disconnected
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ed7eec1[id=<null>,name=Skywarslover,properties={},legacy=false] (/83.253.146.146:49657) lost connection: Disconnected
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@427be957[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@5688cb7a]},legacy=false] (/192.168.1.137:60586) lost connection: Disconnected
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@551470da[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@73a55a48]},legacy=false] (/83.253.146.146:49659) lost connection: Disconnected
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@30fd23d9[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@79fb09b9]},legacy=false] (/192.168.1.137:60594) lost connection: Disconnected
+[17:12:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b3c94af[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@5d56bf8]},legacy=false] (/83.253.146.146:49661) lost connection: Disconnected
+[17:12:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3473ms behind, skipping 69 tick(s)
+[17:12:14] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:12:16] [pool-3-thread-2/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:12:37] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bfcc561[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:60597): Authentication servers are down. Please try again later, sorry!
+[17:12:37] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[17:12:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bfcc561[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:60597) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:12:37] [Server thread/INFO]: /83.253.146.146:49663 lost connection: Disconnected
+[17:12:38] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@169be7b[id=<null>,name=Skywarslover,properties={},legacy=false] (/83.253.146.146:49668): Authentication servers are down. Please try again later, sorry!
+[17:12:38] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[17:12:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@169be7b[id=<null>,name=Skywarslover,properties={},legacy=false] (/83.253.146.146:49668) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:13:23] [User Authenticator #8/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[17:13:23] [Server thread/INFO]: FabboCJ[/192.168.1.137:60599] logged in with entity id 1925 at ([tutworld] 1416.2321225486733, 111.0, 3203.296811599963)
+[17:13:32] [User Authenticator #9/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[17:13:32] [Server thread/INFO]: Skywarslover[/83.253.146.146:49671] logged in with entity id 2091 at ([tutworld] 181.86088554912007, 74.0, 212.56304180581228)
+[17:13:36] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[17:13:44] [Server thread/INFO]: Skywarslover issued server command: /god
+[17:13:46] [Server thread/INFO]: Skywarslover issued server command: /help
+[17:13:48] [Server thread/INFO]: Skywarslover issued server command: /help 2
+[17:13:54] [Server thread/INFO]: Skywarslover issued server command: /godaxe
+[17:14:19] [Server thread/INFO]: FabboCJ issued server command: /tp skywarslover
+[17:14:19] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to Skywarslover]
+[17:14:31] [Server thread/INFO]: Skywarslover issued server command: /godsword
+[17:14:40] [Server thread/INFO]: FabboCJ issued server command: /godaxe
+[17:14:46] [Server thread/INFO]: Skywarslover issued server command: /godpickaxe
+[17:16:28] [Server thread/INFO]: Skywarslover issued server command: /help
+[17:16:30] [Server thread/INFO]: Skywarslover issued server command: /help 2
+[17:16:32] [Server thread/INFO]: Skywarslover issued server command: /help 3
+[17:16:38] [Server thread/INFO]: Skywarslover issued server command: /gopick
+[17:16:42] [Server thread/INFO]: Skywarslover issued server command: /godpick
+[17:17:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2158ms behind, skipping 43 tick(s)
+[17:22:17] [pool-3-thread-1/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:22:31] [Server thread/INFO]: Skywarslover issued server command: /godspade
+[17:25:28] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ./godswrod[m
+[17:25:31] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> ./godsword[m
+[17:29:59] [Server thread/INFO]: FabboCJ was slain by Zombie Pigman
+[17:31:55] [Server thread/INFO]: Skywarslover issued server command: /heal
+[17:31:55] [Server thread/INFO]: Skywarslover was slain by Zombie Pigman
+[17:32:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2026ms behind, skipping 40 tick(s)
+[17:32:13] [Server thread/INFO]: FabboCJ issued server command: /TPALL FABBOCJ
+[17:32:30] [Server thread/INFO]: FabboCJ issued server command: /TP skywarslover fabbocj
+[17:32:30] [Server thread/INFO]: [FabboCJ: Teleported Skywarslover to FabboCJ]
+[17:33:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2697ms behind, skipping 53 tick(s)
+[17:54:42] [Server thread/INFO]: FabboCJ issued server command: /op skywarslover
+[17:54:42] [Server thread/INFO]: [FabboCJ: Opped skywarslover]
+[17:54:47] [Server thread/INFO]: Skywarslover issued server command: /give @p 373 1 16397 {CustomPotionEffects:[{Id:21,Amplifier:2­­­,Duration:1000000},{Id:1,Amplifier:3
+[17:55:02] [Server thread/INFO]: Skywarslover issued server command: /give @p 374 1 16397 {CustomPotionEffects:[{Id:21,Amplifier:2­­­,Duration:1000000},{Id:1,Amplifier:3
+[17:55:44] [Server thread/INFO]: Skywarslover issued server command: /give @a 137
+[17:56:55] [Server thread/INFO]: Skywarslover lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[17:56:55] [Server thread/INFO]: Skywarslover left the game.
+[17:59:06] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:59:09] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[17:59:09] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[17:59:09] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[17:59:09] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[17:59:09] [Server thread/INFO]: [0;33;22mGodSet: [0;37;1mAll commands for GodSet[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMultiverse-Adventure: [0;37;1mAll commands for Multiverse-Adventure[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMultiverse-Core: [0;37;1mAll commands for Multiverse-Core[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMultiverse-Downloader: [0;37;1mAll commands for Multiverse-Downloader[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMultiverse-NetherPortals: [0;37;1mAll commands for Multiverse-NetherPortals[m
+[17:59:09] [Server thread/INFO]: [0;33;22mMultiverse-Portals: [0;37;1mAll commands for Multiverse-Portals[m
+[17:59:09] [Server thread/INFO]: [0;33;22mPlayerInfo: [0;37;1mAll commands for PlayerInfo[m
+[17:59:09] [Server thread/INFO]: [0;33;22mVault: [0;37;1mAll commands for Vault[m
+[17:59:09] [Server thread/INFO]: [0;33;22mWorldEdit: [0;37;1mAll commands for WorldEdit[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/.s: [0;37;1mExecute last CraftScript[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//: [0;37;1mToggle the super pickaxe pickaxe function[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//center: [0;37;1mSet the center block(s)[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//chunk: [0;37;1mSet the selection to your current chunk.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//clearhistory: [0;37;1mClear your history[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//contract: [0;37;1mContract the selection area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//copy: [0;37;1mCopy the selection to the clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//count: [0;37;1mCounts the number of a certain type of block[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//curve: [0;37;1mDraws a spline through selected points[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//cut: [0;37;1mCut the selection to the clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//cyl: [0;37;1mGenerates a cylinder.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//deform: [0;37;1mDeforms a selected region with an expression[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//desel: [0;37;1mDeselect the current selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//distr: [0;37;1mGet the distribution of blocks in the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//drain: [0;37;1mDrain a pool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//ex: [0;37;1mExtinguish nearby fire[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//expand: [0;37;1mExpand the selection area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//faces: [0;37;1mBuild the walls, ceiling, and floor of a selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//fast: [0;37;1mToggle fast mode[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//fill: [0;37;1mFill a hole[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//fillr: [0;37;1mFill a hole recursively[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//fixlava: [0;37;1mFix lava to be stationary[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//fixwater: [0;37;1mFix water to be stationary[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//flip: [0;37;1mFlip the contents of the clipboard.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//flora: [0;37;1mMake flora within the region[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//forest: [0;37;1mMake a forest within the region[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//generate: [0;37;1mGenerates a shape according to a formula.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//generatebiome: [0;37;1mSets biome according to a formula.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//gmask: [0;37;1mSet the global mask[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//green: [0;37;1mGreens the area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hcyl: [0;37;1mGenerates a hollow cylinder.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//help: [0;37;1mDisplays help for the given command or lists all commands.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hollow: [0;37;1mHollows out the object contained in this selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hpos1: [0;37;1mSet position 1 to targeted block[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hpos2: [0;37;1mSet position 2 to targeted block[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hpyramid: [0;37;1mGenerate a hollow pyramid[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//hsphere: [0;37;1mGenerates a hollow sphere.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//inset: [0;37;1mInset the selection area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//limit: [0;37;1mModify block change limit[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//line: [0;37;1mDraws a line segment between cuboid selection corners[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//load: [0;37;1mLoad a schematic into your clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//move: [0;37;1mMove the contents of the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//naturalize: [0;37;1m3 layers of dirt on top then rock below[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//outset: [0;37;1mOutset the selection area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//overlay: [0;37;1mSet a block on top of blocks in the region[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//paste: [0;37;1mPaste the clipboard's contents[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//pos1: [0;37;1mSet position 1[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//pos2: [0;37;1mSet position 2[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//pyramid: [0;37;1mGenerate a filled pyramid[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//redo: [0;37;1mRedoes the last action (from history)[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//regen: [0;37;1mRegenerates the contents of the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//removeabove: [0;37;1mRemove blocks above your head.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//removebelow: [0;37;1mRemove blocks below you.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//removenear: [0;37;1mRemove blocks near you.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//replace: [0;37;1mReplace all blocks in the selection with another[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//replacenear: [0;37;1mReplace nearby blocks[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//rotate: [0;37;1mRotate the contents of the clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//save: [0;37;1mSave a schematic into your clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//schematic: [0;37;1mSchematic-related commands[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//searchitem: [0;37;1mSearch for an item[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//sel: [0;37;1mChoose a region selector[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//set: [0;37;1mSet all the blocks inside the selection to a block[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//setbiome: [0;37;1mSets the biome of the player's current block or region.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//shift: [0;37;1mShift the selection area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//size: [0;37;1mGet information about the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//smooth: [0;37;1mSmooth the elevation in the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//snow: [0;37;1mSimulates snow[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//sphere: [0;37;1mGenerates a filled sphere.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//stack: [0;37;1mRepeat the contents of the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//thaw: [0;37;1mThaws the area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//toggleplace: [0;37;1mSwitch between your position and pos1 for placement[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//undo: [0;37;1mUndoes the last action[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//walls: [0;37;1mBuild the four sides of the selection[m
+[17:59:09] [Server thread/INFO]: [0;33;22m//wand: [0;37;1mGet the wand object[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/achievement: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/ascend: [0;37;1mGo up a floor[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/biomeinfo: [0;37;1mGet the biome of the targeted block.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/biomelist: [0;37;1mGets all biomes available.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/brush: [0;37;1mBrush tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/butcher: [0;37;1mKill all or nearby mobs[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/ceil: [0;37;1mGo to the celing[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/chunkinfo: [0;37;1mGet information about the chunk that you are inside[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/clearclipboard: [0;37;1mClear your clipboard[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/cs: [0;37;1mExecute a CraftScript[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/cycler: [0;37;1mBlock data cycler tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/delchunks: [0;37;1mDelete chunks that your selection includes[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/deltree: [0;37;1mFloating tree remover tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/descend: [0;37;1mGo down a floor[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/farwand: [0;37;1mWand at a distance tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/floodfill: [0;37;1mFlood fill tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/forestgen: [0;37;1mGenerate a forest[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godaxe: [0;37;1mGives you a God Axe[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godboots: [0;37;1mGives you God Boots[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godbow: [0;37;1mGives you a God Bow and Arrow[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godchest: [0;37;1mGives you a God Chestplate[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godhelmet: [0;37;1mGives you a God Helmet[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godlegs: [0;37;1mGives you God Leggings[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godpick: [0;37;1mGives you a God Pickaxe[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godset: [0;37;1mGives you a set of God Armor and God Tools[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godspade: [0;37;1m[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/godsword: [0;37;1mGives you a God Sword[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/info: [0;37;1mBlock information tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/jumpto: [0;37;1mTeleport to a location[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/listchunks: [0;37;1mList chunks that your selection includes[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/lrbuild: [0;37;1mLong-range building tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mask: [0;37;1mSet the brush mask[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mat: [0;37;1mSet the brush material[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mv: [0;37;1mGeneric Multiverse Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mva: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvadisable: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvaenable: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvaflush: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvalist: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvamodify: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvareset: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvaset: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvasettemplate: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvawrite: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvawritetemplate: [0;37;1mGeneric Multiverse-Adventure Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvc: [0;37;1mDisplay World, Coordinates, Direction & Compression for a world.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvclone: [0;37;1mWorld clone command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvco: [0;37;1mDisplays the player's coordinates.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvconfirm: [0;37;1mConfirms sensitive decisions like deleting a world.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvcoord: [0;37;1mDisplay World, Coordinates, Direction & Compression for a world.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvcreate: [0;37;1mWorld create command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvdebug: [0;37;1mTurns on debugging.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvdelete: [0;37;1mWorld delete command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvdownload: [0;37;1mStarts the Multiverse download dialog.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvenv: [0;37;1mTells the user all possible environment types.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvgamerule: [0;37;1mSets a gamerule.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvgamerules: [0;37;1mLists the gamerules.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvgenerators: [0;37;1mDisplays all found world generators.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvgens: [0;37;1mDisplays all found world generators.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvh: [0;37;1mDisplays the Multiverse Help.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvhelp: [0;37;1mDisplays the Multiverse Help.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvi: [0;37;1mGets world info.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvim: [0;37;1mWorld import command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvimport: [0;37;1mWorld import command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvinfo: [0;37;1mGets world info.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvl: [0;37;1mPrint list of loaded Worlds[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvlist: [0;37;1mPrint list of loaded Worlds[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvload: [0;37;1mLoads a world into Multiverse.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvm: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvmadd: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvmclear: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvmodify: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvmremove: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvmset: [0;37;1mModify the settings of an existing world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnp: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnpl: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnpli: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnplink: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnplist: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnps: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnpshow: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnpu: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvnpunlink: [0;37;1mGeneric Multiverse-NetherPortals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvp: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpc: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpcreate: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpl: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvplist: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpm: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpmodify: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpms: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpr: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpremove: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvps: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpselect: [0;37;1mGeneric Multiverse-Portals Command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvpurge: [0;37;1mPurge the targetted world of creatures.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvr: [0;37;1mReload Configuration files.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvregen: [0;37;1mRegenerates a world Multiverse already knows about.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvreload: [0;37;1mReload Configuration files.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvremove: [0;37;1mWorld remove command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvrule: [0;37;1mSets a gamerule.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvrules: [0;37;1mLists the gamerules.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvs: [0;37;1mTeleport to the spawn area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvscript: [0;37;1mRuns a script from the Multiverse scripts directory.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvsearch: [0;37;1mDisplays the Multiverse Help.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvset: [0;37;1mSet the spawn area for a particular world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvsetspawn: [0;37;1mSet the spawn area for a particular world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvsilent: [0;37;1mReduces startup messages[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvspawn: [0;37;1mTeleport to the spawn area[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvss: [0;37;1mSet the spawn area for a particular world[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvtp: [0;37;1mCommand to teleport between Worlds[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvunload: [0;37;1mWorld unload command[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvv: [0;37;1mPrints out version info.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvversion: [0;37;1mPrints out version info.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvw: [0;37;1mDisplay online users per world.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/mvwho: [0;37;1mDisplay online users per world.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/none: [0;37;1mUnbind a bound tool from your current item[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/playerinfo: [0;37;1mReturns first page of information[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/playerinfo page-two: [0;37;1mReturns second page of information[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/pumpkins: [0;37;1mGenerate pumpkin patches[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/range: [0;37;1mSet the brush range[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/remove: [0;37;1mRemove all entities of a type[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/repl: [0;37;1mBlock replacer tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/restore: [0;37;1mRestore the selection from a snapshot[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/size: [0;37;1mSet the brush size[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/snapshot: [0;37;1mSnapshot commands[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/superpickaxe: [0;37;1mSelect super pickaxe mode[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/thru: [0;37;1mPassthrough walls[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/toggleeditwand: [0;37;1mToggle functionality of the edit wand[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/tool: [0;37;1mSelect a tool to bind[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/tree: [0;37;1mTree generator tool[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/unstuck: [0;37;1mEscape from being stuck inside a block[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/up: [0;37;1mGo upwards some distance[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/vault-convert: [0;37;1mConverts all data in economy1 and dumps it into economy2[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/vault-info: [0;37;1mDisplays information about Vault[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/we: [0;37;1mWorldEdit commands[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[17:59:09] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Search [0;33;1m--------------------------[m
+[17:59:16] [Server thread/INFO]: [0;37;22mSearch for: set[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/searchitem: [0;37;1m[0;33;1mAlias for [0;37;1m//searchitem[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/size: [0;37;1mSet the brush size[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/snap: [0;37;1m[0;33;1mAlias for [0;37;1m/snapshot[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/snapshot: [0;37;1mSnapshot commands[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/snow: [0;37;1m[0;33;1mAlias for [0;37;1m//snow[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[17:59:16] [Server thread/INFO]: [0;33;22m/superpickaxe: [0;37;1mSelect super pickaxe mode[m
+[18:00:26] [User Authenticator #10/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:00:26] [Server thread/INFO]: Skywarslover[/83.253.146.146:58921] logged in with entity id 14428 at ([tutworld] 128.15035665122824, 11.0, 2383.461004267576)
+[18:00:35] [Server thread/INFO]: Skywarslover issued server command: /i commandblock 1
+[18:00:54] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover commandblock
+[18:01:00] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover commandblocks
+[18:01:01] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover commandblocks 1
+[18:01:04] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover commandblock 1
+[18:02:01] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover 137
+[18:02:05] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover 137
+[18:02:17] [Server thread/INFO]: Skywarslover issued server command: /gamerule commandBlockOutput
+[18:02:19] [Server thread/INFO]: Skywarslover issued server command: /gamerule commandBlockOutput true
+[18:02:19] [Server thread/INFO]: [Skywarslover: Game rule has been updated]
+[18:02:29] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover commandblock
+[18:02:35] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:02:35] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:03:03] [Server thread/INFO]: Skywarslover issued server command: /invsee FabboCJ
+[18:03:35] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover CommandBlock
+[18:03:40] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover 137
+[18:03:42] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover 137 1
+[18:03:44] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover 137:1
+[18:03:47] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover
+[18:03:57] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover stone
+[18:03:57] [Server thread/INFO]: [Skywarslover: Given [Stone] * 1 to Skywarslover]
+[18:04:57] [Server thread/INFO]: Skywarslover issued server command: /godbow
+[18:05:49] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:05:49] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:06:23] [Server thread/INFO]: Skywarslover lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[18:06:23] [Server thread/INFO]: Skywarslover left the game.
+[18:10:45] [Server thread/INFO]: [Server] cj är snygg :O
+[18:16:06] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:16:06] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[18:16:06] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[18:16:06] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[18:16:06] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[18:16:06] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[18:16:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[18:16:06] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[18:16:06] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[18:16:06] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[18:16:06] [Server thread/INFO]: [PlayerInfo] has been disabled
+[18:16:06] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:16:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:16:06] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:16:06] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:16:06] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:16:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[18:16:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[18:16:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[18:16:06] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:16:06] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:16:06] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:16:06] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[18:16:06] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[18:16:06] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:16:06] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:16:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[18:16:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:16:06] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:16:07] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:16:07] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:16:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:16:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:16:07] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:16:07] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:16:07] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678

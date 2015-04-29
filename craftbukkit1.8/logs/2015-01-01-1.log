@@ -1,0 +1,326 @@
+[03:16:39] [Server thread/INFO]: Starting minecraft server version 1.8
+[03:16:39] [Server thread/INFO]: Loading properties
+[03:16:39] [Server thread/INFO]: Default game type: SURVIVAL
+[03:16:39] [Server thread/INFO]: Generating keypair
+[03:16:40] [Server thread/INFO]: Starting Minecraft server on *:25566
+[03:16:40] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[03:16:40] [Server thread/INFO]: Preparing level "tutworld"
+[03:16:41] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:44] [Server thread/INFO]: Preparing spawn area: 34%
+[03:16:45] [Server thread/INFO]: Preparing spawn area: 48%
+[03:16:46] [Server thread/INFO]: Preparing spawn area: 48%
+[03:16:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[03:16:49] [Server thread/INFO]: Preparing spawn area: 73%
+[03:16:49] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[03:16:50] [Server thread/INFO]: Done (9.638s)! For help, type "help" or "?"
+[03:16:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3473ms behind, skipping 69 tick(s)
+[03:18:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10390ms behind, skipping 207 tick(s)
+[03:18:07] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[03:18:07] [Server thread/INFO]: FabboCJ[/192.168.1.136:49299] logged in with entity id 1026 at ([tutworld] 182.4791590771719, 70.0, 214.89933867350695)
+[03:18:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17358ms behind, skipping 347 tick(s)
+[03:18:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2575ms behind, skipping 51 tick(s)
+[03:19:23] [Server thread/INFO]: FabboCJ lost connection: Internal Exception: java.io.IOException: Broken pipe
+[03:19:23] [Server thread/INFO]: FabboCJ left the game.
+[03:19:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 43070ms behind, skipping 861 tick(s)
+[03:19:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@ed3d03[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.136:49378) lost connection: Disconnected
+[03:21:12] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[03:21:12] [Server thread/INFO]: FabboCJ[/37.46.178.157:49383] logged in with entity id 1859 at ([tutworld] 182.83158214947755, 70.0, 217.62376646625052)
+[03:21:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2746ms behind, skipping 54 tick(s)
+[03:21:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3675ms behind, skipping 73 tick(s)
+[03:22:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15456ms behind, skipping 309 tick(s)
+[03:23:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
+[03:24:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 27807ms behind, skipping 556 tick(s)
+[03:25:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6281ms behind, skipping 125 tick(s)
+[03:27:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16211ms behind, skipping 324 tick(s)
+[03:28:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
+[03:28:40] [Server thread/WARN]: FabboCJ moved wrongly!
+[03:29:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5423ms behind, skipping 108 tick(s)
+[03:29:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18277ms behind, skipping 365 tick(s)
+[03:30:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20860ms behind, skipping 417 tick(s)
+[03:31:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10464ms behind, skipping 209 tick(s)
+[03:32:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 30746ms behind, skipping 614 tick(s)
+[03:32:23] [Server thread/INFO]: FabboCJ lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[03:32:23] [Server thread/INFO]: FabboCJ left the game.
+[03:32:29] [User Authenticator #4/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[03:32:30] [Server thread/INFO]: FabboCJ[/37.46.178.157:49560] logged in with entity id 7764 at ([tutworld] 127.05469901997313, 5.0, 2396.470666292046)
+[03:34:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3886ms behind, skipping 77 tick(s)
+[03:34:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9659ms behind, skipping 193 tick(s)
+[03:35:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3252ms behind, skipping 65 tick(s)
+[03:35:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3301ms behind, skipping 66 tick(s)
+[03:37:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12302ms behind, skipping 246 tick(s)
+[03:40:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15087ms behind, skipping 301 tick(s)
+[03:40:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3963ms behind, skipping 79 tick(s)
+[03:58:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2847ms behind, skipping 56 tick(s)
+[04:10:27] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[04:10:27] [Server thread/INFO]: FabboCJ left the game.
+[04:45:34] [User Authenticator #5/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[04:45:34] [Server thread/INFO]: FabboCJ[/192.168.1.136:49717] logged in with entity id 45126 at ([tutworld] 1341.4349033834883, 64.0, 3147.1294812700953)
+[04:51:23] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[04:51:23] [Server thread/INFO]: FabboCJ left the game.
+[05:10:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4775ms behind, skipping 95 tick(s)
+[08:00:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2277ms behind, skipping 45 tick(s)
+[08:02:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7306ms behind, skipping 146 tick(s)
+[08:07:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2501ms behind, skipping 50 tick(s)
+[11:06:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3121ms behind, skipping 62 tick(s)
+[11:11:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[11:36:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2006ms behind, skipping 40 tick(s)
+[13:54:29] [User Authenticator #6/INFO]: UUID of player jennysun is 7900e234-1bd5-4b95-849e-e13e96a55e5e
+[13:54:29] [Server thread/INFO]: jennysun[/192.168.1.136:49800] logged in with entity id 49003 at ([tutworld] 181.29929496548746, 80.0, 214.96972336108632)
+[13:54:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3026ms behind, skipping 60 tick(s)
+[13:56:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4721ms behind, skipping 94 tick(s)
+[14:02:01] [User Authenticator #7/INFO]: UUID of player Gurgie is ee114986-c102-43ca-a496-8f4cc6c50c9d
+[14:02:02] [Server thread/INFO]: Gurgie[/192.168.1.106:55800] logged in with entity id 63929 at ([tutworld] -79.52775734878513, 94.0, -187.2455828393247)
+[14:02:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3002ms behind, skipping 60 tick(s)
+[14:02:13] [Server thread/INFO]: Gurgie lost connection: Disconnected
+[14:02:13] [Server thread/INFO]: Gurgie left the game.
+[14:02:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2815ms behind, skipping 56 tick(s)
+[14:03:44] [User Authenticator #8/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[14:03:53] [Server thread/INFO]: FabboCJ[/192.168.1.106:55834] logged in with entity id 66633 at ([tutworld] 1428.2612076726166, 83.78608123157454, 3213.5898937487755)
+[14:03:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8328ms behind, skipping 166 tick(s)
+[14:16:27] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[14:16:27] [Server thread/INFO]: FabboCJ left the game.
+[14:34:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4777ms behind, skipping 95 tick(s)
+[14:34:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4256ms behind, skipping 85 tick(s)
+[14:34:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[14:37:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2681ms behind, skipping 53 tick(s)
+[14:39:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5685ms behind, skipping 113 tick(s)
+[14:51:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3859ms behind, skipping 77 tick(s)
+[14:52:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15695ms behind, skipping 313 tick(s)
+[14:52:57] [User Authenticator #9/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[14:52:59] [Server thread/INFO]: FabboCJ[/192.168.1.2:40877] logged in with entity id 123931 at ([tutworld] 1415.3481494306723, 94.0, 3204.300000011921)
+[14:52:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2163ms behind, skipping 43 tick(s)
+[14:53:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2415ms behind, skipping 48 tick(s)
+[14:53:37] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[14:53:37] [Server thread/INFO]: FabboCJ left the game.
+[14:54:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6890ms behind, skipping 137 tick(s)
+[14:55:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9237ms behind, skipping 184 tick(s)
+[14:57:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6866ms behind, skipping 137 tick(s)
+[14:58:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19886ms behind, skipping 397 tick(s)
+[14:58:01] [Server thread/WARN]: jennysun moved wrongly!
+[15:00:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2891ms behind, skipping 57 tick(s)
+[15:00:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4225ms behind, skipping 84 tick(s)
+[15:01:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8508ms behind, skipping 170 tick(s)
+[15:02:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3805ms behind, skipping 76 tick(s)
+[15:02:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4364ms behind, skipping 87 tick(s)
+[15:03:08] [User Authenticator #10/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[15:03:10] [Server thread/INFO]: FabboCJ[/192.168.1.106:56025] logged in with entity id 129874 at ([tutworld] 1409.8194192993187, 94.0, 3207.768109437412)
+[15:03:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[15:17:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
+[15:24:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4085ms behind, skipping 81 tick(s)
+[15:27:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[15:28:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2447ms behind, skipping 48 tick(s)
+[15:29:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
+[15:44:40] [Server thread/INFO]: jennysun lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[15:44:40] [Server thread/INFO]: jennysun left the game.
+[15:59:07] [User Authenticator #11/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[15:59:07] [Server thread/INFO]: Skywarslover[/83.253.146.146:42244] logged in with entity id 184140 at ([tutworld] -36.5, 102.0, -92.5)
+[15:59:14] [Netty Server IO #1/INFO]: <Skywarslover> Hey bro[m
+[15:59:39] [Server thread/INFO]: Skywarslover fell from a high place
+[15:59:49] [Netty Server IO #1/INFO]: <Skywarslover> CJ[m
+[16:00:55] [Server thread/WARN]: Skywarslover moved wrongly!
+[16:01:04] [Netty Server IO #1/INFO]: <Skywarslover> CJ, jag är Micheal Hambergs son.[m
+[16:01:20] [Netty Server IO #1/INFO]: <FabboCJ> Oj, tjena![m
+[16:01:27] [Netty Server IO #1/INFO]: <Skywarslover> Kan man få op?[m
+[16:01:36] [Netty Server IO #1/INFO]: <FabboCJ> Spawn borgen är lite svår att ta sig ur :-P[m
+[16:01:41] [Netty Server IO #1/INFO]: <Skywarslover> Micheal Hamberg är min pappa[m
+[16:01:41] [Netty Server IO #1/INFO]: <FabboCJ> Njae... behöver du det?[m
+[16:01:50] [Netty Server IO #1/INFO]: <FabboCJ> Ja, kul, välkommen! :-3[m
+[16:01:54] [Netty Server IO #1/INFO]: <Skywarslover> Ge mig op så tpar jag ut dig :)[m
+[16:02:05] [Netty Server IO #1/INFO]: <Skywarslover> o ja vill ha op xD[m
+[16:02:14] [Netty Server IO #1/INFO]: <Skywarslover> Om du inte vill ge mig så är det ok :)[m
+[16:02:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
+[16:02:28] [Netty Server IO #1/INFO]: <FabboCJ> Vi spelar hellre lite mer survival...[m
+[16:02:47] [Netty Server IO #1/INFO]: <FabboCJ> Men jag kan komma till dig med :-)[m
+[16:02:49] [Netty Server IO #1/INFO]: <Skywarslover> aha kan du heala mig o tpa till mig då så kör vi :)[m
+[16:03:16] [Netty Server IO #1/INFO]: <FabboCJ> Ska gå om ca 30 min typ :-)[m
+[16:03:32] [Netty Server IO #1/INFO]: <Skywarslover> Jaha, okej, Vad ska du göra då?[m
+[16:03:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3352ms behind, skipping 67 tick(s)
+[16:03:57] [Netty Server IO #1/INFO]: <FabboCJ> Jag ska till badhuset med flickvännen :-) <3[m
+[16:04:11] [Netty Server IO #1/INFO]: <Skywarslover> Jaha när kommer du tillbaka då?[m
+[16:04:18] [Netty Server IO #1/INFO]: <Skywarslover> Klockslag, så jag kan komma in igen :)[m
+[16:04:38] [Netty Server IO #1/INFO]: <Skywarslover> Tpa till mig[m
+[16:04:45] [Server thread/INFO]: Skywarslover issued server command: /tpahere FabboCJ
+[16:04:49] [Server thread/INFO]: Skywarslover issued server command: /help
+[16:04:51] [Server thread/INFO]: Skywarslover issued server command: /help 2
+[16:04:53] [Netty Server IO #1/INFO]: <FabboCJ> Strax[m
+[16:04:53] [Server thread/INFO]: Skywarslover issued server command: /help 3
+[16:04:59] [Server thread/INFO]: Skywarslover issued server command: /tell
+[16:05:07] [Netty Server IO #1/INFO]: <Skywarslover> Okej.[m
+[16:05:20] [Netty Server IO #1/INFO]: <Skywarslover> Beskriv platsen du är på, kan hela borgen[m
+[16:05:26] [Netty Server IO #1/INFO]: <Skywarslover> jag inspektera för någon vecka sen[m
+[16:05:27] [Netty Server IO #1/INFO]: <Skywarslover> xD[m
+[16:05:31] [Netty Server IO #1/INFO]: <FabboCJ> Ahhh... :-)[m
+[16:05:38] [Netty Server IO #1/INFO]: <FabboCJ> Vi är i en canyon i sydöst...[m
+[16:06:02] [Netty Server IO #1/INFO]: <Skywarslover> jag var inne här och Inspektera för någon vecka sen så detta kan jag.[m
+[16:06:08] [Netty Server IO #1/INFO]: <FabboCJ> :-P[m
+[16:06:16] [Netty Server IO #1/INFO]: <FabboCJ> Har du spelat mycket, vanilla eller moddat?[m
+[16:06:26] [Netty Server IO #1/INFO]: <Skywarslover> vanilla[m
+[16:06:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4015ms behind, skipping 80 tick(s)
+[16:06:41] [Netty Server IO #1/INFO]: <Skywarslover> Vad är dina coordinates[m
+[16:06:42] [Netty Server IO #1/INFO]: <Skywarslover> ?[m
+[16:06:46] [Netty Server IO #1/INFO]: <FabboCJ> Vi har ju en...[m
+[16:06:57] [Netty Server IO #1/INFO]: <FabboCJ> Zombies :-P[m
+[16:07:03] [Server thread/INFO]: Skywarslover was shot by Skeleton
+[16:07:08] [Netty Server IO #1/INFO]: <FabboCJ> 87,12,2484[m
+[16:07:21] [Netty Server IO #1/INFO]: <Skywarslover> XYZ alltså?[m
+[16:07:30] [Netty Server IO #1/INFO]: <FabboCJ> Japp[m
+[16:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7064ms behind, skipping 141 tick(s)
+[16:07:56] [Netty Server IO #1/INFO]: <Skywarslover> 87,12,2484[m
+[16:08:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4486ms behind, skipping 89 tick(s)
+[16:08:07] [Netty Server IO #1/INFO]: <Skywarslover> Right den coordinaten har ja aldrig provat men kan försöka[m
+[16:08:09] [Netty Server IO #1/INFO]: <Skywarslover> :)[m
+[16:08:10] [Server thread/INFO]: FabboCJ issued server command: /tp skywarslover
+[16:08:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3538ms behind, skipping 70 tick(s)
+[16:08:44] [User Authenticator #12/INFO]: UUID of player jennysun is 7900e234-1bd5-4b95-849e-e13e96a55e5e
+[16:08:50] [Server thread/INFO]: jennysun[/37.46.178.157:49313] logged in with entity id 210991 at ([tutworld] 70.23469942780822, 13.0, 2603.6287090685173)
+[16:08:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6432ms behind, skipping 128 tick(s)
+[16:08:56] [Netty Server IO #1/INFO]: <Skywarslover> Det går fortare om du gör /tp Skywarslover[m
+[16:09:25] [Netty Server IO #1/INFO]: <Skywarslover> Gör /tp skywarslover nu[m
+[16:09:28] [Netty Server IO #3/INFO]: <jennysun> hej skywars[m
+[16:09:32] [Netty Server IO #1/INFO]: <Skywarslover> hej[m
+[16:09:46] [Netty Server IO #1/INFO]: <Skywarslover> ehm.... Hjälp[m
+[16:09:53] [Netty Server IO #1/INFO]: <Skywarslover> aouch[m
+[16:09:55] [Server thread/INFO]: Skywarslover was slain by Zombie
+[16:10:05] [Server thread/INFO]: Opped UncleCJ
+[16:10:12] [Server thread/INFO]: Opped Jennysun
+[16:10:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
+[16:10:17] [Netty Server IO #3/INFO]: <jennysun> vi är på väg hemåt, hang tight...[m
+[16:10:32] [Netty Server IO #1/INFO]: <Skywarslover> FabboCJ gör /tp Skywarslover[m
+[16:10:44] [Server thread/INFO]: FabboCJ issued server command: /tp skywarslover
+[16:10:59] [Netty Server IO #1/INFO]: <FabboCJ> Det är en craftbukkit server, strular lite...[m
+[16:11:10] [Server thread/INFO]: jennysun issued server command: /tp skywarslover
+[16:11:15] [Server thread/INFO]: [jennysun: Teleported jennysun to Skywarslover]
+[16:11:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5244ms behind, skipping 104 tick(s)
+[16:11:18] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[16:11:18] [Netty Server IO #1/INFO]: <Skywarslover> Jasså, craftbukkit server borde funka samma sak sörru[m
+[16:11:22] [Server thread/INFO]: Opped fabbocj
+[16:11:27] [Netty Server IO #1/INFO]: <Skywarslover> du har saker[m
+[16:11:38] [Netty Server IO #1/INFO]: <Skywarslover> jenny gör /tpall[m
+[16:11:42] [Server thread/INFO]: FabboCJ issued server command: /tp skywalkerslover
+[16:11:49] [Server thread/INFO]: FabboCJ issued server command: /tpall
+[16:12:06] [Netty Server IO #3/INFO]: <jennysun> this way[m
+[16:12:13] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[16:12:17] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: /tp [0;33;1m-----------------------------[m
+[16:12:17] [Server thread/INFO]: [0;33;22mDescription: [0;37;1mA Mojang provided command.[m
+[16:12:17] [Server thread/INFO]: [0;33;22mUsage: [0;37;1m/tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<y-rot> <x-rot>][m
+[16:12:29] [Server thread/INFO]: Teleported FabboCJ to Skywarslover
+[16:12:42] [Netty Server IO #1/INFO]: <Skywarslover> ni har spelat mycket?[m
+[16:12:57] [Netty Server IO #1/INFO]: <Skywarslover> nice skin[m
+[16:13:18] [Netty Server IO #1/INFO]: <FabboCJ> Kom med hem?[m
+[16:13:47] [Netty Server IO #1/INFO]: <FabboCJ> Rätt mycket... :-P[m
+[16:14:08] [Netty Server IO #1/INFO]: <FabboCJ> Vi kör ju en ftblite2 på samma server (default port)[m
+[16:15:03] [Netty Server IO #1/INFO]: <Skywarslover> ftblite2 sabbar allt när det gäller minecraft[m
+[16:15:11] [Netty Server IO #1/INFO]: <FabboCJ> Heh, tycker du? :-P[m
+[16:15:29] [Netty Server IO #1/INFO]: <Skywarslover> Jag vet jag har hållt på med mc server i 5 år.[m
+[16:15:35] [Netty Server IO #1/INFO]: <Skywarslover> läst fakta osv[m
+[16:15:36] [Netty Server IO #1/INFO]: <FabboCJ> Jennysun "pfft!"[m
+[16:15:48] [Netty Server IO #1/INFO]: <FabboCJ> :-P[m
+[16:16:04] [Netty Server IO #1/INFO]: <Skywarslover> är jennysun din flickvän då?[m
+[16:16:06] [Netty Server IO #3/INFO]: <jennysun> 1 av 2[m
+[16:16:19] [Netty Server IO #1/INFO]: <FabboCJ> Så kan man kalla det :-D[m
+[16:16:27] [Netty Server IO #1/INFO]: <FabboCJ> Webhallen är den andra :-)[m
+[16:18:45] [Netty Server IO #1/INFO]: <Skywarslover> får man ta denna pickaxe?[m
+[16:18:52] [Netty Server IO #1/INFO]: <FabboCJ> Vi har precis uppgraderat en massa servrar, kör fel OS och sånt...[m
+[16:19:00] [Netty Server IO #3/INFO]: <jennysun> inte här[m
+[16:19:02] [Netty Server IO #1/INFO]: <FabboCJ> Eh... vad har den?[m
+[16:19:11] [Netty Server IO #3/INFO]: <jennysun> nästa våning[m
+[16:19:14] [Netty Server IO #1/INFO]: <Skywarslover> Unbreaking 3[m
+[16:19:32] [Netty Server IO #1/INFO]: <FabboCJ> Fortune?[m
+[16:19:35] [Netty Server IO #1/INFO]: <Skywarslover> Efficiensy V3[m
+[16:19:39] [Netty Server IO #1/INFO]: <Skywarslover> Nah inge fortune[m
+[16:19:48] [Netty Server IO #1/INFO]: <FabboCJ> Njae, du får jobba ihop ditt eget? ;-)[m
+[16:20:00] [Netty Server IO #1/INFO]: <FabboCJ> Du får järn så det räcker av oss, och wood[m
+[16:20:28] [Netty Server IO #1/INFO]: <Skywarslover> tar 25 Block of iron?[m
+[16:20:43] [Netty Server IO #1/INFO]: <FabboCJ> *sätter i halsen* Ta tio :-P[m
+[16:20:47] [Netty Server IO #1/INFO]: <Skywarslover> Ok[m
+[16:20:58] [Netty Server IO #1/INFO]: <FabboCJ> Vi måste få igång vår gruva ordentligt :-D[m
+[16:20:59] [Netty Server IO #1/INFO]: <Skywarslover> 15 kvar[m
+[16:21:42] [Netty Server IO #1/INFO]: <Skywarslover> tar 4 st wood?[m
+[16:21:44] [Netty Server IO #1/INFO]: <Skywarslover> 6*[m
+[16:21:46] [Netty Server IO #1/INFO]: <FabboCJ> Japp[m
+[16:21:48] [Netty Server IO #1/INFO]: <Skywarslover> 2 för sticks[m
+[16:22:02] [Netty Server IO #1/INFO]: <Skywarslover> elle tar 4[m
+[16:22:09] [Netty Server IO #3/INFO]: <jennysun> varsågod![m
+[16:22:10] [Netty Server IO #1/INFO]: <Skywarslover> lånar er workbench table[m
+[16:23:27] [Netty Server IO #1/INFO]: <FabboCJ> U liek?[m
+[16:23:46] [Netty Server IO #1/INFO]: <Skywarslover> va[m
+[16:23:53] [Netty Server IO #1/INFO]: <FabboCJ> Gillar du vårt hus?[m
+[16:24:01] [Netty Server IO #1/INFO]: <Skywarslover> Ofc jag gillar det.[m
+[16:24:04] [Netty Server IO #1/INFO]: <Skywarslover> Mycket bra jobb.[m
+[16:24:23] [Netty Server IO #1/INFO]: <FabboCJ> Du hade sett det innan med?[m
+[16:24:31] [Netty Server IO #1/INFO]: <Skywarslover> Nej[m
+[16:24:37] [Netty Server IO #1/INFO]: <Skywarslover> Bara de där slottet faktiskt[m
+[16:24:42] [Netty Server IO #1/INFO]: <Skywarslover> då var du offline xD[m
+[16:24:47] [Netty Server IO #1/INFO]: <Skywarslover> Du va inne på fb med mobilen[m
+[16:24:55] [Netty Server IO #1/INFO]: <FabboCJ> Jag lägger till Michael på facebook så får du se våra overviewer-kartor etc[m
+[16:25:24] [Netty Server IO #1/INFO]: <Skywarslover> Lugnt.[m
+[16:25:35] [Netty Server IO #1/INFO]: <Skywarslover> jävlar[m
+[16:25:41] [Netty Server IO #1/INFO]: <Skywarslover> hur har ni spawnat kossorna?[m
+[16:25:47] [Netty Server IO #1/INFO]: <Skywarslover> ägg från gm1?[m
+[16:25:49] [Netty Server IO #1/INFO]: <Skywarslover> :)[m
+[16:26:29] [Netty Server IO #1/INFO]: <FabboCJ> Eh, matat dem... ?[m
+[16:26:34] [Netty Server IO #1/INFO]: <Skywarslover> Tar 64 steak får jag det?[m
+[16:26:41] [Netty Server IO #3/INFO]: <jennysun> mums![m
+[16:26:41] [Netty Server IO #1/INFO]: <FabboCJ> Mmm[m
+[16:26:47] [Netty Server IO #1/INFO]: <Skywarslover> Ah juste matat[m
+[16:26:53] [Netty Server IO #1/INFO]: <Skywarslover> glömde bort att man kunde de[m
+[16:27:13] [Netty Server IO #1/INFO]: <Skywarslover> Ett tips lägg till Essentials i plugins så kan du göra /invsee Sedan namn[m
+[16:27:30] [Netty Server IO #1/INFO]: <FabboCJ> Oh, vad gör det?[m
+[16:27:31] [Netty Server IO #1/INFO]: <Skywarslover> plugins.bukkit.org sedan söker du bara på Essentials.[m
+[16:27:46] [Netty Server IO #1/INFO]: <Skywarslover> Du ser tillexempel min inventory om ja har något där[m
+[16:27:58] [Netty Server IO #1/INFO]: <Skywarslover> du[m
+[16:27:59] [Netty Server IO #1/INFO]: <FabboCJ> Japp, jag har vart på väg att fixa plugins med... har haft mvportals[m
+[16:28:08] [Netty Server IO #1/INFO]: <Skywarslover> Tänk på att låsa grinden?[m
+[16:28:12] [Netty Server IO #1/INFO]: <Skywarslover> En ko rymde just![m
+[16:28:53] [Netty Server IO #1/INFO]: <Skywarslover> Får man bo med er?[m
+[16:29:07] [Netty Server IO #3/INFO]: <jennysun> varsågod![m
+[16:29:10] [Netty Server IO #1/INFO]: <Skywarslover> Tackar.[m
+[16:29:17] [Netty Server IO #1/INFO]: <Skywarslover> Vem sover i mitten av er 2?[m
+[16:29:35] [Netty Server IO #1/INFO]: <FabboCJ> Va?! Tar vi en roomie utan att fråga mig?! :-D[m
+[16:29:44] [Netty Server IO #1/INFO]: <FabboCJ> Kom så lägger vi oss[m
+[16:30:00] [Netty Server IO #1/INFO]: <Skywarslover> hatar att jag måste lagga! XDD[m
+[16:30:17] [Netty Server IO #3/INFO]: <jennysun> det är väl ok m en couchsurfer...[m
+[16:30:30] [Netty Server IO #1/INFO]: <Skywarslover> HHAHAHA De roligt med ditt svärd står uppåt[m
+[16:30:56] [Netty Server IO #3/INFO]: <jennysun> det är ju inte permanent?[m
+[16:30:56] [Netty Server IO #1/INFO]: <Skywarslover> upp med dig[m
+[16:31:01] [Netty Server IO #1/INFO]: <Skywarslover> sömn tuta[m
+[16:32:21] [Netty Server IO #1/INFO]: <Skywarslover> Oj oj oj.[m
+[16:32:28] [Netty Server IO #1/INFO]: <Skywarslover> Detta är en bra karta[m
+[16:32:30] [Netty Server IO #1/INFO]: <Skywarslover> hahahaha[m
+[16:32:41] [Netty Server IO #3/INFO]: <jennysun> dont break anything! hare skoj så ses vi![m
+[16:32:46] [Server thread/INFO]: jennysun lost connection: Disconnected
+[16:32:46] [Server thread/INFO]: jennysun left the game.
+[16:33:40] [Netty Server IO #1/INFO]: <Skywarslover> ofy[m
+[16:33:49] [Netty Server IO #1/INFO]: <Skywarslover> så nära att jag dog[m
+[16:44:17] [Netty Server IO #1/INFO]: <Skywarslover> CJ[m
+[16:46:34] [Netty Server IO #1/INFO]: <FabboCJ> Heh[m
+[16:46:59] [Netty Server IO #1/INFO]: <FabboCJ> Ha're gott, vi har keep inventory... så ses vi! Kanske ikväll när vi kommer hem[m
+[16:47:07] [Netty Server IO #1/INFO]: <Skywarslover> Jag har en kompis här som säger att FTB Lite2 är jätte bra han är bäst av oss 2[m
+[16:47:09] [Netty Server IO #1/INFO]: <Skywarslover> på mc[m
+[16:47:13] [Netty Server IO #1/INFO]: <Skywarslover> Så jag hade helt fel[m
+[16:47:24] [Netty Server IO #1/INFO]: <Skywarslover> Ber om ursäkt![m
+[16:47:34] [Netty Server IO #1/INFO]: <FabboCJ> No problem :-)[m
+[16:47:53] [Netty Server IO #1/INFO]: <Skywarslover> Dock är inte Linux fel OS för linux Är bäst för minecraft där slipper man förstöra sin windows.[m
+[16:47:53] [Netty Server IO #1/INFO]: <FabboCJ> Vi ville kunna lira även från kassa klienter, men nu har jag en Intel Nuc <3[m
+[16:48:26] [Netty Server IO #1/INFO]: <Skywarslover> Jasså, FTB Life2 kan du lägga till Feed the best Life 2[m
+[16:48:34] [Netty Server IO #1/INFO]: <FabboCJ> Ja, men det är iofs 64-bit ubuntu, men på en slö laptop-hårddisk, jag har en SSD med[m
+[16:48:43] [Netty Server IO #1/INFO]: <FabboCJ> Då går det mycket snabbare[m
+[16:48:55] [Netty Server IO #1/INFO]: <Skywarslover> Jasså denna server ligger inte på VPS eller något?[m
+[16:48:58] [Netty Server IO #1/INFO]: <Skywarslover> utan på en dator?[m
+[16:49:33] [Netty Server IO #1/INFO]: <Skywarslover> Kan se om jag kan ordna en VPS åt er. Har somsagt ett företag som mamma äger, där jag får gratis VPS[m
+[16:49:37] [Netty Server IO #1/INFO]: <Skywarslover> som just nu är nere[m
+[16:50:01] [Netty Server IO #1/INFO]: <Skywarslover> God Jul och Gott Nytt år, Ha're så trevligt.[m
+[16:50:16] [Netty Server IO #1/INFO]: <Skywarslover> Bäst jag går off så jag inte kommer på idean att ta allt o sticka[m
+[16:50:29] [Netty Server IO #1/INFO]: <Skywarslover> Är lite dum i huvudet iband[m
+[16:50:31] [Netty Server IO #1/INFO]: <Skywarslover> ibland[m
+[16:50:44] [Netty Server IO #1/INFO]: <Skywarslover> Trevlig vecka Hej![m
+[16:50:47] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[16:50:47] [Server thread/INFO]: Skywarslover left the game.
+[17:02:18] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[17:02:18] [Server thread/INFO]: FabboCJ left the game.
+[17:48:04] [Server thread/INFO]: Opped jennysun
+[20:47:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2516ms behind, skipping 50 tick(s)
+[21:17:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2499ms behind, skipping 49 tick(s)
+[23:41:55] [User Authenticator #13/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[23:41:55] [Server thread/INFO]: FabboCJ[/37.46.178.157:49484] logged in with entity id 335477 at ([tutworld] 181.84546241928004, 74.0, 216.52567109685035)

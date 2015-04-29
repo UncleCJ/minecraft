@@ -1,0 +1,214 @@
+[00:36:23] [Server thread/INFO]: Starting minecraft server version 1.8
+[00:36:23] [Server thread/INFO]: Loading properties
+[00:36:23] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:23] [Server thread/INFO]: Generating keypair
+[00:36:23] [Server thread/INFO]: Starting Minecraft server on *:25566
+[00:36:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[00:36:24] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[00:36:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[00:36:24] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[00:36:24] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[00:36:24] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[00:36:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[00:36:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[00:36:24] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[00:36:24] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.13.1
+[00:36:24] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[00:36:24] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[00:36:24] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[00:36:24] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[00:36:24] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[00:36:24] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[00:36:24] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy found: Waiting
+[00:36:24] [Server thread/INFO]: [Vault] [Vault][Permission] GroupManager found: Waiting
+[00:36:24] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[00:36:24] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager found: Waiting
+[00:36:24] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[00:36:24] [Server thread/INFO]: Preparing level "tutworld"
+[00:36:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[00:36:26] [Server thread/INFO]: Preparing spawn area: 0%
+[00:36:27] [Server thread/INFO]: Preparing spawn area: 53%
+[00:36:29] [Server thread/INFO]: Preparing spawn area: 83%
+[00:36:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[00:36:30] [Server thread/INFO]: Preparing spawn area: 90%
+[00:36:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[00:36:30] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[00:36:30] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[00:36:30] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[00:36:30] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[00:36:30] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[00:36:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[00:36:30] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[00:36:31] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[00:36:31] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[00:36:31] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[00:36:33] [Server thread/INFO]: Preparing spawn area for fromflames, 73%
+[00:36:34] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[00:36:34] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[00:36:35] [Server thread/INFO]: Preparing start region for level 6 (Seed: 64951768)
+[00:36:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[00:36:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:36:36] [Server thread/INFO]: Preparing start region for level 7 (Seed: -6426663970308026368)
+[00:36:37] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 77%
+[00:36:38] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[00:36:38] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:36:38] [Server thread/INFO]: Preparing start region for level 8 (Seed: 3981014598438330368)
+[00:36:39] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 24%
+[00:36:40] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[00:36:40] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[00:36:40] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[00:36:40] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[00:36:40] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[00:36:40] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[00:36:40] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[00:36:40] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+	at com.earth2me.essentials.UserMap.<init>(UserMap.java:27) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:195) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[00:36:40] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[00:36:41] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[00:36:41] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[00:36:41] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[00:36:41] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[00:36:41] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[00:36:43] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[00:36:43] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.13.1
+[00:36:43] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[00:36:43] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[00:36:44] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[00:36:44] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[00:36:44] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[00:36:44] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[00:36:44] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[00:36:44] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[00:36:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:36:47] [Server thread/INFO]: Done (22.327s)! For help, type "help" or "?"
+[00:36:47] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[00:36:49] [pool-3-thread-3/INFO]: [Vault] Checking for Updates:
+[00:36:49] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[00:36:49] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[00:36:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
+[00:38:19] [Server thread/INFO]: You must enter a[0;35;1m world[0;37;1m from the console![m
+[00:38:33] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[00:38:33] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mtutworld[m
+[00:38:33] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;32;1mworld[0;37;1m[m
+[00:38:33] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[00:38:33] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mPEACEFUL[m
+[00:38:33] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-31.51 [0;37;1mY: [0;36;1m85 [0;37;1mZ: [0;36;1m-89.49 [0;37;1mP: [0;33;22m-2.26 [0;37;1mY: [0;33;22m89.8 [m
+[00:38:33] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[00:38:33] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-3414234582187284145[m
+[00:38:33] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[00:38:33] [Server thread/INFO]:  [m
+[00:38:33] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[00:38:33] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mNORMAL[m
+[00:38:33] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]:  [m
+[00:38:33] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[00:38:33] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]:  [m
+[00:38:33] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[00:38:33] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[00:38:33] [Server thread/INFO]:  [m
+[00:38:33] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[00:38:33] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:33] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[00:38:45] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[00:38:45] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mtutworld[m
+[00:38:45] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;32;1mworld[0;37;1m[m
+[00:38:45] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[00:38:45] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mPEACEFUL[m
+[00:38:45] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-31.51 [0;37;1mY: [0;36;1m85 [0;37;1mZ: [0;36;1m-89.49 [0;37;1mP: [0;33;22m-2.26 [0;37;1mY: [0;33;22m89.8 [m
+[00:38:45] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[00:38:45] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-3414234582187284145[m
+[00:38:45] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[00:38:45] [Server thread/INFO]:  [m
+[00:38:45] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[00:38:45] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mNORMAL[m
+[00:38:45] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]:  [m
+[00:38:45] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[00:38:45] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]:  [m
+[00:38:45] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[00:38:45] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[00:38:45] [Server thread/INFO]:  [m
+[00:38:45] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[00:38:45] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:38:45] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[00:38:59] [Server thread/INFO]: From the command line, WORLD is required.[m
+[00:38:59] [Server thread/INFO]: Modify various aspects of worlds. See the help wiki for how to use this command properly. If you do not include a world, the current world will be used.[m
+[00:38:59] [Server thread/INFO]: /mv modify[0;32;1m set {PROPERTY} {VALUE}[0;33;22m [WORLD][m
+[00:38:59] [Server thread/INFO]: Nothing changed.[m
+[00:39:05] [Server thread/INFO]: [0;32;1mSuccess![0;37;1m Property [0;36;1mdiff[0;37;1m was set to [0;32;1m2[m
+[00:39:08] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[00:39:08] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mtutworld[m
+[00:39:08] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;32;1mworld[0;37;1m[m
+[00:39:08] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[00:39:08] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mNORMAL[m
+[00:39:08] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-31.51 [0;37;1mY: [0;36;1m85 [0;37;1mZ: [0;36;1m-89.49 [0;37;1mP: [0;33;22m-2.26 [0;37;1mY: [0;33;22m89.8 [m
+[00:39:08] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[00:39:08] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-3414234582187284145[m
+[00:39:08] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[00:39:08] [Server thread/INFO]:  [m
+[00:39:08] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[00:39:08] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mNORMAL[m
+[00:39:08] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]:  [m
+[00:39:08] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[00:39:08] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]:  [m
+[00:39:08] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[00:39:08] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[00:39:08] [Server thread/INFO]:  [m
+[00:39:08] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[00:39:08] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[00:39:08] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[06:36:49] [pool-3-thread-16/INFO]: [Vault] Checking for Updates:
+[06:36:49] [pool-3-thread-16/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[06:36:49] [pool-3-thread-16/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:36:49] [pool-3-thread-29/INFO]: [Vault] Checking for Updates:
+[12:36:49] [pool-3-thread-29/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[12:36:49] [pool-3-thread-29/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:56:53] [pool-3-thread-39/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:26:53] [pool-3-thread-42/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:36:49] [pool-3-thread-45/INFO]: [Vault] Checking for Updates:
+[18:36:49] [pool-3-thread-45/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[18:36:49] [pool-3-thread-45/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:26:55] [pool-3-thread-46/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core

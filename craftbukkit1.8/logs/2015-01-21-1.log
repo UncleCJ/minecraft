@@ -1,0 +1,19 @@
+[02:03:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2218ms behind, skipping 44 tick(s)
+[02:28:13] [pool-3-thread-1978/INFO]: [Vault] Checking for Updates ... 
+[02:28:14] [pool-3-thread-1978/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[02:28:14] [pool-3-thread-1978/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[08:08:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3619ms behind, skipping 72 tick(s)
+[08:28:15] [pool-3-thread-2039/INFO]: [Vault] Checking for Updates ... 
+[08:28:16] [pool-3-thread-2039/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[08:28:16] [pool-3-thread-2039/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:58:22] [pool-3-thread-2079/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:58:21] [pool-3-thread-2089/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[14:28:15] [pool-3-thread-2102/INFO]: [Vault] Checking for Updates ... 
+[14:28:16] [pool-3-thread-2102/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[14:28:16] [pool-3-thread-2102/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:28:20] [pool-3-thread-2098/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[14:58:20] [pool-3-thread-2103/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:58:20] [pool-3-thread-2136/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[20:28:15] [pool-3-thread-2165/INFO]: [Vault] Checking for Updates ... 
+[20:28:17] [pool-3-thread-2165/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[20:28:17] [pool-3-thread-2165/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault

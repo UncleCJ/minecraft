@@ -1,0 +1,424 @@
+[19:15:29] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:15:29] [Server thread/INFO]: Loading properties
+[19:15:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:15:29] [Server thread/INFO]: Generating keypair
+[19:15:31] [Server thread/INFO]: Starting Minecraft server on *:25566
+[19:15:31] [Server thread/INFO]: Preparing level "tutworld"
+[19:15:32] [Server thread/INFO]: Preparing start region for level 0
+[19:15:38] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:39] [Server thread/INFO]: Preparing spawn area: 2%
+[19:15:41] [Server thread/INFO]: Preparing spawn area: 16%
+[19:15:42] [Server thread/INFO]: Preparing spawn area: 32%
+[19:15:43] [Server thread/INFO]: Preparing spawn area: 59%
+[19:15:44] [Server thread/INFO]: Preparing spawn area: 82%
+[19:15:45] [Server thread/INFO]: Preparing spawn area: 87%
+[19:15:46] [Server thread/INFO]: Preparing spawn area: 96%
+[19:15:46] [Server thread/INFO]: Done (15.575s)! For help, type "help" or "?"
+[19:15:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2524ms behind, skipping 50 tick(s)
+[19:30:37] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:30:37] [Server thread/INFO]: FabboCJ[/192.168.1.136:49586] logged in with entity id 358 at (832.4584363845538, 75.0, 2576.3184977472083)
+[19:30:37] [Server thread/INFO]: §9FabboCJ§r joined the game
+[19:30:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4938ms behind, skipping 98 tick(s)
+[19:31:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2547ms behind, skipping 50 tick(s)
+[19:31:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2403ms behind, skipping 48 tick(s)
+[19:32:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2216ms behind, skipping 44 tick(s)
+[19:32:27] [User Authenticator #2/INFO]: UUID of player Gurgie is ee114986-c102-43ca-a496-8f4cc6c50c9d
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.66 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.364 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.279 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.67 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.279 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.65 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.123 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.172 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.155 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.258 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.111 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.72 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.72 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.307 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.382 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.50 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.116 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.88 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.69 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.292 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.324 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.89 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.54 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.109 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.49 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.76 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.73 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.97 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.32 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.27 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.49 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.395 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.27 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.3 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.257 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.37 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.109 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.126 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.293 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.42 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.89 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.66 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.96 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.31 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.323 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.153 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.50 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.345 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.338 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.351 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.266 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.333 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.1 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.361 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.278 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.340 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.259 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.5 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.33 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.77 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.160 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.309 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.88 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.47 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.308 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.162 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.270 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.38 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.16 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.371 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.293 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.270 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.65 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.308 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.264 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.95 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.38 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.155 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.342 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.82 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.259 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.58 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.256 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.89 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.172 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.336 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.87 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.98 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.95 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.263 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.14 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.324 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.175 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.28 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.320 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.292 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.133 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.61 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.100 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.4 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.323 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.359 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.306 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.161 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.21 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.39 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.78 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.82 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.133 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.126 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.274 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.276 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.5 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.277 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.73 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.277 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.69 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.291 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.339 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.160 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.18 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.291 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.153 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.392 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.69 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.356 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.106 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.393 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.66 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.65 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.12 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.160 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.307 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.328 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.14 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.262 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.58 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.356 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.15 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.70 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.278 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.301 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.267 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.396 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.155 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.6 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.258 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.295 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.61 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.362 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.85 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.133 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.372 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.81 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.56 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.6 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.18 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.164 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.267 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.17 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.159 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.376 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.48 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.17 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.15 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.272 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.87 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.129 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.20 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.13 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.306 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.123 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.70 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.76 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.391 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.287 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.103 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.54 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.351 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.109 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.159 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.273 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.277 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.22 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.112 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.116 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.1 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.273 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.164 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.261 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.280 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.275 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.95 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.77 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.57 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.152 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.325 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.72 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.265 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.346 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.16 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.359 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.257 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.256 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.44 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.98 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.159 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.328 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.106 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.257 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.276 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.359 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.47 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.4 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.173 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.273 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.76 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.5 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.44 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.256 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.101 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.172 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.58 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.162 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.274 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.44 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.342 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.30 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.13 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.81 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.12 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.61 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.123 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.3 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.374 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.98 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.54 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.27 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.67 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.292 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.56 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.82 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.breakItem.278 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.1 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.50 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.331 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.309 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.67 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.85 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.353 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.useItem.28 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.129 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.331 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.mineBlock.175 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.366 is
+[19:32:28] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/ee114986-c102-43ca-a496-8f4cc6c50c9d.json: Don't know what stat.craftItem.274 is
+[19:32:28] [Server thread/INFO]: Gurgie[/192.168.1.106:54837] logged in with entity id 1388 at (1282.5887757378248, 11.0, 3158.410352265458)
+[19:32:28] [Server thread/INFO]: Gurgie joined the game
+[19:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13309ms behind, skipping 266 tick(s)
+[19:33:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4839ms behind, skipping 96 tick(s)
+[19:33:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13429ms behind, skipping 268 tick(s)
+[19:33:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10482ms behind, skipping 209 tick(s)
+[19:34:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8955ms behind, skipping 179 tick(s)
+[19:34:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3517ms behind, skipping 70 tick(s)
+[19:34:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16324ms behind, skipping 326 tick(s)
+[19:35:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2358ms behind, skipping 47 tick(s)
+[19:35:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3548ms behind, skipping 70 tick(s)
+[19:35:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6483ms behind, skipping 129 tick(s)
+[19:35:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3018ms behind, skipping 60 tick(s)
+[19:36:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5181ms behind, skipping 103 tick(s)
+[19:36:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8516ms behind, skipping 170 tick(s)
+[19:36:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5409ms behind, skipping 108 tick(s)
+[19:37:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2489ms behind, skipping 49 tick(s)
+[19:37:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9552ms behind, skipping 191 tick(s)
+[19:37:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8555ms behind, skipping 171 tick(s)
+[19:38:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6308ms behind, skipping 126 tick(s)
+[19:38:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9988ms behind, skipping 199 tick(s)
+[19:38:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5186ms behind, skipping 103 tick(s)
+[19:38:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7396ms behind, skipping 147 tick(s)
+[19:39:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6772ms behind, skipping 135 tick(s)
+[19:39:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2259ms behind, skipping 45 tick(s)
+[19:39:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6202ms behind, skipping 124 tick(s)
+[19:40:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5310ms behind, skipping 106 tick(s)
+[19:40:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[19:40:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10068ms behind, skipping 201 tick(s)
+[19:41:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
+[19:41:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
+[19:41:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2219ms behind, skipping 44 tick(s)
+[19:42:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8900ms behind, skipping 178 tick(s)
+[19:42:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6051ms behind, skipping 121 tick(s)
+[19:42:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3834ms behind, skipping 76 tick(s)
+[19:42:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5413ms behind, skipping 108 tick(s)
+[19:43:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4627ms behind, skipping 92 tick(s)
+[19:43:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4643ms behind, skipping 92 tick(s)
+[19:43:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2008ms behind, skipping 40 tick(s)
+[19:43:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5635ms behind, skipping 112 tick(s)
+[19:44:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2927ms behind, skipping 58 tick(s)
+[19:44:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5548ms behind, skipping 110 tick(s)
+[19:44:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9442ms behind, skipping 188 tick(s)
+[19:45:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9559ms behind, skipping 191 tick(s)
+[19:45:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6301ms behind, skipping 126 tick(s)
+[19:45:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4941ms behind, skipping 98 tick(s)
+[19:46:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8374ms behind, skipping 167 tick(s)
+[19:46:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8456ms behind, skipping 169 tick(s)
+[19:46:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8960ms behind, skipping 179 tick(s)
+[19:46:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2278ms behind, skipping 45 tick(s)
+[19:47:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8006ms behind, skipping 160 tick(s)
+[19:47:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[19:47:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6950ms behind, skipping 139 tick(s)
+[19:48:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8195ms behind, skipping 163 tick(s)
+[19:48:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5678ms behind, skipping 113 tick(s)
+[19:48:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3291ms behind, skipping 65 tick(s)
+[19:49:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11213ms behind, skipping 224 tick(s)
+[19:49:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2335ms behind, skipping 46 tick(s)
+[19:49:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3765ms behind, skipping 75 tick(s)
+[19:50:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5398ms behind, skipping 107 tick(s)
+[19:50:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2489ms behind, skipping 49 tick(s)
+[19:50:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4575ms behind, skipping 91 tick(s)
+[19:51:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9025ms behind, skipping 180 tick(s)
+[19:51:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2138ms behind, skipping 42 tick(s)
+[19:51:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3050ms behind, skipping 61 tick(s)
+[19:51:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
+[19:52:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3247ms behind, skipping 64 tick(s)
+[19:52:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3608ms behind, skipping 72 tick(s)
+[19:52:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5765ms behind, skipping 115 tick(s)
+[19:53:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6408ms behind, skipping 128 tick(s)
+[19:53:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6923ms behind, skipping 138 tick(s)
+[19:53:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6251ms behind, skipping 125 tick(s)
+[19:54:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6271ms behind, skipping 125 tick(s)
+[19:54:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10722ms behind, skipping 214 tick(s)
+[19:54:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6499ms behind, skipping 129 tick(s)
+[19:55:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9040ms behind, skipping 180 tick(s)
+[19:55:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3573ms behind, skipping 71 tick(s)
+[19:55:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2107ms behind, skipping 42 tick(s)
+[19:56:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4228ms behind, skipping 84 tick(s)
+[19:56:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5933ms behind, skipping 118 tick(s)
+[19:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3886ms behind, skipping 77 tick(s)
+[19:56:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2193ms behind, skipping 43 tick(s)
+[19:57:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4177ms behind, skipping 83 tick(s)
+[19:57:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6717ms behind, skipping 134 tick(s)
+[19:57:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
+[19:58:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4858ms behind, skipping 97 tick(s)
+[19:58:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4261ms behind, skipping 85 tick(s)
+[19:58:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2144ms behind, skipping 42 tick(s)
+[19:58:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4289ms behind, skipping 85 tick(s)
+[19:59:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4463ms behind, skipping 89 tick(s)
+[19:59:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[19:59:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4517ms behind, skipping 90 tick(s)
+[20:00:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9479ms behind, skipping 189 tick(s)
+[20:00:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2484ms behind, skipping 49 tick(s)
+[20:00:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7457ms behind, skipping 149 tick(s)
+[20:00:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3262ms behind, skipping 65 tick(s)
+[20:01:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5029ms behind, skipping 100 tick(s)
+[20:01:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2329ms behind, skipping 46 tick(s)
+[20:01:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2993ms behind, skipping 59 tick(s)
+[20:01:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[20:02:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2067ms behind, skipping 41 tick(s)
+[20:02:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2495ms behind, skipping 49 tick(s)
+[20:03:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3627ms behind, skipping 72 tick(s)
+[20:03:20] [Server thread/INFO]: Gurgie was shot by Skeleton
+[20:03:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2998ms behind, skipping 59 tick(s)
+[20:03:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5350ms behind, skipping 107 tick(s)
+[20:04:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3166ms behind, skipping 63 tick(s)
+[20:04:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5303ms behind, skipping 106 tick(s)
+[20:04:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6135ms behind, skipping 122 tick(s)
+[20:05:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8058ms behind, skipping 161 tick(s)
+[20:05:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7469ms behind, skipping 149 tick(s)
+[20:05:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5106ms behind, skipping 102 tick(s)
+[20:06:26] [Server thread/INFO]: Gurgie tried to swim in lava
+[20:07:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 47966ms behind, skipping 959 tick(s)
+[20:07:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2822ms behind, skipping 56 tick(s)
+[20:07:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2607ms behind, skipping 52 tick(s)
+[20:07:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4194ms behind, skipping 83 tick(s)
+[20:07:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3322ms behind, skipping 66 tick(s)
+[20:08:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2209ms behind, skipping 44 tick(s)
+[20:08:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2182ms behind, skipping 43 tick(s)
+[20:08:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
+[20:09:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2566ms behind, skipping 51 tick(s)
+[20:09:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2176ms behind, skipping 43 tick(s)
+[20:09:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4419ms behind, skipping 88 tick(s)
+[20:10:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2111ms behind, skipping 42 tick(s)
+[20:10:08] [Server thread/INFO]: Gurgie fell from a high place
+[20:10:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3396ms behind, skipping 67 tick(s)
+[20:10:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[20:10:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2307ms behind, skipping 46 tick(s)
+[20:11:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4410ms behind, skipping 88 tick(s)
+[20:11:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4735ms behind, skipping 94 tick(s)
+[20:11:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7828ms behind, skipping 156 tick(s)
+[20:12:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6428ms behind, skipping 128 tick(s)
+[20:12:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6196ms behind, skipping 123 tick(s)
+[20:13:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24701ms behind, skipping 494 tick(s)
+[20:13:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6832ms behind, skipping 136 tick(s)
+[20:14:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 30052ms behind, skipping 601 tick(s)
+[20:14:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6725ms behind, skipping 134 tick(s)
+[20:15:40] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[20:15:40] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:15:40] [Server Watchdog/ERROR]: This crash report has been saved to: /mnt/data3/home3/minecraft/tmp/vanilla1.8/./crash-reports/crash-2014-12-31_20.15.40-server.txt
+[20:15:40] [Server Shutdown Thread/INFO]: Stopping server
+[20:15:40] [Server Shutdown Thread/INFO]: Saving players

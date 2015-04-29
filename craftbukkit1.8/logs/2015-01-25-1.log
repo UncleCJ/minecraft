@@ -1,0 +1,61 @@
+[00:28:32] [pool-3-thread-2976/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:28:25] [pool-3-thread-3005/INFO]: [Vault] Checking for Updates ... 
+[02:28:25] [pool-3-thread-3005/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[02:28:25] [pool-3-thread-3005/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[06:28:30] [pool-3-thread-3041/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[06:58:30] [pool-3-thread-3049/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[07:28:32] [pool-3-thread-3052/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[08:08:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5140ms behind, skipping 102 tick(s)
+[08:28:28] [pool-3-thread-3069/INFO]: [Vault] Checking for Updates ... 
+[08:28:29] [pool-3-thread-3069/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[08:28:29] [pool-3-thread-3069/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[10:28:35] [pool-3-thread-3085/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:18:35] [pool-3-thread-3107/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:28:35] [pool-3-thread-3118/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:28:28] [pool-3-thread-3132/INFO]: [Vault] Checking for Updates ... 
+[14:28:29] [pool-3-thread-3132/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[14:28:29] [pool-3-thread-3132/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[15:21:37] [Server thread/INFO]: Stopping the server
+[15:21:37] [Server thread/INFO]: Stopping server
+[15:21:37] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[15:21:37] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[15:21:37] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[15:21:37] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[15:21:37] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[15:21:37] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[15:21:37] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[15:21:37] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[15:21:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[15:21:37] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[15:21:38] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[15:21:38] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[15:21:38] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[15:21:38] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is disabled!
+[15:21:38] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[15:21:38] [Server thread/INFO]: [PlayerInfo] has been disabled
+[15:21:38] [Server thread/INFO]: Saving players
+[15:21:38] [Server thread/INFO]: Saving worlds
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'fromflames'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'fromashes'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'cubeception2smp'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'minigames'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'Bomber'/Overworld
+[15:21:39] [Server thread/INFO]: Saving chunks for level 'cityworld'/Overworld
+[15:21:40] [Server thread/INFO]: Saving chunks for level 'The Elements'/Overworld
+[15:21:40] [Server thread/INFO]: Saving chunks for level 'cubeceptionreloaded'/Overworld
+[15:21:40] [Server thread/INFO]: Saving chunks for level 'creepersoccer'/Overworld
+[15:21:40] [Thread-4/INFO]: Stopping server
+[15:21:40] [Thread-4/INFO]: Saving players
+[15:21:40] [Thread-4/INFO]: Saving worlds
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'fromflames'/Overworld
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'fromashes'/Overworld
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'creative'/Overworld
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'cubeception2smp'/Overworld
+[15:21:40] [Thread-4/INFO]: Saving chunks for level 'minigames'/Overworld

@@ -1,0 +1,1467 @@
+[00:36:49] [pool-3-thread-60/INFO]: [Vault] Checking for Updates:
+[00:36:49] [pool-3-thread-60/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[00:36:49] [pool-3-thread-60/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[06:36:49] [pool-3-thread-73/INFO]: [Vault] Checking for Updates:
+[06:36:49] [pool-3-thread-73/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[06:36:49] [pool-3-thread-73/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:36:49] [pool-3-thread-87/INFO]: [Vault] Checking for Updates:
+[12:36:49] [pool-3-thread-87/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[12:36:49] [pool-3-thread-87/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:42:53] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[12:42:53] [Server thread/INFO]: FabboCJ[/85.229.225.202:36154] logged in with entity id 3564 at ([tutworld] -79.89352989754939, 90.0, -57.951852969679976)
+[12:43:41] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[12:47:29] [Server thread/INFO]: FabboCJ issued server command: /FLY
+[12:47:38] [Server thread/INFO]: FabboCJ issued server command: /fly
+[12:47:49] [Server thread/INFO]: FabboCJ issued server command: /gamemode creative
+[12:48:51] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[12:48:51] [Server thread/INFO]: FabboCJ left the game.
+[12:49:45] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[12:49:46] [Server thread/INFO]: FabboCJ[/85.229.225.202:36195] logged in with entity id 5888 at ([tutworld] -99.70897224025681, 71.0, -100.73163972596805)
+[12:56:30] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[13:15:55] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[13:15:55] [Server thread/INFO]: FabboCJ left the game.
+[14:28:28] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[14:28:28] [Server thread/INFO]: FabboCJ[/85.229.225.202:36763] logged in with entity id 39376 at ([tutworld] -17.059881687930257, 80.0, 30.122644439119625)
+[14:41:54] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:41:57] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[14:41:57] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[14:41:57] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:41:57] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[14:41:57] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:41:57] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[14:41:57] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[14:41:57] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[14:41:57] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[14:41:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:41:57] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:41:57] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[14:41:57] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[14:41:58] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[14:41:58] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:41:58] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[14:41:58] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[14:41:58] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[14:41:58] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[14:41:58] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[14:41:58] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[14:41:58] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.13.1
+[14:41:58] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[14:41:58] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:41:58] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[14:41:58] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[14:41:58] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[14:41:58] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[14:41:58] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy found: Waiting
+[14:41:58] [Server thread/INFO]: [Vault] [Vault][Permission] GroupManager found: Waiting
+[14:41:58] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[14:41:58] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager found: Waiting
+[14:41:58] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[14:41:58] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[14:41:58] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[14:41:58] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[14:41:58] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[14:41:58] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[14:41:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:41:58] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[14:41:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[14:41:58] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[14:42:04] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[14:42:04] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:42:05] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[14:42:05] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:42:06] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[14:42:06] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:42:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[14:42:06] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[14:42:06] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[14:42:06] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[14:42:06] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[14:42:06] [Server thread/WARN]: Essentials userMap not initialized
+[14:42:06] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:312) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:702) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:256) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[14:42:06] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[14:42:06] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[14:42:06] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[14:42:06] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[14:42:06] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[14:42:06] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[14:42:09] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[14:42:09] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.13.1
+[14:42:09] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[14:42:09] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[14:42:09] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:42:09] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[14:42:09] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[14:42:09] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[14:42:09] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[14:42:09] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[14:42:12] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:42:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14944ms behind, skipping 298 tick(s)
+[14:42:12] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[14:42:13] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[14:42:13] [pool-3-thread-95/INFO]: [Vault] Checking for Updates:
+[14:42:13] [pool-3-thread-95/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[14:42:13] [pool-3-thread-95/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:45:40] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[14:45:40] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[14:45:40] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:45:40] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[14:45:40] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:45:40] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[14:45:40] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[14:45:40] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[14:45:40] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[14:45:40] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:45:40] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:45:40] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[14:45:40] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[14:45:40] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[14:45:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:45:40] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[14:45:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[14:45:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[14:45:40] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[14:45:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[14:45:40] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[14:45:40] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.13.1
+[14:45:40] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[14:45:40] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:45:40] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[14:45:40] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[14:45:40] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[14:45:40] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[14:45:40] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy found: Waiting
+[14:45:40] [Server thread/INFO]: [Vault] [Vault][Permission] GroupManager found: Waiting
+[14:45:40] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[14:45:40] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager found: Waiting
+[14:45:41] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[14:45:41] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[14:45:41] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[14:45:41] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[14:45:41] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[14:45:41] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[14:45:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:45:41] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[14:45:41] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[14:45:41] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[14:45:46] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[14:45:46] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:45:47] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[14:45:47] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:45:49] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[14:45:49] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:45:49] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[14:45:49] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[14:45:49] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[14:45:49] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[14:45:50] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[14:45:50] [Server thread/WARN]: Essentials userMap not initialized
+[14:45:50] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:312) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:702) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:256) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[14:45:50] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[14:45:50] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[14:45:50] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[14:45:50] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[14:45:50] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[14:45:50] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[14:45:53] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[14:45:53] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.13.1
+[14:45:53] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[14:45:53] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[14:45:53] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:45:53] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[14:45:53] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[14:45:53] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[14:45:53] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[14:45:53] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[14:45:56] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:45:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15827ms behind, skipping 316 tick(s)
+[14:45:56] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[14:45:57] [pool-3-thread-97/INFO]: [Vault] Checking for Updates:
+[14:45:57] [pool-3-thread-97/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[14:45:57] [pool-3-thread-97/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:47:22] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[14:47:22] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[14:47:22] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:47:22] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[14:47:22] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:47:22] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[14:47:22] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[14:47:22] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[14:47:22] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[14:47:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:47:22] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[14:47:22] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[14:47:22] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[14:47:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:47:22] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[14:47:22] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[14:47:22] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[14:47:22] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[14:47:22] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[14:47:22] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[14:47:22] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.13.1
+[14:47:22] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[14:47:22] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:47:22] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[14:47:22] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[14:47:22] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[14:47:22] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[14:47:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:47:22] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[14:47:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:47:22] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[14:47:22] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[14:47:22] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[14:47:22] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[14:47:22] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[14:47:22] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[14:47:22] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[14:47:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:47:22] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[14:47:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[14:47:22] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[14:47:28] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[14:47:28] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:47:29] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[14:47:29] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:47:30] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[14:47:30] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:47:30] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[14:47:30] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[14:47:30] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[14:47:30] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[14:47:30] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[14:47:30] [Server thread/WARN]: Essentials userMap not initialized
+[14:47:30] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:312) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:702) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:256) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[14:47:30] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[14:47:30] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[14:47:30] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[14:47:30] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[14:47:30] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[14:47:30] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[14:47:35] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[14:47:35] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.13.1
+[14:47:35] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[14:47:35] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[14:47:35] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:47:35] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[14:47:35] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[14:47:35] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[14:47:35] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[14:47:35] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[14:47:39] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:47:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17458ms behind, skipping 349 tick(s)
+[14:47:39] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[14:47:39] [pool-3-thread-99/INFO]: [Vault] Checking for Updates ... 
+[14:47:41] [pool-3-thread-99/INFO]: [Vault] No new version available
+[14:47:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[14:48:50] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[14:48:50] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[14:48:50] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:48:50] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[14:48:50] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:48:50] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[14:48:50] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[14:48:50] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[14:48:50] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[14:48:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:48:50] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[14:48:50] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[14:48:50] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[14:48:50] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[14:48:50] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[14:48:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:48:50] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[14:48:50] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[14:48:50] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[14:48:50] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:48:50] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[14:48:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:48:50] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[14:48:50] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[14:48:50] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[14:48:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[14:48:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:48:56] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[14:48:56] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:48:57] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[14:48:57] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:48:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:48:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:48:58] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[14:48:58] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[14:49:03] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[14:49:03] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[14:49:03] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[14:49:03] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[14:49:04] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[14:49:04] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[14:49:04] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:49:07] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:49:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16519ms behind, skipping 330 tick(s)
+[14:49:07] [pool-3-thread-101/INFO]: [Vault] Checking for Updates ... 
+[14:49:08] [pool-3-thread-101/INFO]: [Vault] No new version available
+[14:49:16] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[14:51:14] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[14:51:14] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[14:51:14] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[14:51:14] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[14:51:14] [Server thread/INFO]: [0;37;22mFrom Ashes CTM 1.4 v10 - UNLOADED[m
+[14:51:14] [Server thread/INFO]: [0;37;22mcjspawn - UNLOADED[m
+[14:52:28] [Server thread/INFO]: FabboCJ issued server command: /spawn
+[14:57:45] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:57:45] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[14:57:45] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:57:45] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[14:57:45] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[14:57:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:57:45] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[14:57:45] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[14:57:45] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[14:57:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:57:45] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[14:57:45] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[14:57:46] [Server thread/INFO]: [Essentials] Loading Essentials vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[14:57:46] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[14:57:46] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:57:46] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[14:57:46] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[14:57:46] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[14:57:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:57:46] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[14:57:46] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:57:46] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[14:57:46] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[14:57:46] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[14:57:46] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[14:57:46] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[14:57:46] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[14:57:46] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[14:57:46] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:57:46] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[14:57:46] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[14:57:46] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[14:57:52] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[14:57:52] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:57:53] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[14:57:53] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:57:54] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[14:57:54] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:57:54] [Server thread/INFO]: [Essentials] Enabling Essentials vPre2.14.1.3
+[14:57:54] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[14:57:54] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[14:57:54] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[14:57:54] [Server thread/INFO]: Creating config from template: /home/minecraft-ssd/craftbukkit1.8/plugins/Essentials/config.yml
+[14:57:54] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[14:57:54] [Server thread/WARN]: Essentials userMap not initialized
+[14:57:54] [Server thread/ERROR]: Error occurred while enabling Essentials vPre2.14.1.3 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:330) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:747) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:275) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[14:57:54] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[14:57:54] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vPre2.14.1.3
+[14:57:54] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[14:57:54] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[14:57:54] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[14:57:54] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[14:57:54] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[14:57:59] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[14:57:59] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vPre2.14.1.3
+[14:57:59] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[14:57:59] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[14:58:00] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[14:58:00] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[14:58:00] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[14:58:00] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[14:58:00] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[14:58:00] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[14:58:05] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:58:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19441ms behind, skipping 388 tick(s)
+[14:58:05] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[14:58:05] [pool-3-thread-103/INFO]: [Vault] Checking for Updates ... 
+[14:58:06] [pool-3-thread-103/INFO]: [Vault] No new version available
+[14:58:12] [pool-3-thread-102/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:59:07] [Server thread/INFO]: Usage: /defaultgamemode <mode>
+[15:00:13] [Server thread/INFO]: commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, logAdminCommands, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback and showDeathMessages
+[15:11:26] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[15:11:26] [Server thread/INFO]: FabboCJ left the game.
+[15:28:23] [pool-3-thread-102/INFO]: [Metrics] mcstats.org
+[15:38:23] [pool-3-thread-104/INFO]: [Metrics] mcstats.org
+[15:56:24] [User Authenticator #4/INFO]: UUID of player rulerulle is 2a5ae514-7a01-46b1-b199-b36584b69b78
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.139 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.66 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.364 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.279 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.67 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.279 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.65 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.172 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.24 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.72 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.24 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.72 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.163 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.46 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.382 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.116 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.381 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.50 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.88 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.130 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.69 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.381 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.173 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.53 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.324 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.24 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.89 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.54 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.109 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.49 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.80 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.76 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.73 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.46 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.97 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.32 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.130 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.27 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.170 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.146 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.27 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.121 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.3 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.257 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.37 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.109 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.126 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.48 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.42 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.89 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.66 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.96 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.31 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.35 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.323 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.50 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.173 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.345 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.338 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.96 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.351 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.112 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.267 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.139 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.53 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.266 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.139 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.1 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.138 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.278 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.23 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.340 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.355 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.259 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.5 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.101 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.160 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.134 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.164 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.88 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.47 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.134 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.354 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.162 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.156 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.270 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.136 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.38 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.16 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.371 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.293 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.270 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.264 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.95 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.22 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.155 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.342 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.259 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.121 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.58 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.86 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.23 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.152 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.172 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.299 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.98 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.87 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.95 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.29 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.263 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.324 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.14 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.113 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.175 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.320 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.133 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.61 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.4 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.355 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.311 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.323 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.161 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.272 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.21 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.386 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.39 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.101 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.78 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.82 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.86 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.133 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.126 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.276 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.5 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.42 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.69 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.339 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.39 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.18 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.120 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.392 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.356 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.301 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.154 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.272 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.66 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.170 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.12 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.328 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.14 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.58 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.356 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.15 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.278 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.136 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.53 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.267 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.396 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.155 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.6 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.163 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.295 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.61 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.85 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.133 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.80 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.57 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.81 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.126 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.329 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.56 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.107 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.6 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.18 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.164 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.41 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.267 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.17 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.159 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.376 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.48 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.17 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.15 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.272 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.20 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.87 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.79 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.129 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.20 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.401 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.13 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.322 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.163 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.21 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.275 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.70 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.76 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.391 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.330 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.103 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.156 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.54 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.351 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.41 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.109 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.159 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.134 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.277 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.22 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.112 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.116 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.383 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.47 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.114 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.32 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.164 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.35 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.261 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.280 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.275 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.154 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.397 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.77 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.35 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.57 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.152 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.265 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.137 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.16 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.359 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.44 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.268 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.113 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.161 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.130 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.42 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.98 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.159 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.106 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.257 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.276 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.268 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.359 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.47 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.4 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.173 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.76 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.145 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.5 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.44 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.2263 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.101 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.58 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.80 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.268 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.162 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.390 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.274 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.145 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.44 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.342 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.breakItem.298 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.30 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.13 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.127 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.81 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.12 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.138 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.128 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.3 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.98 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.389 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.171 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.170 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.54 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.27 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.67 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.56 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.1 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.50 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.20 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.331 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.67 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.102 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.85 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.102 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.138 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.useItem.28 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.129 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.331 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.mineBlock.175 is
+[15:56:25] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/2a5ae514-7a01-46b1-b199-b36584b69b78.json: Don't know what stat.craftItem.274 is
+[15:56:25] [Server thread/INFO]: rulerulle[/90.227.213.194:65258] logged in with entity id 52100 at ([tutworld] 126.67740643573153, 5.0, 2390.5645000283585)
+[15:56:48] [Server thread/INFO]: rulerulle issued server command: /vanish
+[15:57:02] [Server thread/INFO]: rulerulle issued server command: /help
+[15:57:41] [Server thread/INFO]: rulerulle lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[15:57:41] [Server thread/INFO]: rulerulle left the game.
+[15:57:46] [pool-13-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[15:58:08] [pool-3-thread-104/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:28:10] [pool-3-thread-110/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:30:57] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[17:30:57] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[17:30:57] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[17:30:57] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:30:57] [Server thread/INFO]: [0;37;22mFrom Ashes CTM 1.4 v10 - UNLOADED[m
+[17:30:57] [Server thread/INFO]: [0;37;22mcjspawn - UNLOADED[m
+[17:31:12] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[17:31:12] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mtutworld[m
+[17:31:12] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;32;1mworld[0;37;1m[m
+[17:31:12] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[17:31:12] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mNORMAL[m
+[17:31:12] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-31.51 [0;37;1mY: [0;36;1m85 [0;37;1mZ: [0;36;1m-89.49 [0;37;1mP: [0;33;22m-2.26 [0;37;1mY: [0;33;22m89.8 [m
+[17:31:12] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[17:31:12] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-3414234582187284145[m
+[17:31:12] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[17:31:12] [Server thread/INFO]:  [m
+[17:31:12] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[17:31:12] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mNORMAL[m
+[17:31:12] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]:  [m
+[17:31:12] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[17:31:12] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]:  [m
+[17:31:12] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[17:31:12] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[17:31:12] [Server thread/INFO]:  [m
+[17:31:12] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[17:31:12] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:31:12] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[17:31:45] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[17:31:45] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mcreative[m
+[17:31:45] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;34;1mcreative[0;37;1m[m
+[17:31:45] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mCREATIVE[m
+[17:31:46] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mNORMAL[m
+[17:31:46] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m489.47 [0;37;1mY: [0;36;1m10 [0;37;1mZ: [0;36;1m-183.42 [0;37;1mP: [0;33;22m27.93 [0;37;1mY: [0;33;22m93.24 [m
+[17:31:46] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[17:31:46] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-2369971020579525390[m
+[17:31:46] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[17:31:46] [Server thread/INFO]:  [m
+[17:31:46] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[17:31:46] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mFLAT[m
+[17:31:46] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]:  [m
+[17:31:46] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[17:31:46] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mfalse[m
+[17:31:46] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mfalse[m
+[17:31:46] [Server thread/INFO]:  [m
+[17:31:46] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[17:31:46] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[17:31:46] [Server thread/INFO]:  [m
+[17:31:46] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[17:31:46] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:31:46] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[17:32:45] [Server thread/INFO]: Opped rulerulle
+[17:35:20] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[17:35:20] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:35:20] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[17:35:20] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[17:35:20] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[17:35:20] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[17:35:20] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[17:35:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[17:35:20] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[17:35:20] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[17:35:20] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[17:35:20] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[17:35:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[17:35:20] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[17:35:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[17:35:20] [Server thread/INFO]: [Essentials] Loading Essentials vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[17:35:20] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[17:35:20] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:35:20] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[17:35:20] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[17:35:20] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[17:35:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:35:20] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[17:35:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:35:20] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[17:35:20] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[17:35:20] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[17:35:20] [Server thread/INFO]: [PlayerInfo] Folder was not found, creating a new one.
+[17:35:20] [Server thread/INFO]: [PlayerInfo] Log file was not found, creating a new one.
+[17:35:20] [Server thread/INFO]: Help file not found, creating new one.
+[17:35:20] [Server thread/INFO]: [PlayerInfo] has been enabled
+[17:35:20] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[17:35:20] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[17:35:20] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[17:35:20] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[17:35:20] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[17:35:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[17:35:20] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[17:35:20] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[17:35:20] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[17:35:29] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[17:35:29] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[17:35:30] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[17:35:30] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[17:35:32] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[17:35:32] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:35:32] [Server thread/INFO]: [Essentials] Enabling Essentials vPre2.14.1.3
+[17:35:32] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[17:35:32] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[17:35:32] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[17:35:32] [pool-17-thread-1/INFO]: Creating empty config: /home/minecraft-ssd/craftbukkit1.8/plugins/Essentials/upgrades-done.yml
+[17:35:32] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[17:35:32] [Server thread/ERROR]: Error occurred while enabling Essentials vPre2.14.1.3 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:348) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:747) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:275) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[17:35:32] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[17:35:32] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vPre2.14.1.3
+[17:35:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[17:35:32] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[17:35:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[17:35:32] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[17:35:32] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[17:35:38] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[17:35:38] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vPre2.14.1.3
+[17:35:38] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[17:35:38] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[17:35:39] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[17:35:39] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[17:35:39] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[17:35:39] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[17:35:39] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[17:35:39] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[17:35:44] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[17:35:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24683ms behind, skipping 493 tick(s)
+[17:35:44] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[17:35:44] [pool-3-thread-114/INFO]: [Vault] Checking for Updates ... 
+[17:35:45] [pool-3-thread-114/INFO]: [Vault] No new version available
+[17:38:18] [Server thread/INFO]: [Multiverse-Core] World 'cjspawn' was removed from config.yml
+[17:38:18] [Server thread/INFO]: World removed from config![m
+[17:38:27] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[17:38:27] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[17:38:27] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[17:38:27] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:38:27] [Server thread/INFO]: [0;37;22mFrom Ashes CTM 1.4 v10 - UNLOADED[m
+[17:38:41] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:39:38] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:39:44] [Server thread/WARN]: Unexpected exception while parsing console command "pi fabbocj"
+org.bukkit.command.CommandException: Unhandled exception executing command 'pi' in plugin PlayerInfo v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+Caused by: java.lang.NullPointerException
+	at com.github.walk2222.Main.onCommand(Main.java:56) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	... 8 more
+[17:41:00] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[17:41:00] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[17:41:00] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[17:41:00] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[17:41:00] [Server thread/INFO]: [0;37;22mFrom Ashes CTM 1.4 v10 - UNLOADED[m
+[17:41:18] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[17:41:18] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mfromashes[m
+[17:41:18] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;37;1mfromashes[0;37;1m[m
+[17:41:18] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[17:41:18] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mNORMAL[m
+[17:41:18] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-491 [0;37;1mY: [0;36;1m45 [0;37;1mZ: [0;36;1m311 [0;37;1mP: [0;33;22m0 [0;37;1mY: [0;33;22m0 [m
+[17:41:18] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[17:41:18] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m8440151354802767546[m
+[17:41:18] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[17:41:18] [Server thread/INFO]:  [m
+[17:41:18] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[17:41:18] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mFLAT[m
+[17:41:18] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mfalse[m
+[17:41:18] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]:  [m
+[17:41:18] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[17:41:18] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]:  [m
+[17:41:18] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[17:41:18] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[17:41:18] [Server thread/INFO]:  [m
+[17:41:18] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[17:41:18] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:41:18] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[17:43:09] [Server thread/INFO]: [Multiverse-Core] World 'From Ashes CTM 1.4 v10' was removed from config.yml
+[17:43:09] [Server thread/INFO]: World removed from config![m
+[17:43:48] [Server thread/INFO]: You must enter a[0;35;1m world[0;37;1m from the console![m
+[17:43:54] [Server thread/INFO]: [0;36;1m--- General Info[0;36;1m ---[m
+[17:43:54] [Server thread/INFO]: [0;36;1mWorld Name: [0;37;1mtutworld[m
+[17:43:54] [Server thread/INFO]: [0;33;22mWorld Alias: [0;37;1m[0;32;1mworld[0;37;1m[m
+[17:43:54] [Server thread/INFO]: [0;36;1mGame Mode: [0;37;1mSURVIVAL[m
+[17:43:54] [Server thread/INFO]: [0;33;22mDifficulty: [0;37;1mNORMAL[m
+[17:43:54] [Server thread/INFO]: [0;36;1mSpawn Location: [0;37;1m[0;37;1mX: [0;36;1m-31.51 [0;37;1mY: [0;36;1m85 [0;37;1mZ: [0;36;1m-89.49 [0;37;1mP: [0;33;22m-2.26 [0;37;1mY: [0;33;22m89.8 [m
+[17:43:54] [Server thread/INFO]: [0;33;22mWorld Scale: [0;37;1m1.0[m
+[17:43:54] [Server thread/INFO]: [0;36;1mWorld Seed: [0;37;1m-3414234582187284145[m
+[17:43:54] [Server thread/INFO]: [0;33;22mPrice to enter this world: [0;37;1m[0;32;1mFREE![m
+[17:43:54] [Server thread/INFO]:  [m
+[17:43:54] [Server thread/INFO]: [0;36;1m--- More World Settings[0;36;1m ---[m
+[17:43:54] [Server thread/INFO]: [0;36;1mWorld Type: [0;37;1mNORMAL[m
+[17:43:54] [Server thread/INFO]: [0;33;22mStructures: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;36;1mWeather: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;33;22mPlayers will get hungry: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;36;1mKeep spawn in memory: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]:  [m
+[17:43:54] [Server thread/INFO]: [0;36;1m--- PVP Settings[0;36;1m ---[m
+[17:43:54] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]:  [m
+[17:43:54] [Server thread/INFO]: [0;36;1m--- Monster Settings[0;36;1m ---[m
+[17:43:54] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;36;1mMonsters that CAN spawn: [0;37;1mALL[m
+[17:43:54] [Server thread/INFO]:  [m
+[17:43:54] [Server thread/INFO]: [0;36;1m--- Animal Settings[0;36;1m ---[m
+[17:43:54] [Server thread/INFO]: [0;36;1mMultiverse Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;33;22mBukkit Setting: [0;37;1mtrue[m
+[17:43:54] [Server thread/INFO]: [0;36;1mAnimals that CAN spawn: [0;37;1mALL[m
+[17:59:53] [Server thread/INFO]: [0;36;1m--- Import World ---[m
+[17:59:53] [Server thread/INFO]: [0;33;1mImports a new world of the specified type.[m
+[17:59:53] [Server thread/INFO]: [0;36;22m/mv import[0;32;1m {NAME} {ENV}[0;33;22m -g [GENERATOR[:ID]] [-n][m
+[17:59:53] [Server thread/INFO]: Permission: [0;32;1mmultiverse.core.import[m
+[17:59:53] [Server thread/INFO]: [0;34;1mAliases: [0;31;1mmv import, mvimport, mvim[m
+[17:59:53] [Server thread/INFO]: [0;35;1mExamples:[m
+[17:59:53] [Server thread/INFO]: /mv import [0;33;22mgargamel[0;32;1m normal[m
+[17:59:53] [Server thread/INFO]: /mv import [0;33;22mhell_world[0;32;1m nether[m
+[17:59:53] [Server thread/INFO]: To import a world that uses a generator, you'll need the generator:[m
+[17:59:53] [Server thread/INFO]: /mv import [0;33;22mCleanRoom[0;32;1m normal[0;36;22m CleanRoomGenerator[m
+[18:00:16] [Server thread/INFO]: CONSOLE: Starting import of world 'creepersoccer'...[m
+[18:00:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'creepersoccer' - Env: NORMAL - Type: null
+[18:00:16] [Server thread/INFO]: GroupManager - INFO - New world detected...
+[18:00:16] [Server thread/INFO]: GroupManager - INFO - Creating data for: creepersoccer
+[18:00:16] [Server thread/INFO]: GroupManager - INFO - Don't forget to configure/mirror this world in config.yml.
+[18:00:16] [Server thread/INFO]: Preparing start region for level 9 (Seed: 6851938583268216745)
+[18:00:17] [Server thread/INFO]: CONSOLE: [0;32;1mComplete![m
+[18:00:26] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[18:00:26] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[18:00:26] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[18:00:26] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:00:26] [Server thread/INFO]: [0;37;1mcreepersoccer[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[18:03:12] [Server thread/INFO]: CONSOLE: Starting import of world 'Bomber'...[m
+[18:03:12] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Bomber' - Env: NORMAL - Type: null
+[18:03:12] [Server thread/INFO]: GroupManager - INFO - New world detected...
+[18:03:12] [Server thread/INFO]: GroupManager - INFO - Creating data for: Bomber
+[18:03:12] [Server thread/INFO]: GroupManager - INFO - Don't forget to configure/mirror this world in config.yml.
+[18:03:12] [Server thread/INFO]: Preparing start region for level 10 (Seed: 4919839233390569991)
+[18:03:13] [Server thread/INFO]: Preparing spawn area for Bomber, 65%
+[18:03:16] [Server thread/INFO]: CONSOLE: [0;32;1mComplete![m
+[18:03:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3304ms behind, skipping 66 tick(s)
+[18:11:20] [User Authenticator #5/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:11:20] [Server thread/INFO]: FabboCJ[/85.229.225.202:37737] logged in with entity id 53219 at ([tutworld] -81.76439069221664, 89.0, -68.31772936458317)
+[18:11:30] [Netty Server IO #2/INFO]: [[0;32;1mworld[0;37;1m]<FabboCJ> mvtp creepersoccer[m
+[18:11:37] [Server thread/INFO]: FabboCJ issued server command: /mvtp creepersoccer
+[18:12:07] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[18:13:51] [Server thread/INFO]: [@] @ blue team point
+[18:13:53] [Server thread/INFO]: [@] @ blue team point
+[18:14:16] [Server thread/INFO]: FabboCJ issued server command: /mv spawn
+[18:14:56] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[18:14:56] [Server thread/INFO]: FabboCJ left the game.
+[18:15:20] [pool-16-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[18:25:51] [pool-3-thread-115/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:35:49] [pool-3-thread-115/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:45:51] [pool-3-thread-118/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:55:51] [pool-3-thread-118/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:05:51] [pool-3-thread-118/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:15:51] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:25:51] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:35:51] [pool-3-thread-122/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:41:31] [User Authenticator #6/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:41:31] [Server thread/INFO]: FabboCJ[/85.229.225.202:37777] logged in with entity id 138928 at ([creepersoccer] -499.28794470104424, 4.0, 564.1538578629195)
+[19:42:08] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[19:42:08] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:42:08] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[19:42:08] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[19:42:08] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[19:42:08] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[19:42:08] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[19:42:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[19:42:08] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[19:42:08] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[19:42:08] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[19:42:08] [Server thread/INFO]: [PlayerInfo] has been disabled
+[19:42:08] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[19:42:08] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[19:42:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[19:42:08] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:42:08] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[19:42:08] [Server thread/INFO]: [Essentials] Loading Essentials vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[19:42:08] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[19:42:08] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:42:08] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[19:42:08] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[19:42:08] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:42:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[19:42:08] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[19:42:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:42:08] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[19:42:08] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:42:08] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[19:42:08] [Server thread/INFO]: [PlayerInfo] has been enabled
+[19:42:08] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:42:08] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:42:08] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[19:42:08] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[19:42:08] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[19:42:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[19:42:08] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:42:09] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[19:42:09] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[19:42:23] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[19:42:23] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:42:23] [Server thread/INFO]: [Essentials] Enabling Essentials vPre2.14.1.3
+[19:42:23] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[19:42:23] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[19:42:23] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[19:42:23] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[19:42:23] [Server thread/WARN]: Essentials userMap not initialized
+[19:42:23] [Server thread/ERROR]: Error occurred while enabling Essentials vPre2.14.1.3 (Is it up to date?)
+java.lang.NullPointerException
+	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:330) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:747) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:275) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:723) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:42:23] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[19:42:23] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vPre2.14.1.3
+[19:42:23] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[19:42:23] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[19:42:23] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[19:42:23] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[19:42:23] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[19:42:30] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[19:42:31] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vPre2.14.1.3
+[19:42:31] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[19:42:31] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[19:42:31] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:42:31] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[19:42:31] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[19:42:31] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[19:42:31] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[19:42:31] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[19:42:37] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[19:42:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 29488ms behind, skipping 589 tick(s)
+[19:42:38] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[19:42:38] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[19:42:38] [pool-3-thread-130/INFO]: [Vault] Checking for Updates ... 
+[19:42:39] [pool-3-thread-130/INFO]: [Vault] No new version available
+[19:42:45] [pool-3-thread-129/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:43:36] [Server thread/INFO]: FabboCJ issued server command: /reload
+[19:43:36] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[19:43:36] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[19:43:36] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:43:36] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[19:43:36] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[19:43:36] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[19:43:36] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[19:43:36] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[19:43:36] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[19:43:36] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[19:43:36] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[19:43:36] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[19:43:36] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[19:43:36] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[19:43:36] [Server thread/INFO]: [PlayerInfo] has been disabled
+[19:43:36] [Server thread/ERROR]: Could not load 'plugins/EssentialsXMPP.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_65]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_65]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:43:36] [Server thread/ERROR]: Could not load 'plugins/EssentialsSpawn.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_65]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_65]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:43:36] [Server thread/ERROR]: Could not load 'plugins/EssentialsGeoIP.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_65]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_65]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:43:36] [Server thread/ERROR]: Could not load 'plugins/EssentialsChat.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_65]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_65]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:43:36] [Server thread/ERROR]: Could not load 'plugins/EssentialsAntiBuild.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_65]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_65]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[19:43:36] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[19:43:36] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[19:43:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[19:43:36] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[19:43:36] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:43:36] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[19:43:36] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[19:43:36] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[19:43:36] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:43:36] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[19:43:36] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:43:36] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[19:43:37] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:43:37] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[19:43:37] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:43:37] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[19:43:37] [Server thread/INFO]: [PlayerInfo] has been enabled
+[19:43:37] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:43:37] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:43:37] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[19:43:37] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[19:43:37] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[19:43:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[19:43:37] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:43:37] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[19:43:37] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[19:43:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[19:43:37] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[19:43:51] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[19:43:51] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:43:51] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[19:43:51] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[19:44:00] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[19:44:00] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[19:44:00] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[19:44:01] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:44:01] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[19:44:01] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[19:44:01] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[19:44:09] [Server thread/INFO]: FabboCJ: [0;32;1mReload complete.[m
+[19:44:09] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[19:44:09] [pool-3-thread-132/INFO]: [Vault] Checking for Updates ... 
+[19:44:09] [Server thread/INFO]: FabboCJ lost connection: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[19:44:09] [Server thread/INFO]: FabboCJ left the game.
+[19:44:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 32506ms behind, skipping 650 tick(s)
+[19:44:11] [pool-3-thread-132/INFO]: [Vault] No new version available
+[19:44:12] [User Authenticator #7/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[19:44:12] [Server thread/INFO]: FabboCJ[/85.229.225.202:37779] logged in with entity id 141442 at ([creepersoccer] -497.67939209947707, 4.0, 573.6650004420242)
+[19:44:16] [pool-3-thread-131/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:44:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3870ms behind, skipping 77 tick(s)
+[19:44:29] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[19:45:03] [Server thread/INFO]: Stopping the server
+[19:45:03] [Server thread/INFO]: Stopping server
+[19:45:03] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[19:45:03] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:45:03] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[19:45:03] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[19:45:03] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[19:45:03] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[19:45:03] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[19:45:03] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[19:45:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[19:45:03] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[19:45:03] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[19:45:03] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[19:45:03] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[19:45:03] [Server thread/INFO]: [PlayerInfo] has been disabled
+[19:45:03] [Server thread/INFO]: Saving players
+[19:45:03] [Server thread/INFO]: FabboCJ lost connection: Server closed
+[19:45:03] [Server thread/INFO]: FabboCJ left the game.
+[19:45:03] [Server thread/INFO]: Saving worlds
+[19:45:03] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[19:45:03] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[19:45:03] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[19:45:03] [Server thread/INFO]: Saving chunks for level 'fromflames'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'fromashes'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'cityworld'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'cubeception2smp'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'cubeceptionreloaded'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'creepersoccer'/Overworld
+[19:45:04] [Server thread/INFO]: Saving chunks for level 'Bomber'/Overworld
+[19:45:05] [Thread-4/INFO]: Stopping server
+[19:45:05] [Thread-4/INFO]: Saving players
+[19:45:05] [Thread-4/INFO]: Saving worlds
+[19:45:05] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld

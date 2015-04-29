@@ -1,0 +1,32 @@
+[00:12:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2184ms behind, skipping 43 tick(s)
+[00:17:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[02:07:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2022ms behind, skipping 40 tick(s)
+[03:37:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2024ms behind, skipping 40 tick(s)
+[04:17:45] [pool-3-thread-5017/INFO]: [Vault] Checking for Updates ... 
+[04:17:46] [pool-3-thread-5017/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[04:17:46] [pool-3-thread-5017/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[04:22:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
+[04:32:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2178ms behind, skipping 43 tick(s)
+[07:57:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14036ms behind, skipping 280 tick(s)
+[08:02:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[08:47:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2810ms behind, skipping 56 tick(s)
+[10:17:58] [pool-3-thread-5126/INFO]: [Vault] Checking for Updates ... 
+[10:17:59] [pool-3-thread-5126/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[10:17:59] [pool-3-thread-5126/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[10:47:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[12:27:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2024ms behind, skipping 40 tick(s)
+[16:17:58] [pool-3-thread-5235/INFO]: [Vault] Checking for Updates ... 
+[16:17:59] [pool-3-thread-5235/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[16:17:59] [pool-3-thread-5235/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:47:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2440ms behind, skipping 48 tick(s)
+[17:52:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[18:23:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2358ms behind, skipping 47 tick(s)
+[18:48:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2590ms behind, skipping 51 tick(s)
+[18:58:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2176ms behind, skipping 43 tick(s)
+[19:03:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[19:28:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2272ms behind, skipping 45 tick(s)
+[20:48:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2114ms behind, skipping 42 tick(s)
+[22:18:01] [pool-3-thread-5344/INFO]: [Vault] Checking for Updates ... 
+[22:18:02] [pool-3-thread-5344/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[22:18:02] [pool-3-thread-5344/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[23:33:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2188ms behind, skipping 43 tick(s)

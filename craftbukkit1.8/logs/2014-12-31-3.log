@@ -1,0 +1,40 @@
+[20:23:45] [Server thread/INFO]: Starting minecraft server version 1.8
+[20:23:45] [Server thread/INFO]: Loading properties
+[20:23:45] [Server thread/INFO]: Default game type: SURVIVAL
+[20:23:45] [Server thread/INFO]: Generating keypair
+[20:23:46] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:23:46] [Server thread/INFO]: Preparing level "tutworld"
+[20:23:46] [Server thread/INFO]: Preparing start region for level 0
+[20:23:47] [Server thread/INFO]: Preparing spawn area: 1%
+[20:23:50] [Server thread/INFO]: Preparing spawn area: 30%
+[20:23:51] [Server thread/INFO]: Preparing spawn area: 95%
+[20:23:51] [Server thread/INFO]: Done (4.566s)! For help, type "help" or "?"
+[20:30:36] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[20:30:36] [Server thread/INFO]: FabboCJ[/192.168.1.136:49712] logged in with entity id 299 at (1273.699999988079, 58.0, 3149.699999988079)
+[20:30:36] [Server thread/INFO]: §9FabboCJ§r joined the game
+[20:30:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2775ms behind, skipping 55 tick(s)
+[20:32:29] [User Authenticator #2/INFO]: UUID of player Gurgie is ee114986-c102-43ca-a496-8f4cc6c50c9d
+[20:32:29] [Server thread/INFO]: Gurgie[/192.168.1.106:54957] logged in with entity id 1406 at (185.32863485175207, 66.03584062504456, 217.49810902666732)
+[20:32:29] [Server thread/INFO]: Gurgie joined the game
+[20:32:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2234ms behind, skipping 44 tick(s)
+[20:37:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2849ms behind, skipping 56 tick(s)
+[20:38:25] [Server thread/INFO]: FabboCJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:38:25] [Server thread/INFO]: §9FabboCJ§r left the game
+[20:40:15] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[20:40:15] [Server thread/INFO]: FabboCJ[/192.168.1.136:49735] logged in with entity id 23969 at (1339.6443670915862, 13.0, 3167.2896661389486)
+[20:40:15] [Server thread/INFO]: §9FabboCJ§r joined the game
+[21:03:49] [Server thread/INFO]: §9FabboCJ§r fell from a high place
+[21:04:07] [Server thread/INFO]: FabboCJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:04:07] [Server thread/INFO]: §9FabboCJ§r left the game
+[21:04:15] [Server thread/INFO]: Gurgie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:04:15] [Server thread/INFO]: Gurgie left the game
+[21:08:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2580ms behind, skipping 51 tick(s)
+[21:10:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4387ms behind, skipping 87 tick(s)
+[21:12:41] [Server thread/INFO]: Stopping the server
+[21:12:41] [Server thread/INFO]: Stopping server
+[21:12:41] [Server thread/INFO]: Saving players
+[21:12:41] [Server thread/INFO]: Saving worlds
+[21:12:41] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[21:12:41] [Server thread/INFO]: Saving chunks for level 'tutworld'/Nether
+[21:12:41] [Server thread/INFO]: Saving chunks for level 'tutworld'/The End
+[21:12:41] [Server Shutdown Thread/INFO]: Stopping server

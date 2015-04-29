@@ -1,0 +1,14 @@
+[18:23:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:23:22] [Server thread/INFO]: Stopping the server
+[18:23:22] [Server thread/INFO]: Stopping server
+[18:23:22] [Server thread/INFO]: Saving players
+[18:23:22] [Server thread/INFO]: Saving worlds
+[18:23:22] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[18:23:22] [Server thread/INFO]: Saving chunks for level 'tutworld'/Nether
+[18:23:22] [Server thread/INFO]: Saving chunks for level 'tutworld'/The End
+[18:23:22] [Server Shutdown Thread/INFO]: Stopping server
+[18:23:22] [Server Shutdown Thread/INFO]: Saving players
+[18:23:22] [Server Shutdown Thread/INFO]: Saving worlds
+[18:23:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[18:23:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'tutworld'/Nether
+[18:23:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'tutworld'/The End

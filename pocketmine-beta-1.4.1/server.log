@@ -1,0 +1,430 @@
+2015-03-22 18:05:28 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-03-22 18:05:28 [INFO] Loading pocketmine.yml...
+2015-03-22 18:05:28 [INFO] Loading server properties...
+2015-03-22 18:05:29 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-03-22 18:05:29 [INFO] This server is running PocketMine-MP version 1.4.1dev-936 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2015-03-22 18:05:29 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-03-22 18:05:31 [INFO] Preparing level "world"
+2015-03-22 18:05:31 [INFO] Starting GS4 status listener
+2015-03-22 18:05:31 [INFO] Setting query port to 19132
+2015-03-22 18:05:31 [INFO] Query running on 0.0.0.0:19132
+2015-03-22 18:05:31 [INFO] Default game type: SURVIVAL
+2015-03-22 18:05:31 [INFO] Done (2.938s)! For help, type "help" or "?"
+2015-03-22 18:05:58 [NOTICE] Player data not found for "fabbocj", creating new profile
+2015-03-22 18:05:58 [INFO] FabboCJ[/62.119.166.9:64987] logged in with entity id 1 at (world, 128, 76, 128)
+2015-03-22 18:05:59 [INFO] FabboCJ joined the game
+2015-03-22 18:06:58 [INFO] FabboCJ has left the game
+2015-03-22 18:06:58 [INFO] FabboCJ[/62.119.166.9:64987] logged out due to timeout
+2015-03-22 18:07:04 [INFO] FabboCJ[/62.119.166.9:61418] logged in with entity id 9 at (world, 128, 76, 128)
+2015-03-22 18:07:06 [INFO] FabboCJ joined the game
+2015-03-22 18:08:20 [INFO] FabboCJ has left the game
+2015-03-22 18:08:20 [INFO] FabboCJ[/62.119.166.9:61418] logged out due to Kicked by admin. Reason: logged in from another location
+2015-03-22 18:08:20 [INFO] FabboCJ[/62.119.166.9:52404] logged in with entity id 15 at (world, 128, 76, 128)
+2015-03-22 18:08:21 [INFO] FabboCJ joined the game
+2015-03-22 18:09:20 [INFO] You can only perform this command as a player
+2015-03-22 18:09:20 [INFO] FabboCJ has left the game
+2015-03-22 18:09:20 [INFO] FabboCJ[/62.119.166.9:52404] logged out due to timeout
+2015-03-22 18:09:40 [INFO] FabboCJ[/62.119.166.9:55467] logged in with entity id 21 at (world, 128, 76, 128)
+2015-03-22 18:09:41 [INFO] FabboCJ joined the game
+2015-03-22 18:11:20 [INFO] FabboCJ has left the game
+2015-03-22 18:11:20 [INFO] FabboCJ[/62.119.166.9:55467] logged out due to timeout
+2015-03-22 18:11:23 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2015-03-22 18:11:23 [INFO] /ban: Prevents the specified player from using this server
+2015-03-22 18:11:23 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2015-03-22 18:11:23 [INFO] /banlist: View all players banned from this server
+2015-03-22 18:11:23 [INFO] /defaultgamemode: Set the default gamemode
+2015-03-22 18:11:23 [INFO] /deop: Takes the specified player's operator status
+2015-03-22 18:11:23 [INFO] /difficulty: Sets the game difficulty
+2015-03-22 18:11:23 [INFO] /gamemode: Changes the player to a specific game mode
+2015-03-22 18:11:23 [INFO] /give: Gives the specified player a certain amount of items
+2015-03-22 18:11:23 [INFO] /help: Shows the help menu
+2015-03-22 18:11:23 [INFO] /kick: Removes the specified player from the server
+2015-03-22 18:11:23 [INFO] /kill: Commits suicide, only usable as a player
+2015-03-22 18:11:23 [INFO] /list: Lists all online players
+2015-03-22 18:11:23 [INFO] /me: Performs the specified action in chat
+2015-03-22 18:11:23 [INFO] /op: Gives the specified player operator status
+2015-03-22 18:11:23 [INFO] /pardon: Allows the specified player to use this server
+2015-03-22 18:11:23 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2015-03-22 18:11:23 [INFO] /plugins: Gets a list of plugins running on the server
+2015-03-22 18:11:23 [INFO] /reload: Reloads the server configuration and plugins
+2015-03-22 18:11:23 [INFO] /save-all: Saves the server to disk
+2015-03-22 18:11:23 [INFO] /save-off: Disables server autosaving
+2015-03-22 18:11:23 [INFO] /save-on: Enables server autosaving
+2015-03-22 18:11:23 [INFO] /say: Broadcasts the given message as the sender
+2015-03-22 18:11:23 [INFO] /seed: Shows the world seed
+2015-03-22 18:11:23 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-03-22 18:11:23 [INFO] /spawnpoint: Sets a player's spawn point
+2015-03-22 18:11:23 [INFO] /stop: Stops the server, with optional reason
+2015-03-22 18:11:23 [INFO] /tell: Sends a private message to the given player
+2015-03-22 18:11:23 [INFO] /time: Changes the time on each world
+2015-03-22 18:11:23 [INFO] /timings: Records timings to see performance of the server.
+2015-03-22 18:11:23 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-03-22 18:11:23 [INFO] /version: Gets the version of this server including any plugins in use
+2015-03-22 18:11:23 [INFO] /whitelist: Manages the list of players allowed to use this server
+2015-03-22 18:11:34 [INFO] Unknown command. Type "help" for help.
+2015-03-22 18:11:38 [INFO] Seed: 1427027433
+2015-03-22 18:12:09 [INFO] FabboCJ[/62.119.166.9:60209] logged in with entity id 29 at (world, 128, 76, 128)
+2015-03-22 18:12:10 [INFO] FabboCJ joined the game
+2015-03-22 18:12:41 [INFO] CONSOLE: Stopping the server...
+2015-03-22 18:12:41 [INFO] FabboCJ has left the game
+2015-03-22 18:12:41 [INFO] FabboCJ[/62.119.166.9:60209] logged out due to Server closed
+2015-03-22 18:12:41 [INFO] Unloading level "world"
+2015-03-22 18:12:41 [INFO] Stopping other threads
+2015-03-22 18:13:01 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-03-22 18:13:01 [INFO] Loading pocketmine.yml...
+2015-03-22 18:13:01 [INFO] Loading server properties...
+2015-03-22 18:13:01 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-03-22 18:13:01 [INFO] This server is running PocketMine-MP version 1.4.1dev-936 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2015-03-22 18:13:01 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-03-22 18:13:01 [NOTICE] Level "world" not found
+2015-03-22 18:13:01 [INFO] Preparing level "world"
+2015-03-22 18:13:01 [NOTICE] Spawn terrain for level "world" is being generated in the background
+2015-03-22 18:13:01 [INFO] Starting GS4 status listener
+2015-03-22 18:13:01 [INFO] Setting query port to 19132
+2015-03-22 18:13:01 [INFO] Query running on 0.0.0.0:19132
+2015-03-22 18:13:01 [INFO] Default game type: SURVIVAL
+2015-03-22 18:13:01 [INFO] Done (0.82s)! For help, type "help" or "?"
+2015-03-22 18:13:16 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-22 18:13:18 [INFO] FabboCJ[/62.119.166.9:59098] logged in with entity id 1 at (world, 128, 76, 128)
+2015-03-22 18:13:21 [INFO] FabboCJ joined the game
+2015-03-22 18:13:33 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-22 18:14:08 [INFO] FabboCJ has left the game
+2015-03-22 18:14:08 [INFO] FabboCJ[/62.119.166.9:59098] logged out due to timeout
+2015-03-22 18:14:22 [INFO] FabboCJ[/62.119.166.9:52400] logged in with entity id 2 at (world, 128, 80, 128)
+2015-03-22 18:14:23 [INFO] FabboCJ joined the game
+2015-03-22 18:15:18 [INFO] FabboCJ has left the game
+2015-03-22 18:15:18 [INFO] FabboCJ[/62.119.166.9:52400] logged out due to timeout
+2015-03-22 18:15:31 [INFO] FabboCJ[/62.119.166.9:55934] logged in with entity id 3 at (world, 128, 80, 128)
+2015-03-22 18:15:33 [INFO] FabboCJ joined the game
+2015-03-22 18:16:26 [INFO] CONSOLE: Stopping the server...
+2015-03-22 18:16:26 [INFO] FabboCJ has left the game
+2015-03-22 18:16:26 [INFO] FabboCJ[/62.119.166.9:55934] logged out due to Server closed
+2015-03-22 18:16:26 [INFO] Unloading level "world"
+2015-03-22 18:16:26 [INFO] Stopping other threads
+2015-03-22 18:17:15 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-03-22 18:17:15 [INFO] Loading pocketmine.yml...
+2015-03-22 18:17:15 [INFO] Loading server properties...
+2015-03-22 18:17:15 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-03-22 18:17:15 [INFO] This server is running PocketMine-MP version 1.4.1dev-936 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2015-03-22 18:17:15 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-03-22 18:17:15 [INFO] Preparing level "world"
+2015-03-22 18:17:15 [INFO] Starting GS4 status listener
+2015-03-22 18:17:15 [INFO] Setting query port to 19132
+2015-03-22 18:17:15 [INFO] Query running on 0.0.0.0:19132
+2015-03-22 18:17:15 [INFO] Default game type: SURVIVAL
+2015-03-22 18:17:15 [INFO] Done (0.831s)! For help, type "help" or "?"
+2015-03-22 18:17:29 [INFO] FabboCJ[/62.119.166.9:58965] logged in with entity id 1 at (world, 128, 80, 128)
+2015-03-22 18:17:32 [INFO] FabboCJ joined the game
+2015-03-22 18:20:26 [INFO] FabboCJ has left the game
+2015-03-22 18:20:26 [INFO] FabboCJ[/62.119.166.9:58965] logged out due to timeout
+2015-03-22 18:26:56 [INFO] FabboCJ[/94.234.170.94:46815] logged in with entity id 2 at (world, 128, 80, 128)
+2015-03-22 18:26:59 [INFO] FabboCJ joined the game
+2015-03-22 18:27:56 [NOTICE] Player data not found for "daniel", creating new profile
+2015-03-22 18:27:56 [INFO] daniel[/217.209.123.228:55485] logged in with entity id 3 at (world, 128, 80, 128)
+2015-03-22 18:27:57 [INFO] daniel joined the game
+2015-03-22 18:28:22 [WARNING] FabboCJ moved wrongly!
+2015-03-22 18:28:24 [INFO] daniel has left the game
+2015-03-22 18:28:24 [INFO] daniel[/217.209.123.228:55485] logged out due to timeout
+2015-03-22 18:30:48 [NOTICE] Player data not found for "rebecca", creating new profile
+2015-03-22 18:30:48 [INFO] Rebecca[/217.209.123.228:61327] logged in with entity id 4 at (world, 128, 80, 128)
+2015-03-22 18:30:49 [INFO] Rebecca joined the game
+2015-03-22 18:30:52 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-22 18:31:50 [INFO] FabboCJ has left the game
+2015-03-22 18:31:50 [INFO] FabboCJ[/94.234.170.94:46815] logged out due to timeout
+2015-03-22 18:32:23 [INFO] daniel[/217.209.123.228:60096] logged in with entity id 5 at (world, 127.8618, 81.2492, 127.7685)
+2015-03-22 18:32:23 [INFO] daniel joined the game
+2015-03-22 18:32:46 [INFO] daniel has just earned the achievement Getting Wood
+2015-03-22 18:32:51 [INFO] Rebecca has just earned the achievement Getting Wood
+2015-03-22 18:34:19 [INFO] daniel has left the game
+2015-03-22 18:34:19 [INFO] daniel[/217.209.123.228:60096] logged out due to timeout
+2015-03-22 18:35:27 [INFO] Rebecca has just earned the achievement Benchmarking
+2015-03-22 18:35:39 [INFO] Rebecca has just earned the achievement Time to Mine!
+2015-03-22 18:35:45 [INFO] Rebecca has just earned the achievement Time to Strike!
+2015-03-22 18:37:06 [WARNING] Rebecca moved wrongly!
+2015-03-22 18:37:20 [INFO] Rebecca has just earned the achievement Hot Topic
+2015-03-22 18:37:43 [INFO] Rebecca has left the game
+2015-03-22 18:37:43 [INFO] Rebecca[/217.209.123.228:61327] logged out due to timeout
+2015-03-22 18:39:54 [INFO] CONSOLE: Stopping the server...
+2015-03-22 18:39:54 [INFO] Unloading level "world"
+2015-03-22 18:39:54 [INFO] Stopping other threads
+2015-03-22 18:40:50 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-03-22 18:40:50 [INFO] Loading pocketmine.yml...
+2015-03-22 18:40:50 [INFO] Loading server properties...
+2015-03-22 18:40:50 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-03-22 18:40:50 [INFO] This server is running PocketMine-MP version 1.4.1dev-936 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2015-03-22 18:40:50 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-03-22 18:40:51 [INFO] Preparing level "world"
+2015-03-22 18:40:51 [INFO] Starting GS4 status listener
+2015-03-22 18:40:51 [INFO] Setting query port to 19132
+2015-03-22 18:40:51 [INFO] Query running on 0.0.0.0:19132
+2015-03-22 18:40:51 [INFO] Default game type: SURVIVAL
+2015-03-22 18:40:51 [INFO] Done (1.284s)! For help, type "help" or "?"
+2015-03-22 18:41:02 [INFO] FabboCJ[/94.234.170.212:47206] logged in with entity id 1 at (world, 128, 80, 128.3)
+2015-03-22 18:41:04 [INFO] FabboCJ joined the game
+2015-03-22 18:42:12 [INFO] FabboCJ has left the game
+2015-03-22 18:42:12 [INFO] FabboCJ[/94.234.170.212:47206] logged out due to timeout
+2015-03-22 18:46:43 [INFO] FabboCJ[/94.234.170.212:47207] logged in with entity id 10 at (world, 225.7183, 49, 152.5725)
+2015-03-22 18:46:45 [INFO] FabboCJ joined the game
+2015-03-22 18:49:26 [INFO] FabboCJ has left the game
+2015-03-22 18:49:26 [INFO] FabboCJ[/94.234.170.212:47207] logged out due to timeout
+2015-03-22 18:53:11 [INFO] FabboCJ[/94.234.170.212:47209] logged in with entity id 17 at (world, 240.7, 34, 152.3)
+2015-03-22 18:53:16 [INFO] FabboCJ joined the game
+2015-03-22 18:53:41 [WARNING] FabboCJ moved wrongly!
+2015-03-22 18:54:04 [WARNING] FabboCJ moved wrongly!
+2015-03-22 18:54:36 [INFO] FabboCJ has left the game
+2015-03-22 18:54:36 [INFO] FabboCJ[/94.234.170.212:47209] logged out due to timeout
+2015-03-22 19:52:57 [NOTICE] Player data not found for "felixpaj", creating new profile
+2015-03-22 19:52:57 [INFO] FelixPaj[/85.224.176.244:60777] logged in with entity id 21 at (world, 128, 76, 128)
+2015-03-22 19:52:58 [NOTICE] Player data not found for "elsa", creating new profile
+2015-03-22 19:52:58 [INFO] Elsa[/85.224.176.244:52996] logged in with entity id 24 at (world, 128, 76, 128)
+2015-03-22 19:52:58 [INFO] FelixPaj joined the game
+2015-03-22 19:52:59 [INFO] Elsa joined the game
+2015-03-22 19:53:01 [INFO] FelixPaj has left the game
+2015-03-22 19:53:01 [INFO] FelixPaj[/85.224.176.244:60777] logged out due to client disconnect
+2015-03-22 19:53:12 [INFO] Elsa has left the game
+2015-03-22 19:53:12 [INFO] Elsa[/85.224.176.244:52996] logged out due to client disconnect
+2015-03-22 20:16:12 [INFO] FabboCJ[/62.119.166.9:65146] logged in with entity id 26 at (world, 236.1124, 39.0822, 152.5844)
+2015-03-22 20:16:14 [INFO] FabboCJ joined the game
+2015-03-22 20:16:54 [INFO] FabboCJ has left the game
+2015-03-22 20:16:54 [INFO] FabboCJ[/62.119.166.9:65146] logged out due to timeout
+2015-03-22 20:20:07 [INFO] FelixPaj[/85.224.176.244:56965] logged in with entity id 30 at (world, 128, 76, 128)
+2015-03-22 20:20:08 [INFO] FelixPaj joined the game
+2015-03-22 20:20:11 [INFO] FelixPaj has left the game
+2015-03-22 20:20:11 [INFO] FelixPaj[/85.224.176.244:56965] logged out due to client disconnect
+2015-03-22 20:57:16 [INFO] FabboCJ[/37.46.178.157:56604] logged in with entity id 34 at (world, 236.1124, 38, 152.5844)
+2015-03-22 20:57:17 [INFO] FabboCJ joined the game
+2015-03-22 20:57:32 [INFO] <FabboCJ> hej?
+2015-03-22 20:57:37 [WARNING] FabboCJ moved wrongly!
+2015-03-22 20:58:18 [INFO] FabboCJ has just earned the achievement Getting Wood
+2015-03-22 21:03:02 [INFO] FabboCJ has left the game
+2015-03-22 21:03:02 [INFO] FabboCJ[/37.46.178.157:56604] logged out due to timeout
+2015-03-22 21:50:54 [INFO] FabboCJ[/192.168.1.124:53870] logged in with entity id 66 at (world, 210.2618, 68, 138.5144)
+2015-03-22 21:50:55 [INFO] FabboCJ joined the game
+2015-03-22 21:55:40 [INFO] FabboCJ has left the game
+2015-03-22 21:55:40 [INFO] FabboCJ[/192.168.1.124:53870] logged out due to timeout
+2015-03-22 22:19:42 [INFO] FabboCJ[/192.168.1.124:49790] logged in with entity id 122 at (world, 253.8932, 21, 152.3)
+2015-03-22 22:19:43 [INFO] FabboCJ joined the game
+2015-03-22 22:20:48 [INFO] FabboCJ has left the game
+2015-03-22 22:20:48 [INFO] FabboCJ[/192.168.1.124:49790] logged out due to timeout
+2015-03-22 22:21:49 [INFO] FabboCJ[/192.168.1.124:60613] logged in with entity id 133 at (world, 243.7, 31, 152.5455)
+2015-03-22 22:21:50 [INFO] FabboCJ joined the game
+2015-03-22 22:24:23 [WARNING] FabboCJ moved wrongly!
+2015-03-22 22:29:49 [INFO] FabboCJ has left the game
+2015-03-22 22:29:49 [INFO] FabboCJ[/192.168.1.124:60613] logged out due to timeout
+2015-03-22 22:29:51 [INFO] FabboCJ[/192.168.1.124:61452] logged in with entity id 258 at (world, 232.068, 77, 172.0175)
+2015-03-22 22:29:52 [INFO] FabboCJ joined the game
+2015-03-22 22:32:03 [INFO] FabboCJ has left the game
+2015-03-22 22:32:03 [INFO] FabboCJ[/192.168.1.124:61452] logged out due to client disconnect
+2015-03-22 22:33:52 [INFO] FabboCJ[/192.168.1.124:50297] logged in with entity id 271 at (world, 223.2518, 69, 141.4849)
+2015-03-22 22:33:53 [INFO] FabboCJ joined the game
+2015-03-22 22:38:58 [INFO] FabboCJ has left the game
+2015-03-22 22:38:58 [INFO] FabboCJ[/192.168.1.124:50297] logged out due to Kicked by admin. Reason: logged in from another location
+2015-03-22 22:38:58 [INFO] FabboCJ[/192.168.1.124:56741] logged in with entity id 320 at (world, 231.603, 77, 171.323)
+2015-03-22 22:38:59 [INFO] FabboCJ joined the game
+2015-03-22 22:42:52 [INFO] FabboCJ has left the game
+2015-03-22 22:42:52 [INFO] FabboCJ[/192.168.1.124:56741] logged out due to timeout
+2015-03-22 22:48:32 [INFO] FabboCJ[/37.46.178.157:62624] logged in with entity id 381 at (world, 231.7289, 76, 166.8311)
+2015-03-22 22:48:33 [INFO] FabboCJ joined the game
+2015-03-22 22:49:36 [INFO] FabboCJ has left the game
+2015-03-22 22:49:36 [INFO] FabboCJ[/37.46.178.157:62624] logged out due to client disconnect
+2015-03-22 23:48:40 [INFO] FabboCJ[/37.46.178.157:50597] logged in with entity id 402 at (world, 238.5934, 76, 174.3964)
+2015-03-22 23:48:40 [INFO] FabboCJ joined the game
+2015-03-23 00:11:47 [INFO] FabboCJ has left the game
+2015-03-23 00:11:47 [INFO] FabboCJ[/37.46.178.157:50597] logged out due to timeout
+2015-03-23 00:17:42 [INFO] FabboCJ[/37.46.178.157:55618] logged in with entity id 655 at (world, 239.5062, 77, 173.7549)
+2015-03-23 00:17:43 [INFO] FabboCJ joined the game
+2015-03-23 00:20:16 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:20:16 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:20:18 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:20:20 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:20:21 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:20:21 [WARNING] FabboCJ moved wrongly!
+2015-03-23 00:28:00 [INFO] FabboCJ has left the game
+2015-03-23 00:28:00 [INFO] FabboCJ[/37.46.178.157:55618] logged out due to timeout
+2015-03-23 15:48:53 [INFO] Rebecca[/217.209.123.228:60159] logged in with entity id 895 at (world, 135.3632, 66, 152.4188)
+2015-03-23 15:48:54 [INFO] Rebecca joined the game
+2015-03-23 15:55:12 [INFO] Rebecca has just earned the achievement Getting an Upgrade
+2015-03-23 15:56:21 [INFO] Rebecca has left the game
+2015-03-23 15:56:21 [INFO] Rebecca[/217.209.123.228:60159] logged out due to timeout
+2015-03-23 17:22:40 [INFO] Rebecca[/217.209.123.228:50555] logged in with entity id 999 at (world, 231.719, 75, 166.5833)
+2015-03-23 17:22:40 [INFO] Rebecca joined the game
+2015-03-23 17:23:00 [INFO] Rebecca has left the game
+2015-03-23 17:23:00 [INFO] Rebecca[/217.209.123.228:50555] logged out due to timeout
+2015-03-23 17:23:56 [INFO] Rebecca[/217.209.123.228:56479] logged in with entity id 1005 at (world, 231.719, 75, 166.5833)
+2015-03-23 17:23:57 [INFO] Rebecca joined the game
+2015-03-23 17:24:26 [INFO] Rebecca has left the game
+2015-03-23 17:24:26 [INFO] Rebecca[/217.209.123.228:56479] logged out due to timeout
+2015-03-23 17:27:54 [INFO] Rebecca[/217.209.123.228:56600] logged in with entity id 1011 at (world, 231.719, 75, 166.5833)
+2015-03-23 17:27:57 [INFO] Rebecca joined the game
+2015-03-23 17:30:21 [INFO] Rebecca has left the game
+2015-03-23 17:30:21 [INFO] Rebecca[/217.209.123.228:56600] logged out due to timeout
+2015-03-23 17:32:53 [INFO] Rebecca[/217.209.123.228:58669] logged in with entity id 1018 at (world, 226.607, 48.9216, 151.8571)
+2015-03-23 17:32:54 [INFO] Rebecca joined the game
+2015-03-23 17:34:52 [NOTICE] Player data not found for "emelie", creating new profile
+2015-03-23 17:34:52 [INFO] emelie[/217.209.123.228:61705] logged in with entity id 1030 at (world, 128, 76, 128)
+2015-03-23 17:34:53 [INFO] emelie joined the game
+2015-03-23 17:36:41 [INFO] emelie has just earned the achievement Getting Wood
+2015-03-23 17:45:32 [WARNING] Rebecca moved wrongly!
+2015-03-23 17:46:15 [WARNING] Rebecca moved wrongly!
+2015-03-23 17:46:24 [WARNING] Rebecca moved wrongly!
+2015-03-23 17:46:25 [WARNING] Rebecca moved wrongly!
+2015-03-23 17:59:06 [INFO] daniel[/217.209.123.228:51796] logged in with entity id 1553 at (world, 117.9666, 80, 140.2995)
+2015-03-23 17:59:07 [INFO] daniel joined the game
+2015-03-23 17:59:21 [INFO] daniel has left the game
+2015-03-23 17:59:21 [INFO] daniel[/217.209.123.228:51796] logged out due to client disconnect
+2015-03-23 18:02:42 [WARNING] emelie moved wrongly!
+2015-03-23 18:11:43 [INFO] emelie suffocated in a wall
+2015-03-23 18:12:00 [INFO] <Rebecca> vad hände???
+2015-03-23 18:13:08 [INFO] <emelie> vae inte den sa bara att jag var död och så börgade jag på ett anat ställe i välden så nu vet jag inte var jag är
+2015-03-23 18:13:12 [INFO] <Rebecca> dog du???
+2015-03-23 18:13:32 [INFO] <Rebecca> oki.......
+2015-03-23 18:13:36 [INFO] <Rebecca> blä
+2015-03-23 18:14:05 [INFO] <emelie> ta hälst inte mina saker
+2015-03-23 18:14:14 [INFO] <Rebecca> försök att hitta huset
+2015-03-23 18:14:41 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 18:15:00 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 18:15:02 [INFO] <emelie> jag har tagit mina saker och är vid huset
+2015-03-23 18:15:06 [INFO] FelixPaj[/85.224.176.244:64145] logged in with entity id 1913 at (world, 128, 76, 128)
+2015-03-23 18:15:07 [INFO] FelixPaj joined the game
+2015-03-23 18:15:11 [INFO] FelixPaj has left the game
+2015-03-23 18:15:11 [INFO] FelixPaj[/85.224.176.244:64145] logged out due to client disconnect
+2015-03-23 18:15:13 [INFO] <Rebecca> hej
+2015-03-23 18:15:28 [INFO] <emelie> hej
+2015-03-23 18:15:47 [INFO] <emelie> var är du Rebecca
+2015-03-23 18:16:12 [INFO] <Rebecca> här
+2015-03-23 18:22:14 [INFO] <Rebecca> vill du ha jord???
+2015-03-23 18:22:32 [INFO] <emelie> det spelar ingen roll
+2015-03-23 18:22:54 [INFO] <Rebecca> ta du
+2015-03-23 18:23:17 [INFO] <emelie> oki tack
+2015-03-23 18:23:52 [INFO] <emelie> jag fick precis ett stäck
+2015-03-23 18:24:05 [INFO] <emelie> med jord
+2015-03-23 18:24:07 [INFO] <Rebecca> :)
+2015-03-23 18:24:34 [INFO] <emelie> min dörr försvan :(
+2015-03-23 18:25:02 [INFO] <Rebecca> vänta!!
+2015-03-23 18:25:15 [INFO] <Rebecca> här
+2015-03-23 18:25:19 [INFO] <emelie> på vad?
+2015-03-23 18:25:34 [INFO] <Rebecca> du fick en stenspade
+2015-03-23 18:26:05 [INFO] <emelie> tack tack och åter tack :)
+2015-03-23 18:26:36 [INFO] <Rebecca> det går lite fortare nu :)
+2015-03-23 18:26:44 [INFO] <emelie> litte
+2015-03-23 18:26:55 [INFO] <emelie> jätte mycket fortare:)
+2015-03-23 18:27:43 [INFO] <emelie> tack för hjälpen
+2015-03-23 18:28:07 [INFO] emelie has left the game
+2015-03-23 18:28:07 [INFO] emelie[/217.209.123.228:61705] logged out due to client disconnect
+2015-03-23 18:29:02 [INFO] Rebecca has left the game
+2015-03-23 18:29:02 [INFO] Rebecca[/217.209.123.228:58669] logged out due to timeout
+2015-03-23 20:06:06 [INFO] Rebecca[/217.209.123.228:64879] logged in with entity id 2193 at (world, 237.8044, 75, 165.4334)
+2015-03-23 20:06:07 [INFO] Rebecca joined the game
+2015-03-23 20:12:26 [INFO] Rebecca has left the game
+2015-03-23 20:12:26 [INFO] Rebecca[/217.209.123.228:64879] logged out due to timeout
+2015-03-23 20:12:28 [INFO] Rebecca[/217.209.123.228:54354] logged in with entity id 2289 at (world, 231.8573, 75, 166.1532)
+2015-03-23 20:12:29 [INFO] Rebecca joined the game
+2015-03-23 20:14:29 [INFO] Rebecca has left the game
+2015-03-23 20:14:29 [INFO] Rebecca[/217.209.123.228:54354] logged out due to timeout
+2015-03-23 20:14:39 [INFO] Rebecca[/217.209.123.228:63640] logged in with entity id 2309 at (world, 231.7397, 75, 166.3861)
+2015-03-23 20:14:40 [INFO] Rebecca joined the game
+2015-03-23 20:15:03 [INFO] Rebecca has left the game
+2015-03-23 20:15:03 [INFO] Rebecca[/217.209.123.228:63640] logged out due to timeout
+2015-03-23 20:15:04 [INFO] Rebecca[/217.209.123.228:57025] logged in with entity id 2310 at (world, 231.7397, 75, 166.3861)
+2015-03-23 20:15:05 [INFO] Rebecca joined the game
+2015-03-23 20:24:05 [INFO] Rebecca has left the game
+2015-03-23 20:24:05 [INFO] Rebecca[/217.209.123.228:57025] logged out due to timeout
+2015-03-23 23:06:59 [INFO] FabboCJ[/192.168.1.123:53606] logged in with entity id 2556 at (world, 243.8, 30.5, 152.7)
+2015-03-23 23:07:00 [INFO] FabboCJ joined the game
+2015-03-23 23:07:02 [WARNING] FabboCJ moved wrongly!
+2015-03-23 23:10:44 [WARNING] FabboCJ moved wrongly!
+2015-03-23 23:19:55 [WARNING] FabboCJ moved wrongly!
+2015-03-23 23:23:40 [WARNING] FabboCJ moved wrongly!
+2015-03-23 23:24:17 [INFO] FabboCJ has just earned the achievement Benchmarking
+2015-03-23 23:29:47 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 23:30:20 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 23:30:46 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 23:31:07 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 23:32:08 [WARNING] Can't keep up! Is the server overloaded?
+2015-03-23 23:32:50 [INFO] FabboCJ has left the game
+2015-03-23 23:32:50 [INFO] FabboCJ[/192.168.1.123:53606] logged out due to timeout
+2015-03-24 12:21:48 [INFO] FabboCJ[/94.234.170.55:7174] logged in with entity id 2698 at (world, 204.1149, 69, 891.1984)
+2015-03-24 12:21:49 [INFO] FabboCJ joined the game
+2015-03-24 12:22:30 [WARNING] FabboCJ moved wrongly!
+2015-03-24 12:24:03 [INFO] FabboCJ has left the game
+2015-03-24 12:24:03 [INFO] FabboCJ[/94.234.170.55:7174] logged out due to timeout
+2015-03-24 16:59:16 [INFO] FelixPaj[/85.224.176.244:60534] logged in with entity id 2700 at (world, 125.883, 77, 128.7653)
+2015-03-24 16:59:17 [INFO] FelixPaj joined the game
+2015-03-24 17:00:56 [INFO] FelixPaj has just earned the achievement Getting Wood
+2015-03-24 17:08:03 [NOTICE] Player data not found for "felixgronaartor", creating new profile
+2015-03-24 17:08:03 [INFO] FelixGronaartor[/85.224.176.244:50300] logged in with entity id 2789 at (world, 128, 76, 128)
+2015-03-24 17:08:04 [INFO] FelixGronaartor joined the game
+2015-03-24 17:08:43 [WARNING] FelixGronaartor moved wrongly!
+2015-03-24 17:10:25 [INFO] FelixGronaartor has left the game
+2015-03-24 17:10:25 [INFO] FelixGronaartor[/85.224.176.244:50300] logged out due to timeout
+2015-03-24 17:31:28 [INFO] FelixPaj has left the game
+2015-03-24 17:31:28 [INFO] FelixPaj[/85.224.176.244:60534] logged out due to timeout
+2015-03-24 17:31:35 [INFO] FelixGronaartor[/85.224.176.244:50428] logged in with entity id 2971 at (world, 242.2846, 75, 181.7)
+2015-03-24 17:31:36 [INFO] FelixGronaartor joined the game
+2015-03-24 17:38:41 [INFO] FelixGronaartor has left the game
+2015-03-24 17:38:41 [INFO] FelixGronaartor[/85.224.176.244:50428] logged out due to timeout
+2015-03-24 17:39:12 [INFO] FelixGronaartor[/85.224.176.244:53385] logged in with entity id 2972 at (world, 220.7695, 69, 143.637)
+2015-03-24 17:39:12 [INFO] FelixGronaartor joined the game
+2015-03-24 17:53:36 [INFO] FelixGronaartor has left the game
+2015-03-24 17:53:36 [INFO] FelixGronaartor[/85.224.176.244:53385] logged out due to timeout
+2015-03-24 20:39:35 [INFO] Rebecca[/217.209.123.228:63406] logged in with entity id 2974 at (world, 232.4134, 15, 202.3)
+2015-03-24 20:39:35 [INFO] Rebecca joined the game
+2015-03-24 20:52:02 [WARNING] Rebecca moved wrongly!
+2015-03-24 21:12:26 [INFO] Rebecca has left the game
+2015-03-24 21:12:26 [INFO] Rebecca[/217.209.123.228:63406] logged out due to timeout
+2015-03-25 14:44:01 [INFO] Rebecca[/217.209.123.228:56955] logged in with entity id 3347 at (world, 240.0573, 75, 177.9855)
+2015-03-25 14:44:02 [INFO] Rebecca joined the game
+2015-03-25 14:44:05 [INFO] emelie[/217.209.123.228:53333] logged in with entity id 3371 at (world, 228.1219, 75, 177.7188)
+2015-03-25 14:44:06 [INFO] emelie joined the game
+2015-03-25 14:44:53 [WARNING] emelie moved wrongly!
+2015-03-25 14:45:50 [WARNING] emelie moved wrongly!
+2015-03-25 14:46:57 [INFO] emelie suffocated in a wall
+2015-03-25 14:47:09 [INFO] emelie has left the game
+2015-03-25 14:47:09 [INFO] emelie[/217.209.123.228:53333] logged out due to client disconnect
+2015-03-25 14:48:38 [INFO] emelie[/217.209.123.228:65338] logged in with entity id 3434 at (world, 123.7864, 76, 127.9547)
+2015-03-25 14:48:39 [INFO] emelie joined the game
+2015-03-25 14:54:49 [WARNING] Rebecca moved wrongly!
+2015-03-25 14:55:43 [INFO] Rebecca suffocated in a wall
+2015-03-25 14:56:38 [WARNING] Rebecca moved wrongly!
+2015-03-25 14:59:30 [WARNING] Rebecca moved wrongly!
+2015-03-25 15:00:30 [INFO] emelie has left the game
+2015-03-25 15:00:30 [INFO] emelie[/217.209.123.228:65338] logged out due to client disconnect
+2015-03-25 15:00:31 [INFO] emelie[/217.209.123.228:52562] logged in with entity id 3636 at (world, 216.9725, 69, 147.146)
+2015-03-25 15:00:32 [INFO] emelie joined the game
+2015-03-25 15:03:54 [INFO] emelie suffocated in a wall
+2015-03-25 15:03:57 [INFO] emelie has left the game
+2015-03-25 15:03:57 [INFO] emelie[/217.209.123.228:52562] logged out due to client disconnect
+2015-03-25 15:08:22 [INFO] Rebecca has left the game
+2015-03-25 15:08:22 [INFO] Rebecca[/217.209.123.228:56955] logged out due to timeout
+2015-03-25 15:08:23 [INFO] Rebecca[/217.209.123.228:52939] logged in with entity id 3690 at (world, 244.024, 30.5, 152.7)
+2015-03-25 15:08:24 [INFO] Rebecca joined the game
+2015-03-25 15:18:22 [WARNING] Rebecca moved wrongly!
+2015-03-25 15:20:41 [WARNING] Rebecca moved wrongly!
+2015-03-25 15:30:59 [WARNING] Rebecca moved wrongly!
+2015-03-25 15:40:21 [INFO] Rebecca has left the game
+2015-03-25 15:40:21 [INFO] Rebecca[/217.209.123.228:52939] logged out due to timeout
+2015-03-26 14:57:50 [INFO] FelixPaj[/85.224.176.244:56254] logged in with entity id 3991 at (world, 223.5532, 71, 146.4541)
+2015-03-26 14:57:52 [INFO] FelixPaj joined the game
+2015-03-26 14:58:41 [INFO] FelixPaj has left the game
+2015-03-26 14:58:41 [INFO] FelixPaj[/85.224.176.244:56254] logged out due to client disconnect
+2015-03-26 18:28:59 [INFO] Rebecca[/217.209.123.228:64653] logged in with entity id 4013 at (world, 245.8445, 64, 110.8042)
+2015-03-26 18:29:00 [INFO] Rebecca joined the game
+2015-03-26 18:34:40 [INFO] Rebecca has left the game
+2015-03-26 18:34:40 [INFO] Rebecca[/217.209.123.228:64653] logged out due to timeout
+2015-04-04 08:31:05 [INFO] Rebecca[/217.209.123.228:56797] logged in with entity id 4184 at (world, 246.0725, 64, 111.0204)
+2015-04-04 08:31:07 [INFO] Rebecca joined the game
+2015-04-04 08:33:26 [INFO] Rebecca has left the game
+2015-04-04 08:33:26 [INFO] Rebecca[/217.209.123.228:56797] logged out due to timeout
+2015-04-12 16:52:29 [INFO] FelixGronaartor[/85.224.176.244:54250] logged in with entity id 4187 at (world, 234.5436, 75, 168.5736)
+2015-04-12 16:52:30 [INFO] FelixGronaartor joined the game
+2015-04-12 16:56:06 [INFO] FelixPaj[/85.224.176.244:55652] logged in with entity id 4210 at (world, 225.1159, 75, 161.2492)
+2015-04-12 16:56:06 [INFO] FelixPaj joined the game
+2015-04-12 16:57:28 [INFO] FelixGronaartor has left the game
+2015-04-12 16:57:28 [INFO] FelixGronaartor[/85.224.176.244:54250] logged out due to client disconnect
+2015-04-12 16:57:57 [INFO] FelixPaj has left the game
+2015-04-12 16:57:57 [INFO] FelixPaj[/85.224.176.244:55652] logged out due to client disconnect
+2015-04-18 18:58:37 [INFO] FelixGronaartor[/85.224.176.244:65224] logged in with entity id 4235 at (world, 207.7, 65, 149.6634)
+2015-04-18 18:58:38 [INFO] FelixGronaartor joined the game
+2015-04-18 18:58:46 [INFO] FelixGronaartor has left the game
+2015-04-18 18:58:46 [INFO] FelixGronaartor[/85.224.176.244:65224] logged out due to client disconnect
+2015-04-24 16:54:11 [INFO] emelie[/217.209.123.228:57095] logged in with entity id 423

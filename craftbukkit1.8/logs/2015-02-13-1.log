@@ -1,0 +1,25 @@
+[00:18:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2355ms behind, skipping 47 tick(s)
+[00:58:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2261ms behind, skipping 45 tick(s)
+[02:03:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
+[04:18:02] [pool-3-thread-5453/INFO]: [Vault] Checking for Updates ... 
+[04:18:03] [pool-3-thread-5453/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[04:18:03] [pool-3-thread-5453/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[08:03:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
+[08:48:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2745ms behind, skipping 54 tick(s)
+[08:53:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2110ms behind, skipping 42 tick(s)
+[10:18:03] [pool-3-thread-5562/INFO]: [Vault] Checking for Updates ... 
+[10:18:05] [pool-3-thread-5562/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[10:18:05] [pool-3-thread-5562/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[10:43:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2034ms behind, skipping 40 tick(s)
+[10:53:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2051ms behind, skipping 41 tick(s)
+[12:33:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3003ms behind, skipping 60 tick(s)
+[12:38:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2447ms behind, skipping 48 tick(s)
+[12:48:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[13:53:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2009ms behind, skipping 40 tick(s)
+[16:18:05] [pool-3-thread-5671/INFO]: [Vault] Checking for Updates ... 
+[16:18:06] [pool-3-thread-5671/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[16:18:06] [pool-3-thread-5671/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[20:48:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[22:18:05] [pool-3-thread-5780/INFO]: [Vault] Checking for Updates ... 
+[22:18:06] [pool-3-thread-5780/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[22:18:06] [pool-3-thread-5780/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault

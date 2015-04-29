@@ -1,0 +1,170 @@
+[00:26:08] [Server thread/INFO]: Starting minecraft server version 1.8
+[00:26:08] [Server thread/INFO]: Loading properties
+[00:26:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:26:08] [Server thread/INFO]: Generating keypair
+[00:26:08] [Server thread/INFO]: Starting Minecraft server on *:25566
+[00:26:09] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[00:26:09] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[00:26:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[00:26:09] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[00:26:09] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[00:26:09] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[00:26:09] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[00:26:09] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[00:26:09] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[00:26:09] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.13.1
+[00:26:09] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[00:26:09] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[00:26:09] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[00:26:09] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[00:26:09] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[00:26:09] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[00:26:09] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy found: Waiting
+[00:26:09] [Server thread/INFO]: [Vault] [Vault][Permission] GroupManager found: Waiting
+[00:26:09] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[00:26:09] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager found: Waiting
+[00:26:09] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[00:26:10] [Server thread/INFO]: Preparing level "tutworld"
+[00:26:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[00:26:11] [Server thread/INFO]: Preparing spawn area: 6%
+[00:26:13] [Server thread/INFO]: Preparing spawn area: 28%
+[00:26:14] [Server thread/INFO]: Preparing spawn area: 95%
+[00:26:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[00:26:15] [Server thread/INFO]: Preparing spawn area: 66%
+[00:26:16] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[00:26:16] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[00:26:16] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[00:26:16] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[00:26:16] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[00:26:16] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[00:26:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[00:26:16] [Server thread/INFO]: WEPIF: Updated config file
+[00:26:16] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[00:26:16] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[00:26:16] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[00:26:17] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[00:26:18] [Server thread/WARN]: Wrong location for EntityItemFrame['entity.ItemFrame.name'/777, l='fromflames', x=1168.50, y=7.50, z=1135.97] in world 'fromflames'!
+[00:26:18] [Server thread/WARN]: Entity is at 1168.5,1135.96875 (chunk 73,70) but was stored in chunk 81,20
+[00:26:19] [Server thread/INFO]: Preparing spawn area for fromflames, 61%
+[00:26:19] [Server thread/WARN]: Wrong location for EntityItemFrame['entity.ItemFrame.name'/812, l='fromflames', x=0.97, y=0.50, z=2.50] in world 'fromflames'!
+[00:26:19] [Server thread/WARN]: Entity is at 0.96875,2.5 (chunk 0,0) but was stored in chunk 82,22
+[00:26:19] [Server thread/WARN]: Wrong location for EntityItemFrame['entity.ItemFrame.name'/813, l='fromflames', x=5.03, y=0.50, z=2.50] in world 'fromflames'!
+[00:26:19] [Server thread/WARN]: Entity is at 5.03125,2.5 (chunk 0,0) but was stored in chunk 82,22
+[00:26:19] [Server thread/WARN]: Wrong location for EntityItemFrame['entity.ItemFrame.name'/855, l='fromflames', x=0.97, y=0.50, z=6.50] in world 'fromflames'!
+[00:26:19] [Server thread/WARN]: Entity is at 0.96875,6.5 (chunk 0,0) but was stored in chunk 83,22
+[00:26:19] [Server thread/WARN]: Wrong location for EntityItemFrame['entity.ItemFrame.name'/856, l='fromflames', x=5.03, y=0.50, z=6.50] in world 'fromflames'!
+[00:26:19] [Server thread/WARN]: Entity is at 5.03125,6.5 (chunk 0,0) but was stored in chunk 83,22
+[00:26:20] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[00:26:20] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[00:26:21] [Server thread/INFO]: Preparing start region for level 6 (Seed: 64951768)
+[00:26:22] [Server thread/INFO]: Preparing spawn area for cityworld, 32%
+[00:26:23] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: From Ashes CTM 1.4 v10
+[00:26:23] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:26:23] [Server thread/INFO]: Preparing start region for level 7 (Seed: -6426663970308026368)
+[00:26:24] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 69%
+[00:26:25] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: cjspawn
+[00:26:25] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:26:25] [Server thread/INFO]: Preparing start region for level 8 (Seed: 3981014598438330368)
+[00:26:26] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 81%
+[00:26:26] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[00:26:27] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[00:26:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[00:26:27] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[00:26:27] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[00:26:27] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[00:26:27] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[00:26:27] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+	at com.earth2me.essentials.UserMap.<init>(UserMap.java:27) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:195) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[00:26:27] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[00:26:27] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[00:26:27] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[00:26:27] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[00:26:27] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[00:26:27] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[00:26:31] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[00:26:31] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.13.1
+[00:26:31] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[00:26:31] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[00:26:31] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[00:26:31] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[00:26:31] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[00:26:31] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[00:26:31] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[00:26:31] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[00:26:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:26:33] [Server thread/INFO]: Done (23.620s)! For help, type "help" or "?"
+[00:26:33] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[00:26:35] [pool-3-thread-3/INFO]: [Vault] Checking for Updates:
+[00:26:35] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.0 is out! You are still running version: 1.2.31
+[00:26:35] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[00:26:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2451ms behind, skipping 49 tick(s)
+[00:26:56] [User Authenticator #1/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[00:26:57] [Server thread/INFO]: FabboCJ[/37.46.178.157:50027] logged in with entity id 1846 at ([tutworld] 163.2353956632049, 11.0, 2471.3015400000945)
+[00:27:07] [Server thread/INFO]: FabboCJ issued server command: /mv list
+[00:27:13] [Server thread/INFO]: FabboCJ issued server command: /mvtp fromflames
+[00:27:17] [Server thread/INFO]: [@: Game rule has been updated]
+[00:27:17] [Server thread/INFO]: [@: Game rule has been updated]
+[00:27:57] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[00:29:08] [Server thread/INFO]: FabboCJ issued server command: /mvtp cubeceptionreloaded
+[00:29:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5614ms behind, skipping 112 tick(s)
+[00:30:44] [Server thread/INFO]: [@: Game rule has been updated]
+[00:30:44] [Server thread/INFO]: [@: The world's default game mode is now Adventure Mode]
+[00:30:44] [Server thread/INFO]: [@: Set game difficulty to Peaceful]
+[00:30:45] [Server thread/INFO]: [@: Game rule has been updated]
+[00:31:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2141ms behind, skipping 42 tick(s)
+[00:33:36] [Server thread/INFO]: FabboCJ issued server command: /mvtp world
+[00:34:25] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[00:34:25] [Server thread/INFO]: FabboCJ left the game.
+[00:35:16] [Server thread/INFO]: Stopping the server
+[00:35:16] [Server thread/INFO]: Stopping server
+[00:35:16] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[00:35:16] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[00:35:16] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[00:35:16] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[00:35:16] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[00:35:16] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[00:35:16] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[00:35:16] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[00:35:16] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[00:35:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[00:35:16] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[00:35:16] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[00:35:16] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[00:35:16] [Server thread/INFO]: Saving players
+[00:35:16] [Server thread/INFO]: Saving worlds
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'fromflames'/Overworld
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'fromashes'/Overworld
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[00:35:16] [Server thread/INFO]: Saving chunks for level 'cityworld'/Overworld
+[00:35:17] [Server thread/INFO]: Saving chunks for level 'cubeception2smp'/Overworld
+[00:35:17] [Server thread/INFO]: Saving chunks for level 'cubeceptionreloaded'/Overworld
+[00:35:17] [Thread-4/INFO]: Stopping server
+[00:35:17] [Thread-4/INFO]: Saving players
+[00:35:17] [Thread-4/INFO]: Saving worlds
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'fromflames'/Overworld
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'fromashes'/Overworld
+[00:35:17] [Thread-4/INFO]: Saving chunks for level 'creative'/Overworld

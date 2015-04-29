@@ -1,0 +1,18 @@
+[03:25:25] [pool-3-thread-1552/INFO]: [Vault] Checking for Updates ... 
+[03:25:26] [pool-3-thread-1552/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[03:25:26] [pool-3-thread-1552/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[08:15:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6369ms behind, skipping 127 tick(s)
+[09:25:30] [pool-3-thread-1613/INFO]: [Vault] Checking for Updates ... 
+[09:25:30] [pool-3-thread-1613/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[09:25:30] [pool-3-thread-1613/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[15:25:30] [pool-3-thread-1674/INFO]: [Vault] Checking for Updates ... 
+[15:25:30] [pool-3-thread-1674/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[15:25:30] [pool-3-thread-1674/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[20:10:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
+[20:40:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[20:45:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2571ms behind, skipping 51 tick(s)
+[20:50:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2278ms behind, skipping 45 tick(s)
+[21:25:31] [pool-3-thread-1735/INFO]: [Vault] Checking for Updates ... 
+[21:25:31] [pool-3-thread-1735/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[21:25:31] [pool-3-thread-1735/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:50:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2145ms behind, skipping 42 tick(s)

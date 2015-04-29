@@ -1,0 +1,110 @@
+[00:08:09] [pool-3-thread-162/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[00:18:09] [pool-3-thread-168/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[00:28:09] [pool-3-thread-168/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[00:38:09] [pool-3-thread-172/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[00:48:09] [pool-3-thread-172/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[00:58:09] [pool-3-thread-172/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:08:09] [pool-3-thread-172/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:18:09] [pool-3-thread-186/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:28:02] [pool-3-thread-191/INFO]: [Vault] Checking for Updates ... 
+[01:28:02] [pool-3-thread-191/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[01:28:02] [pool-3-thread-191/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[01:28:09] [pool-3-thread-186/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:38:09] [pool-3-thread-189/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:48:09] [pool-3-thread-194/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[01:58:09] [pool-3-thread-194/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:08:09] [pool-3-thread-194/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:18:09] [pool-3-thread-194/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:28:09] [pool-3-thread-194/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:38:09] [pool-3-thread-207/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:48:09] [pool-3-thread-212/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[02:58:09] [pool-3-thread-212/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[03:08:09] [pool-3-thread-212/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[03:18:09] [pool-3-thread-221/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[03:28:09] [pool-3-thread-221/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[05:38:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2795ms behind, skipping 55 tick(s)
+[07:28:02] [pool-3-thread-268/INFO]: [Vault] Checking for Updates ... 
+[07:28:03] [pool-3-thread-268/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[07:28:03] [pool-3-thread-268/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[13:28:02] [pool-3-thread-329/INFO]: [Vault] Checking for Updates ... 
+[13:28:03] [pool-3-thread-329/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[13:28:03] [pool-3-thread-329/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:48:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2244ms behind, skipping 44 tick(s)
+[16:43:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2163ms behind, skipping 43 tick(s)
+[16:48:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2164ms behind, skipping 43 tick(s)
+[16:58:09] [pool-3-thread-361/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:28:11] [pool-3-thread-368/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:58:09] [pool-3-thread-374/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:58:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2445ms behind, skipping 48 tick(s)
+[19:11:22] [User Authenticator #4/INFO]: UUID of player jennysun is 7900e234-1bd5-4b95-849e-e13e96a55e5e
+[19:11:22] [Server thread/INFO]: jennysun[/85.229.225.202:61110] logged in with entity id 29280 at ([tutworld] 163.37486928943554, 70.0, 236.37310812563328)
+[19:13:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2027ms behind, skipping 40 tick(s)
+[19:16:12] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[19:28:04] [pool-3-thread-389/INFO]: [Vault] Checking for Updates ... 
+[19:28:05] [pool-3-thread-389/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[19:28:05] [pool-3-thread-389/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:58:10] [Server thread/INFO]: [Server] Jenny jag ska bara reloada servern är det okej? // Johan
+[19:58:11] [pool-3-thread-396/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:58:20] [Netty Server IO #3/INFO]: [[0;32;1mworld[0;37;1m]<jennysun> ok[m
+[19:58:31] [Server thread/INFO]: [Server] Är CJ också inne?
+[19:58:37] [Netty Server IO #3/INFO]: [[0;32;1mworld[0;37;1m]<jennysun> nä[m
+[19:58:42] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[19:58:51] [Server thread/INFO]: [Server] Ok kommer in snart.
+[19:58:53] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:58:53] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[19:58:53] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[19:58:53] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[19:58:53] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[19:58:53] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[19:58:53] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[19:58:53] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[19:58:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[19:58:53] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[19:58:53] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[19:58:53] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[19:58:53] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[19:58:53] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is disabled!
+[19:58:53] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[19:58:53] [Server thread/INFO]: [PlayerInfo] has been disabled
+[19:58:54] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[19:58:54] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[19:58:54] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:58:54] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[19:58:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[19:58:54] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[19:58:54] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[19:58:54] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[19:58:54] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[19:58:54] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[19:58:54] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[19:58:54] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[19:58:54] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:58:54] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[19:58:54] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:58:54] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[19:58:54] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:58:54] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[19:58:54] [Server thread/INFO]: [PlayerInfo] has been enabled
+[19:58:54] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:58:54] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:58:54] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[19:58:54] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[19:58:54] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[19:58:54] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[19:58:54] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[19:59:28] [Server thread/INFO]: [Multiverse-Core] 13 - World(s) loaded.
+[19:59:28] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:59:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[19:59:28] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:59:28] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[19:59:28] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[19:59:28] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[19:59:53] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[19:59:53] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19:59:53] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-12_19.59.53-server.txt
+[19:59:54] [Thread-4/INFO]: Stopping server

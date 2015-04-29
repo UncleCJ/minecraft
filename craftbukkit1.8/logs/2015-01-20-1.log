@@ -1,0 +1,15 @@
+[02:28:09] [pool-3-thread-1733/INFO]: [Vault] Checking for Updates ... 
+[02:28:11] [pool-3-thread-1733/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[02:28:11] [pool-3-thread-1733/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[07:58:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5973ms behind, skipping 119 tick(s)
+[08:28:13] [pool-3-thread-1794/INFO]: [Vault] Checking for Updates ... 
+[08:28:14] [pool-3-thread-1794/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[08:28:14] [pool-3-thread-1794/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[08:48:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
+[14:28:13] [pool-3-thread-1855/INFO]: [Vault] Checking for Updates ... 
+[14:28:14] [pool-3-thread-1855/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[14:28:14] [pool-3-thread-1855/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:58:20] [pool-3-thread-1908/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:28:13] [pool-3-thread-1917/INFO]: [Vault] Checking for Updates ... 
+[20:28:14] [pool-3-thread-1917/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[20:28:14] [pool-3-thread-1917/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault

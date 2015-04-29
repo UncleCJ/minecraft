@@ -1,0 +1,556 @@
+[15:39:40] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:39:40] [Server thread/INFO]: Loading properties
+[15:39:40] [Server thread/INFO]: Default game type: SURVIVAL
+[15:39:40] [Server thread/INFO]: Generating keypair
+[15:39:41] [Server thread/INFO]: Starting Minecraft server on *:25566
+[15:39:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[15:39:41] [Server thread/ERROR]: Could not load 'plugins/pvparena-1.0.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.<init>(CraftServer.java:249) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerList.<init>(PlayerList.java:69) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
+Caused by: java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.7.0_76]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215) ~[?:1.7.0_76]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145) ~[?:1.7.0_76]
+	at java.util.jar.JarFile.<init>(JarFile.java:154) ~[?:1.7.0_76]
+	at java.util.jar.JarFile.<init>(JarFile.java:118) ~[?:1.7.0_76]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:148) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	... 8 more
+[15:39:42] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[15:39:42] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[15:39:42] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.2
+[15:39:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[15:39:42] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[15:39:42] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[15:39:42] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[15:39:42] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.1
+[15:39:42] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[15:39:42] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[15:39:42] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[15:39:42] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[15:39:42] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.4.4
+[15:39:42] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[15:39:42] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[15:39:42] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[15:39:42] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:39:42] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[15:39:42] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:39:42] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:39:42] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[15:39:42] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[15:39:42] [Server thread/INFO]: Preparing level "tutworld"
+[15:39:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[15:39:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:46] [Server thread/INFO]: Preparing spawn area: 35%
+[15:39:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[15:39:48] [Server thread/INFO]: Preparing spawn area: 45%
+[15:39:49] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[15:39:49] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[15:39:49] [Server thread/INFO]: [PlayerInfo] has been enabled
+[15:39:49] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[15:39:49] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[15:39:49] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[15:39:49] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[15:39:49] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[15:39:49] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.2
+[15:39:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[15:39:49] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[15:39:49] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[15:39:49] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[15:39:50] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[15:39:50] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[15:39:52] [Server thread/INFO]: Preparing spawn area for fromflames, 60%
+[15:39:53] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[15:39:54] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[15:39:54] [Server thread/INFO]: Preparing start region for level 6 (Seed: -6426663970308026368)
+[15:39:56] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 8%
+[15:39:57] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 69%
+[15:39:58] [Server thread/INFO]: Preparing start region for level 7 (Seed: 1780430939243764315)
+[15:40:01] [Server thread/INFO]: Preparing start region for level 8 (Seed: 4919839233390569991)
+[15:40:02] [Server thread/INFO]: Preparing spawn area for Bomber, 60%
+[15:40:06] [Server thread/INFO]: Preparing start region for level 9 (Seed: 64951768)
+[15:40:10] [Server thread/INFO]: Preparing start region for level 10 (Seed: -5663810443052788782)
+[15:40:14] [Server thread/INFO]: Preparing start region for level 11 (Seed: 2282912023382338973)
+[15:40:19] [Server thread/INFO]: Preparing start region for level 12 (Seed: 0)
+[15:40:22] [Server thread/INFO]: Preparing start region for level 13 (Seed: 3981014598438330368)
+[15:40:23] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 81%
+[15:40:27] [Server thread/INFO]: Preparing start region for level 14 (Seed: 6851938583268216745)
+[15:40:31] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[15:40:31] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:40:31] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.1
+[15:40:31] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:40:31] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:40:31] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:40:31] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:40:31] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:40:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkywarsSpawn'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (The Elements) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (The Elements) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (The Elements) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (The Elements) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'The Elements'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWarsBaseWorld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[15:40:32] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[15:40:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'tutworld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkywarsSpawn'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'The Elements'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkyWarsBaseWorld'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[15:40:32] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[15:40:32] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[15:40:32] [Server thread/INFO]: [WarpPortals] 2 Portals loaded!
+[15:40:32] [Server thread/INFO]: [WarpPortals] 2 Destinations loaded!
+[15:40:36] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[15:40:38] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[15:41:23] [Server thread/INFO]: [MVPLogging] 9 - Portals(s) loaded
+[15:41:23] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[15:41:23] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[15:41:27] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.4.4
+[15:41:27] [Server thread/INFO]: [SkyWars] [Translations] Loading locale en.
+[15:41:27] [Server thread/ERROR]: [SkyWars] Startup failed
+net.daboross.bukkitdev.skywars.StartupFailedException: Failed to initialize storage backend
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:54) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.startPlugin(SkyWarsPlugin.java:152) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.onEnable(SkyWarsPlugin.java:111) [SkyWars.jar:git-skywars-1.4.4]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 13 more
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.checkBounds(String.java:371) ~[?:1.7.0_76]
+	at java.lang.String.<init>(String.java:452) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.load(JSONScoreStorage.java:68) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.<init>(JSONScoreStorage.java:47) ~[SkyWars.jar:git-skywars-1.4.4]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 13 more
+[15:41:27] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.4.4
+[15:41:27] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[15:41:28] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[15:41:28] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[15:41:28] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[15:42:02] [Server thread/INFO]: Done (139.375s)! For help, type "help" or "?"
+[15:42:02] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[15:42:02] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[15:42:02] [pool-3-thread-7/INFO]: [Vault] Checking for Updates ... 
+[15:42:03] [pool-3-thread-6/INFO]: [PlugMan] No update was found.
+[15:42:03] [pool-3-thread-7/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[15:42:03] [pool-3-thread-7/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[15:42:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[15:42:20] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[15:42:20] [Server thread/INFO]: Skywarslover[/83.253.53.190:41269] logged in with entity id 2171 at ([SkywarsSpawn] -47.311047584325834, 4.0, -90.69999998807907)
+[15:42:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2501ms behind, skipping 50 tick(s)
+[15:42:30] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[15:42:30] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[15:42:31] [Server thread/INFO]: Skywarslover issued server command: /pl
+[15:42:40] [Server thread/INFO]: Skywarslover issued server command: /plugman reload SkyWars
+[15:42:40] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.4.4
+[15:42:40] [Server thread/INFO]: [SkyWars] [Translations] Loading locale en.
+[15:42:40] [Server thread/ERROR]: [SkyWars] Startup failed
+net.daboross.bukkitdev.skywars.StartupFailedException: Failed to initialize storage backend
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:54) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.startPlugin(SkyWarsPlugin.java:152) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.onEnable(SkyWarsPlugin.java:111) [SkyWars.jar:git-skywars-1.4.4]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:273) [PlugMan.jar:?]
+	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:226) [PlugMan.jar:?]
+	at com.rylinaux.plugman.util.PluginUtil.reload(PluginUtil.java:287) [PlugMan.jar:?]
+	at com.rylinaux.plugman.command.ReloadCommand.execute(ReloadCommand.java:122) [PlugMan.jar:?]
+	at com.rylinaux.plugman.PlugManCommands.onCommand(PlugManCommands.java:100) [PlugMan.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_76]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_76]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 25 more
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.checkBounds(String.java:371) ~[?:1.7.0_76]
+	at java.lang.String.<init>(String.java:452) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.load(JSONScoreStorage.java:68) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.<init>(JSONScoreStorage.java:47) ~[SkyWars.jar:git-skywars-1.4.4]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 25 more
+[15:42:40] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.4.4
+[15:42:42] [Netty Server IO #1/INFO]: [[0;37;1mSkywarsSpawn[0;37;1m]<Skywarslover> pl[m
+[15:42:44] [Server thread/INFO]: Skywarslover issued server command: /pl
+[15:42:52] [Server thread/INFO]: Skywarslover issued server command: /plugman disable GodSet
+[15:42:52] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[15:42:59] [Server thread/INFO]: Skywarslover issued server command: /plugman reload SkyWars
+[15:43:00] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.4.4
+[15:43:00] [Server thread/INFO]: [SkyWars] [Translations] Loading locale en.
+[15:43:00] [Server thread/ERROR]: [SkyWars] Startup failed
+net.daboross.bukkitdev.skywars.StartupFailedException: Failed to initialize storage backend
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:54) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.startPlugin(SkyWarsPlugin.java:152) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.SkyWarsPlugin.onEnable(SkyWarsPlugin.java:111) [SkyWars.jar:git-skywars-1.4.4]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:273) [PlugMan.jar:?]
+	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:226) [PlugMan.jar:?]
+	at com.rylinaux.plugman.util.PluginUtil.reload(PluginUtil.java:287) [PlugMan.jar:?]
+	at com.rylinaux.plugman.command.ReloadCommand.execute(ReloadCommand.java:122) [PlugMan.jar:?]
+	at com.rylinaux.plugman.PlugManCommands.onCommand(PlugManCommands.java:100) [PlugMan.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_76]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_76]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 25 more
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.checkBounds(String.java:371) ~[?:1.7.0_76]
+	at java.lang.String.<init>(String.java:452) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.load(JSONScoreStorage.java:68) ~[SkyWars.jar:git-skywars-1.4.4]
+	at net.daboross.bukkitdev.skywars.score.JSONScoreStorage.<init>(JSONScoreStorage.java:47) ~[SkyWars.jar:git-skywars-1.4.4]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_76]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_76]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_76]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_76]
+	at net.daboross.bukkitdev.skywars.score.ScoreStorage.<init>(ScoreStorage.java:52) ~[SkyWars.jar:git-skywars-1.4.4]
+	... 25 more
+[15:43:00] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.4.4
+[15:43:01] [Server thread/INFO]: Skywarslover issued server command: /reload
+[15:43:01] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[15:43:01] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[15:43:01] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[15:43:01] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[15:43:01] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[15:43:01] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[15:43:01] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[15:43:01] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.1
+[15:43:01] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:43:01] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[15:43:01] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[15:43:01] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[15:43:01] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[15:43:01] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[15:43:01] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.2
+[15:43:01] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[15:43:01] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[15:43:01] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is disabled!
+[15:43:01] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[15:43:01] [Server thread/INFO]: [PlayerInfo] has been disabled
+[15:43:01] [Server thread/ERROR]: Could not load 'plugins/pvparena-1.0.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_76]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_76]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:643) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
+Caused by: java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.7.0_76]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215) ~[?:1.7.0_76]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145) ~[?:1.7.0_76]
+	at java.util.jar.JarFile.<init>(JarFile.java:154) ~[?:1.7.0_76]
+	at java.util.jar.JarFile.<init>(JarFile.java:118) ~[?:1.7.0_76]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:148) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	... 19 more
+[15:43:01] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[15:43:01] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[15:43:01] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.2
+[15:43:01] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[15:43:01] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[15:43:01] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[15:43:01] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[15:43:01] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.1
+[15:43:01] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[15:43:01] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[15:43:01] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[15:43:01] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[15:43:01] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.4.4
+[15:43:01] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[15:43:01] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[15:43:01] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[15:43:02] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:43:02] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[15:43:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:43:02] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:43:02] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[15:43:02] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[15:43:02] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[15:43:02] [Server thread/INFO]: [PlayerInfo] has been enabled
+[15:43:02] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[15:43:02] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[15:43:02] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[15:43:02] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[15:43:02] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[15:43:02] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.2
+[15:43:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[15:43:02] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[15:43:02] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[15:43:02] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[15:43:02] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[15:43:28] [User Authenticator #2/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[15:43:44] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[15:43:44] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:43:44] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.1
+[15:43:44] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:43:44] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:43:44] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:43:44] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:43:44] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkywarsSpawn) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkywarsSpawn'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (The Elements) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (The Elements) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (The Elements) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (The Elements) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'The Elements'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (SkyWarsBaseWorld) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'SkyWarsBaseWorld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[15:43:44] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[15:43:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'tutworld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkywarsSpawn'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'The Elements'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'SkyWarsBaseWorld'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[15:43:44] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[15:43:44] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[15:43:44] [Server thread/INFO]: [WarpPortals] 2 Portals loaded!
+[15:43:44] [Server thread/INFO]: [WarpPortals] 2 Destinations loaded!
+[15:43:46] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[15:43:46] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[15:44:01] [Server Watchdog/FATAL]: A single server tick took 60.11 seconds (should be max 0.05)
+[15:44:01] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[15:44:01] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-31_15.44.01-server.txt
+[15:44:01] [Thread-4/INFO]: Stopping server
+[15:44:01] [Thread-4/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710

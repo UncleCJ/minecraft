@@ -1,0 +1,254 @@
+[18:27:28] [Server thread/INFO]: Starting minecraft server version 1.8
+[18:27:28] [Server thread/INFO]: Loading properties
+[18:27:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:28] [Server thread/INFO]: Generating keypair
+[18:27:28] [Server thread/INFO]: Starting Minecraft server on *:25566
+[18:27:28] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[18:27:29] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:27:29] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:27:29] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:27:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:27:29] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:27:29] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:27:29] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:27:29] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[18:27:29] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:27:29] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:27:29] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:27:29] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:27:29] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:27:29] [Server thread/INFO]: Preparing level "tutworld"
+[18:27:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[18:27:30] [Server thread/INFO]: Preparing spawn area: 13%
+[18:27:31] [Server thread/INFO]: Preparing spawn area: 32%
+[18:27:32] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[18:27:33] [Server thread/INFO]: Preparing spawn area: 95%
+[18:27:33] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[18:27:33] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:27:33] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:27:33] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:27:33] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[18:27:34] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1780430939243764315)
+[18:27:37] [Server thread/INFO]: Preparing start region for level 4 (Seed: -2903505127734604271)
+[18:27:38] [Server thread/INFO]: Preparing spawn area for fromflames, 89%
+[18:27:41] [Server thread/INFO]: Preparing start region for level 5 (Seed: 4919839233390569991)
+[18:27:42] [Server thread/INFO]: Preparing spawn area for Bomber, 81%
+[18:27:44] [Server thread/INFO]: Preparing start region for level 6 (Seed: 8440151354802767546)
+[18:27:46] [Server thread/INFO]: Preparing spawn area for fromashes, 20%
+[18:27:48] [Server thread/INFO]: Preparing start region for level 7 (Seed: -2369971020579525390)
+[18:27:50] [Server thread/INFO]: Preparing start region for level 8 (Seed: 64951768)
+[18:27:57] [Server thread/INFO]: Preparing start region for level 9 (Seed: -6426663970308026368)
+[18:27:58] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 77%
+[18:28:02] [Server thread/INFO]: Preparing start region for level 10 (Seed: 3981014598438330368)
+[18:28:07] [Server thread/INFO]: Preparing start region for level 11 (Seed: 6851938583268216745)
+[18:28:10] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[18:28:10] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:28:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:28:10] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:28:10] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:28:10] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[18:28:10] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[18:28:40] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[18:28:40] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[18:28:40] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[18:28:40] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[18:28:47] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[18:28:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/config.yml
+[18:28:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld/config.yml
+[18:28:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld/blacklist.txt
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[18:28:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[18:28:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld_nether/config.yml
+[18:28:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld_nether/blacklist.txt
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[18:28:47] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld_the_end/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/tutworld_the_end/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/minigames/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/minigames/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/fromflames/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/fromflames/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/Bomber/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/Bomber/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/fromashes/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/fromashes/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/creative/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/creative/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cityworld/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cityworld/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cubeception2smp/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cubeception2smp/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cubeceptionreloaded/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/cubeceptionreloaded/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/creepersoccer/config.yml
+[18:28:48] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/minecraft-ssd/craftbukkit1.8/plugins/WorldGuard/worlds/creepersoccer/blacklist.txt
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[18:28:48] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[18:28:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[18:28:48] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[18:28:48] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[18:28:48] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[18:28:51] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:28:59] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:29:11] [Server thread/INFO]: Done (102.599s)! For help, type "help" or "?"
+[18:29:11] [User Authenticator #2/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:29:12] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[18:29:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@229f6bd0[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@4e8e81f0]},legacy=false] (/83.253.146.146:59936) lost connection: Disconnected
+[18:29:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@57d2a772[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.137:60712) lost connection: Disconnected
+[18:29:13] [Server thread/INFO]: Skywarslover[/83.253.146.146:59942] logged in with entity id 1704 at ([tutworld] 131.24088007662124, 11.0, 2394.8568589396336)
+[18:29:13] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[18:29:13] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:29:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3776ms behind, skipping 75 tick(s)
+[18:29:17] [pool-3-thread-2/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:29:24] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:29:24] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:29:52] [Server thread/INFO]: Skywarslover issued server command: /pl
+[18:30:02] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[18:30:07] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:30:07] [Server thread/INFO]: FabboCJ[/37.46.178.157:47276] logged in with entity id 1974 at ([tutworld] 56.68771619722247, 11.0, 2400.6157747297207)
+[18:30:22] [Server thread/INFO]: Skywarslover issued server command: /tpall
+[18:30:25] [Server thread/INFO]: Skywarslover issued server command: /tpall
+[18:30:28] [Server thread/INFO]: Skywarslover issued server command: /op Skywarslover
+[18:30:28] [Server thread/INFO]: [Skywarslover: Opped Skywarslover]
+[18:30:30] [Server thread/INFO]: Skywarslover issued server command: /tpall
+[18:30:37] [Server thread/INFO]: Skywarslover issued server command: /manuadd Skywarslover Owner
+[18:30:54] [Server thread/INFO]: FabboCJ issued server command: /tp Skywarslover
+[18:30:54] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to Skywarslover]
+[18:31:46] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:31:46] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:32:54] [Netty Server IO #3/INFO]: [[0;31;1mnether_world[0;37;1m]<Skywarslover> ./gamemode 1[m
+[18:35:11] [Server thread/INFO]: Skywarslover issued server command: /heal FabboCJ
+[18:36:28] [Server thread/INFO]: FabboCJ issued server command: /heal
+[18:36:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2853ms behind, skipping 57 tick(s)
+[18:37:00] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:37:00] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:38:11] [Server thread/INFO]: Skywarslover issued server command: /up 1
+[18:38:27] [Server thread/INFO]: Skywarslover issued server command: /rg define CJHouse
+[18:38:32] [Server thread/INFO]: Skywarslover issued server command: /rg define CJHouse
+[18:38:35] [Server thread/INFO]: Skywarslover issued server command: /up 1
+[18:38:46] [Server thread/INFO]: Skywarslover issued server command: /speed 10
+[18:39:35] [Server thread/INFO]: Skywarslover issued server command: /rg define Hus
+[18:39:48] [Server thread/INFO]: Skywarslover issued server command: /rg flag Hus construct deny
+[18:39:51] [Server thread/INFO]: Skywarslover issued server command: /deop FabboCJ
+[18:39:51] [Server thread/INFO]: [Skywarslover: De-opped FabboCJ]
+[18:40:14] [Server thread/INFO]: Skywarslover issued server command: /op FabboCJ
+[18:40:14] [Server thread/INFO]: [Skywarslover: Opped FabboCJ]
+[18:40:17] [Server thread/INFO]: Skywarslover issued server command: /pl
+[18:40:33] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[18:40:33] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[18:41:00] [Server thread/INFO]: Skywarslover issued server command: /spawn
+[18:41:37] [Server thread/INFO]: Skywarslover issued server command: /rg Hus addowner JennySun
+[18:41:45] [Server thread/INFO]: Skywarslover issued server command: /rg Hus addowner FabboCJ
+[18:41:56] [Server thread/INFO]: Skywarslover issued server command: /deop FabboCJ
+[18:41:56] [Server thread/INFO]: [Skywarslover: De-opped FabboCJ]
+[18:42:06] [Server thread/INFO]: Skywarslover issued server command: /tp FabboCJ
+[18:42:06] [Server thread/INFO]: [Skywarslover: Teleported Skywarslover to FabboCJ]
+[18:42:20] [Server thread/INFO]: Skywarslover issued server command: /rg
+[18:42:22] [Server thread/INFO]: Skywarslover issued server command: /rg list
+[18:42:28] [Server thread/INFO]: [0;31;1mPlease specify the world with -w world_name.[m
+[18:42:33] [Server thread/INFO]: Skywarslover issued server command: /rg rename Hus CJHus
+[18:42:33] [Server thread/INFO]: [0;31;1mNo world by that exact name found.[m
+[18:42:38] [Server thread/INFO]: [0;31;1mRegions (page 1 of 1):[m
+[18:42:38] [Server thread/INFO]: [0;33;1m1. hus[m
+[18:42:45] [Server thread/INFO]: Skywarslover issued server command: /rg redefine Hus CJHus
+[18:42:57] [Server thread/INFO]: Skywarslover issued server command: /rg addowner
+[18:43:20] [Server thread/INFO]: Skywarslover issued server command: /rg addowner Skywarslover FabboCJ JennySun
+[18:43:28] [Server thread/INFO]: Skywarslover issued server command: /rg addowner hus Skywarslover FabboCJ JennySun
+[18:43:47] [Server thread/INFO]: Skywarslover issued server command: /op FabboCJ
+[18:43:47] [Server thread/INFO]: [Skywarslover: Opped FabboCJ]
+[18:49:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[18:51:58] [Server thread/INFO]: Skywarslover issued server command: /killall mobs
+[18:52:07] [Server thread/INFO]: FabboCJ issued server command: /tp Skywarslover
+[18:52:07] [Server thread/INFO]: [FabboCJ: Teleported FabboCJ to Skywarslover]
+[18:52:44] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:52:44] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:53:05] [Server thread/INFO]: FabboCJ issued server command: /gamemode 0
+[18:53:05] [Server thread/INFO]: [FabboCJ: Set own game mode to Survival Mode]
+[18:53:25] [Server thread/INFO]: §9FabboCJ§r fell from a high place
+[18:53:55] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:53:55] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:54:41] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[18:54:41] [Server thread/INFO]: FabboCJ left the game.
+[18:55:11] [Server thread/INFO]: Skywarslover issued server command: /ci
+[18:55:14] [Server thread/INFO]: Skywarslover issued server command: /clear
+[18:55:14] [Server thread/INFO]: [Skywarslover: Cleared the inventory of Skywarslover, removing 305 items]
+[18:55:19] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[18:55:19] [Server thread/INFO]: Skywarslover left the game.
+[18:59:23] [pool-3-thread-2/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:11:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25977ms behind, skipping 519 tick(s)
+[19:19:47] [pool-3-thread-4/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:24:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
+[19:29:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2050ms behind, skipping 41 tick(s)
+[19:29:46] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[19:39:47] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:49:41] [pool-3-thread-7/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:59:40] [pool-3-thread-10/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:04:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2040ms behind, skipping 40 tick(s)
+[20:09:40] [pool-3-thread-10/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:19:40] [pool-3-thread-10/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:29:40] [pool-3-thread-11/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:59:47] [pool-3-thread-16/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core

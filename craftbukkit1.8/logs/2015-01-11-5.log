@@ -1,0 +1,782 @@
+[13:26:04] [Server thread/INFO]: Starting minecraft server version 1.8
+[13:26:04] [Server thread/INFO]: Loading properties
+[13:26:04] [Server thread/INFO]: Default game type: SURVIVAL
+[13:26:04] [Server thread/INFO]: Generating keypair
+[13:26:05] [Server thread/INFO]: Starting Minecraft server on *:25566
+[13:26:05] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[13:26:05] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[13:26:05] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[13:26:05] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[13:26:05] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[13:26:05] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[13:26:05] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[13:26:05] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[13:26:05] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[13:26:05] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[13:26:05] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[13:26:05] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[13:26:05] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[13:26:05] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[13:26:05] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[13:26:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:26:06] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[13:26:06] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[13:26:06] [Server thread/INFO]: Preparing level "tutworld"
+[13:26:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[13:26:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:09] [Server thread/INFO]: Preparing spawn area: 57%
+[13:26:10] [Server thread/INFO]: Preparing spawn area: 60%
+[13:26:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[13:26:11] [Server thread/INFO]: Preparing spawn area: 76%
+[13:26:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[13:26:12] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[13:26:12] [Server thread/INFO]: [PlayerInfo] has been enabled
+[13:26:12] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - World Found: tutworld_nether
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[13:26:12] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[13:26:12] [Server thread/INFO]: GroupManager version 2.1.31 (Phoenix) is enabled!
+[13:26:12] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[13:26:12] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[13:26:12] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[13:26:12] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[13:26:13] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[13:26:14] [Server thread/INFO]: Preparing spawn area for fromflames, 0%
+[13:26:15] [Server thread/INFO]: Preparing spawn area for fromflames, 97%
+[13:26:15] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8440151354802767546)
+[13:26:16] [Server thread/INFO]: Preparing start region for level 5 (Seed: -2369971020579525390)
+[13:26:17] [Server thread/INFO]: Preparing spawn area for creative, 60%
+[13:26:17] [Server thread/INFO]: Preparing start region for level 6 (Seed: -6426663970308026368)
+[13:26:18] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 65%
+[13:26:19] [Server thread/INFO]: Preparing start region for level 7 (Seed: 1780430939243764315)
+[13:26:22] [Server thread/INFO]: Preparing start region for level 8 (Seed: 4919839233390569991)
+[13:26:23] [Server thread/INFO]: Preparing spawn area for Bomber, 61%
+[13:26:25] [Server thread/INFO]: Preparing spawn area for Bomber, 89%
+[13:26:27] [Server thread/INFO]: Preparing start region for level 9 (Seed: 64951768)
+[13:26:32] [Server thread/INFO]: Preparing start region for level 10 (Seed: 2282912023382338973)
+[13:26:37] [Server thread/INFO]: Preparing start region for level 11 (Seed: 3981014598438330368)
+[13:26:38] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 81%
+[13:26:41] [Server thread/INFO]: Preparing start region for level 12 (Seed: 6851938583268216745)
+[13:26:44] [Server thread/INFO]: [Multiverse-Core] 13 - World(s) loaded.
+[13:26:44] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[13:26:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[13:26:45] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[13:26:45] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[13:26:45] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[13:26:45] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[13:27:20] [Server thread/INFO]: [MVPLogging] 9 - Portals(s) loaded
+[13:27:20] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[13:27:20] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[13:27:20] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[13:27:28] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_nether) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_nether) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_nether'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (tutworld_the_end) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'tutworld_the_end'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromflames) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromflames) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromflames) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromflames) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromflames'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromashes) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromashes) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromashes) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (fromashes) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'fromashes'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeception2smp) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeception2smp) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeception2smp'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (Bomber) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (Bomber) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (Bomber) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (Bomber) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bomber'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cityworld) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cityworld) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cityworld) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cityworld) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cityworld'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (The Elements) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (The Elements) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (The Elements) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (The Elements) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'The Elements'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (cubeceptionreloaded) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'cubeceptionreloaded'
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creepersoccer) TNT ignition is PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lighters are PERMITTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creepersoccer) Lava fire is blocked.
+[13:27:28] [Server thread/INFO]: [WorldGuard] (creepersoccer) Fire spread is UNRESTRICTED.
+[13:27:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creepersoccer'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 2 regions loaded for 'tutworld'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_nether'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'tutworld_the_end'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromflames'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'fromashes'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creative'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeception2smp'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'minigames'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'Bomber'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cityworld'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'The Elements'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'cubeceptionreloaded'
+[13:27:28] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'creepersoccer'
+[13:27:28] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[13:27:28] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[13:27:31] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[13:27:32] [Server thread/WARN]: [WarpPortals] WarpPortal data loaded using the old data-structure. The next save will migrate it to the latest portals.yml version.
+[13:27:33] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[13:27:48] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[13:27:53] [Server thread/INFO]: Done (107.833s)! For help, type "help" or "?"
+[13:27:54] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[13:27:54] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[13:27:55] [Server thread/INFO]: Skywarslover[/83.253.146.146:43815] logged in with entity id 2204 at ([tutworld] -90.56398335646676, 89.0, -65.09382484552793)
+[13:27:55] [Server thread/INFO]: Plugins (12): [0;32;1mPlayerInfo[0;37;1m, [0;32;1mGroupManager[0;37;1m, [0;32;1mVault[0;37;1m, [0;32;1mMultiverse-Core[0;37;1m, [0;32;1mWorldEdit[0;37;1m, [0;32;1mGodSet[0;37;1m, [0;32;1mMultiverse-Portals[0;37;1m, [0;32;1mMultiverse-Adventure[0;37;1m, [0;32;1mWorldGuard[0;37;1m, [0;32;1mMultiverse-NetherPortals[0;37;1m, [0;32;1mWarpPortals[0;37;1m, [0;32;1mMultiverse-Downloader[m
+[13:27:55] [pool-3-thread-5/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[13:27:55] [pool-3-thread-5/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[13:28:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4867ms behind, skipping 97 tick(s)
+[13:28:01] [pool-3-thread-4/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:28:06] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[13:28:06] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[13:28:08] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[13:28:11] [Server thread/INFO]: Skywarslover issued server command: /help
+[13:28:18] [Server thread/INFO]: Skywarslover issued server command: /help warpPortals
+[13:28:28] [Server thread/INFO]: Skywarslover issued server command: /wp-portal-create Creative
+[13:28:49] [Server thread/INFO]: Skywarslover issued server command: /wp-portal-create Portal Creative Water
+[13:28:59] [Server thread/INFO]: Skywarslover issued server command: /mv tp Creative
+[13:30:14] [Server thread/INFO]: Skywarslover issued server command: /mv-destination-create Creative
+[13:30:31] [Server thread/INFO]: Skywarslover issued server command: /wp-destination-create Creative
+[13:30:36] [Server thread/INFO]: Skywarslover issued server command: /mv tp world
+[13:30:55] [Server thread/INFO]: Skywarslover issued server command: /mv tp tutworld
+[13:31:02] [Server thread/INFO]: Skywarslover issued server command: /mv tp world
+[13:31:08] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[13:31:08] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[13:32:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2179ms behind, skipping 43 tick(s)
+[13:35:15] [Server thread/INFO]: Skywarslover issued server command: /wp-portal-create Portal Creative Water
+[13:35:26] [Server thread/INFO]: Skywarslover issued server command: /wp-portal-create Portal Creative Water
+[13:36:12] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[13:37:33] [Server thread/INFO]: Skywarslover issued server command: /mv list
+[13:37:37] [Server thread/INFO]: Skywarslover issued server command: /spawn
+[13:37:43] [Server thread/INFO]: Skywarslover issued server command: /kill Skywarslover
+[13:37:43] [Server thread/INFO]: §cSkywarslover§r fell out of the world
+[13:37:43] [Server thread/INFO]: [Skywarslover: Killed §cSkywarslover§r]
+[13:37:45] [Server thread/INFO]: [@: Removed 1 player(s) from their teams: Skywarslover]
+[13:37:45] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:45] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:45] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:45] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:45] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:45] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:45] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:45] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:45] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:45] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:45] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:45] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:45] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:45] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:45] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:45] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:46] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:46] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:46] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:46] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:46] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:46] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:46] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:46] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:46] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:46] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:46] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:46] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:46] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:46] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:46] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:46] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:46] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:47] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:47] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:47] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:47] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:47] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:47] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:48] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:48] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:48] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:48] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:48] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:48] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:48] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:48] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:48] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:48] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:48] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:48] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:48] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:48] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:48] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:48] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:48] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:49] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:49] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:49] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:49] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:49] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:49] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:49] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:49] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:49] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:49] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:49] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:49] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:49] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:49] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:49] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:49] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:50] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:50] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:50] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:50] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:50] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:50] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:50] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:50] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:50] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:50] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:50] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:50] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:50] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:50] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:50] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:50] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:50] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:51] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:51] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:51] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:51] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:51] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:51] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:52] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:52] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:52] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:52] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:52] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:52] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:52] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:52] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:52] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:52] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:52] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:52] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:52] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:52] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:52] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:52] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:52] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:53] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:53] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:53] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:53] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:53] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:53] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:53] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:53] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:53] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:53] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:53] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:53] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:53] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:53] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:53] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:53] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:54] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:54] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:54] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:54] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:54] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:54] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:54] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:54] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:54] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:54] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:54] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:54] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:54] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:54] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:54] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:54] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:54] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:55] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:55] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:55] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:55] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:55] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:55] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:56] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:56] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:56] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:56] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:56] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:56] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:56] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:56] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:56] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:56] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:56] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:56] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:56] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:56] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:56] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:56] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:56] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:58] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:58] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:58] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:58] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:58] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:58] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:58] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:58] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:58] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:58] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:58] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:58] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:58] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:58] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:58] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:58] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:59] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:59] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:37:59] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:37:59] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Game rule has been updated]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:37:59] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:00] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:00] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:00] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:00] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:00] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:00] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:00] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:00] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:00] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:00] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:00] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:00] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:00] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:00] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:00] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:00] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:00] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:01] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:01] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:01] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:01] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:01] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:01] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:01] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:01] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:01] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:01] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:01] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:01] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:01] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:01] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:01] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:01] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:02] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:02] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:02] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:02] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:02] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:02] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:02] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:02] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:02] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:02] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:02] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:02] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:02] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:02] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:02] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:02] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:02] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:03] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:03] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:03] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:03] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:03] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:03] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:03] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[13:38:03] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[13:38:04] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:04] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:04] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:04] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:04] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:04] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:04] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:04] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:04] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:04] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:04] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:04] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:04] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:04] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:04] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:04] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:04] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:05] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:05] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:05] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:05] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:05] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:05] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:05] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:05] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:05] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:05] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:05] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:05] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:05] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:05] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:05] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:05] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:06] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:06] [Server thread/INFO]: [@: Set option color for team Red to red]
+[13:38:06] [Server thread/INFO]: [@: Set option color for team Blue to dark_blue]
+[13:38:06] [Server thread/INFO]: [@: Set option color for team Green to green]
+[13:38:06] [Server thread/INFO]: [@: Set option color for team Yellow to yellow]
+[13:38:06] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:06] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:06] [Server thread/INFO]: [@: Set Skywarslover's spawn point to (571, 4, 1675)]
+[13:38:06] [Server thread/INFO]: [Voice: Set the time to 1000]
+[13:38:06] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:06] [Server thread/INFO]: [@: Game rule has been updated]
+[13:38:06] [pool-3-thread-4/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:38:06] [Server thread/INFO]: [@: Set option friendlyfire for team Green to true]
+[13:38:06] [Server thread/INFO]: [@: Set option friendlyfire for team Yellow to true]
+[13:38:06] [Server thread/INFO]: [@: Set option friendlyfire for team Red to true]
+[13:38:06] [Server thread/INFO]: [@: Set option friendlyfire for team Blue to true]
+[13:38:06] [Server thread/INFO]: [@: Set Skywarslover's game mode to Survival Mode]
+[13:38:06] [Server thread/INFO]: Skywarslover issued server command: /mv tp World
+[13:38:23] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[13:38:23] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[13:38:24] [Server thread/INFO]: Skywarslover issued server command: /
+[13:39:54] [Server thread/INFO]: Skywarslover issued server command: /mv-create-destination HomeFabbo
+[13:40:03] [Server thread/INFO]: Skywarslover issued server command: /mv-destination-create FabboHome
+[13:40:19] [Server thread/INFO]: Skywarslover issued server command: /wp-destination-create FabboCJHome
+[13:40:24] [Server thread/INFO]: Skywarslover issued server command: /mvspawn
+[13:41:08] [Server thread/INFO]: Skywarslover issued server command: /wp-create-portal FabboCJHome FabboCJHome water
+[13:41:13] [Server thread/INFO]: Skywarslover issued server command: /wp-create-portal FabboCJHome Water
+[13:41:18] [Server thread/INFO]: Skywarslover issued server command: /wp-create-portal FabboCJHome
+[13:41:25] [Server thread/INFO]: Skywarslover issued server command: /wp-create-portal Hem
+[13:41:42] [Server thread/INFO]: Skywarslover issued server command: /wp-portal-create FabboCJHome FabboCJHome Water
+[13:44:02] [Server thread/INFO]: Skywarslover issued server command: /mv spawn
+[13:45:48] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[13:45:48] [Server thread/INFO]: Skywarslover left the game.
+[13:48:06] [pool-3-thread-4/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:58:05] [pool-3-thread-4/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:08:05] [pool-3-thread-11/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:18:05] [pool-3-thread-16/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:28:05] [pool-3-thread-16/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:38:05] [pool-3-thread-21/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:47:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2356ms behind, skipping 47 tick(s)
+[14:48:06] [pool-3-thread-25/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:58:06] [pool-3-thread-25/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:08:06] [pool-3-thread-25/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:17:59] [pool-3-thread-25/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:27:59] [pool-3-thread-25/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:02:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2295ms behind, skipping 45 tick(s)
+[16:07:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2360ms behind, skipping 47 tick(s)
+[16:28:06] [pool-3-thread-45/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:38:06] [pool-3-thread-47/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:48:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2399ms behind, skipping 47 tick(s)
+[16:48:00] [pool-3-thread-53/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:58:05] [pool-3-thread-53/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:08:00] [pool-3-thread-55/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:10:57] [User Authenticator #2/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[17:10:57] [Server thread/INFO]: Skywarslover[/83.253.146.146:44506] logged in with entity id 7267 at ([tutworld] -54.51644129155451, 86.0, -89.45565905551244)
+[17:12:50] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[17:12:50] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[17:17:46] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[17:17:46] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[17:17:51] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[17:17:51] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[17:18:00] [pool-3-thread-55/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:20:12] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[17:20:12] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[17:23:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2153ms behind, skipping 43 tick(s)
+[17:28:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2124ms behind, skipping 42 tick(s)
+[17:28:00] [pool-3-thread-55/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:38:01] [pool-3-thread-55/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:48:01] [pool-3-thread-55/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:58:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2109ms behind, skipping 42 tick(s)
+[18:03:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[18:17:25] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:17:25] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:19:02] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:19:02] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:19:27] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:19:27] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:22:00] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:22:00] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:22:41] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:22:41] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:22:54] [Server thread/INFO]: Skywarslover issued server command: /give Skywarslover Coal 105
+[18:23:01] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:23:01] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:23:16] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:23:16] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:23:18] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:23:18] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:27:42] [Server thread/INFO]: Skywarslover issued server command: /mvspawn
+[18:27:54] [Server thread/INFO]: Skywarslover issued server command: /gamemode
+[18:27:56] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:27:56] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:32:21] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[18:32:21] [Server thread/INFO]: Skywarslover left the game.
+[18:37:31] [User Authenticator #3/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:37:31] [Server thread/INFO]: Skywarslover[/83.253.146.146:45245] logged in with entity id 23591 at ([tutworld] -15.300000011920929, 71.0, -95.82974029637306)
+[18:37:46] [Server thread/INFO]: Skywarslover issued server command: /pl
+[18:37:50] [Server thread/INFO]: Skywarslover issued server command: /op Skywarslover
+[18:37:50] [Server thread/INFO]: [Skywarslover: Opped Skywarslover]
+[18:37:52] [Server thread/INFO]: Skywarslover issued server command: /pl
+[18:37:57] [Server thread/INFO]: Skywarslover issued server command: /manuadd Skywarslover Owner
+[18:37:58] [Server thread/INFO]: Skywarslover issued server command: /pl
+[18:38:06] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> sd[m
+[18:38:27] [Server thread/INFO]: Skywarslover issued server command: /mangaddv Owner prefix &6[&4Owner&6]
+[18:38:28] [Netty Server IO #1/INFO]: [[0;32;1mworld[0;37;1m]<Skywarslover> s[m
+[18:39:15] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:39:15] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:39:33] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:39:33] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:39:42] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:39:42] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:39:53] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:39:53] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:40:01] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:40:01] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:40:24] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:40:24] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:41:02] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:41:02] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:41:10] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:41:10] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:41:12] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:41:12] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:41:13] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:41:13] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:41:35] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:41:35] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:41:43] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:41:43] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:41:44] [Server thread/INFO]: Skywarslover issued server command: /gamemode 1
+[18:41:44] [Server thread/INFO]: [Skywarslover: Set own game mode to Creative Mode]
+[18:41:58] [Server thread/INFO]: Skywarslover issued server command: /gamemode 0
+[18:41:58] [Server thread/INFO]: [Skywarslover: Set own game mode to Survival Mode]
+[18:43:52] [Server thread/INFO]: Skywarslover lost connection: Disconnected
+[18:43:52] [Server thread/INFO]: Skywarslover left the game.
+[18:46:12] [pool-4-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[18:58:07] [pool-3-thread-78/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:08:07] [pool-3-thread-78/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:28:00] [pool-3-thread-86/INFO]: [Vault] Checking for Updates ... 
+[19:28:01] [pool-3-thread-86/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[19:28:01] [pool-3-thread-86/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:58:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2359ms behind, skipping 47 tick(s)
+[19:58:08] [pool-3-thread-88/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:03:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2312ms behind, skipping 46 tick(s)
+[20:08:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2485ms behind, skipping 49 tick(s)
+[20:08:09] [pool-3-thread-90/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:18:08] [pool-3-thread-96/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:28:08] [pool-3-thread-96/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:38:08] [pool-3-thread-96/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:48:08] [pool-3-thread-104/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[20:58:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2177ms behind, skipping 43 tick(s)
+[20:58:09] [pool-3-thread-104/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:08:08] [pool-3-thread-109/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:18:09] [pool-3-thread-114/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:28:09] [pool-3-thread-114/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:38:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2359ms behind, skipping 47 tick(s)
+[21:38:09] [pool-3-thread-117/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:48:09] [pool-3-thread-123/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[21:58:09] [pool-3-thread-123/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:08:09] [pool-3-thread-126/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:18:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2159ms behind, skipping 43 tick(s)
+[22:18:09] [pool-3-thread-131/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:28:09] [pool-3-thread-131/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:38:09] [pool-3-thread-136/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:48:09] [pool-3-thread-136/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[22:58:09] [pool-3-thread-136/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:08:09] [pool-3-thread-144/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:18:09] [pool-3-thread-149/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:28:09] [pool-3-thread-149/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:38:09] [pool-3-thread-154/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:48:09] [pool-3-thread-154/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[23:58:09] [pool-3-thread-154/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core

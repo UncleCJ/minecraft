@@ -1,0 +1,57 @@
+[01:47:00] [pool-3-thread-37/INFO]: [Vault] Checking for Updates ... 
+[01:47:01] [pool-3-thread-37/INFO]: [Vault] No new version available
+[07:47:00] [pool-3-thread-50/INFO]: [Vault] Checking for Updates ... 
+[07:47:01] [pool-3-thread-50/INFO]: [Vault] No new version available
+[12:47:07] [pool-3-thread-59/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[12:57:07] [pool-3-thread-60/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:07:07] [pool-3-thread-60/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:17:06] [pool-3-thread-60/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[13:27:00] [pool-3-thread-65/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:47:00] [pool-3-thread-68/INFO]: [Vault] Checking for Updates ... 
+[13:47:01] [pool-3-thread-68/INFO]: [Vault] No new version available
+[17:27:07] [pool-3-thread-72/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:47:00] [pool-3-thread-84/INFO]: [Vault] Checking for Updates ... 
+[19:47:01] [pool-3-thread-84/INFO]: [Vault] No new version available
+[21:55:17] [User Authenticator #3/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[21:55:17] [Server thread/INFO]: FabboCJ[/37.46.178.157:46198] logged in with entity id 11675 at ([tutworld] -39.52661698114991, 86.0, -89.67422852635353)
+[21:55:48] [Server thread/INFO]: FabboCJ issued server command: /plugins
+[21:57:28] [Server thread/INFO]: FabboCJ issued server command: /mvtp creepersoccer
+[21:58:50] [Server thread/INFO]: FabboCJ issued server command: /mvinfo
+[21:59:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:59:39] [Server thread/INFO]: [@: Changing to clear weather]
+[21:59:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:59:39] [Server thread/INFO]: [@: Changing to clear weather]
+[21:59:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:59:39] [Server thread/INFO]: [@: Changing to clear weather]
+[21:59:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:59:39] [Server thread/INFO]: [@: Changing to clear weather]
+[21:59:40] [Server thread/INFO]: [@: Set the time to 6000]
+[21:59:40] [Server thread/INFO]: [@: Changing to clear weather]
+[22:00:41] [Server thread/INFO]: [@] red team point
+[22:01:04] [Server thread/INFO]: [@] red team point
+[22:01:11] [Server thread/INFO]: FabboCJ issued server command: /mvtp spawn
+[22:01:13] [Server thread/INFO]: §9FabboCJ§r fell out of the world
+[22:07:41] [Server thread/INFO]: FabboCJ was slain by Zombie Pigman
+[22:11:00] [Server thread/INFO]: FabboCJ was slain by Zombie Pigman
+[22:13:43] [Server thread/INFO]: FabboCJ was slain by Zombie Pigman
+[22:27:31] [Server thread/INFO]: FabboCJ issued server command: /rainoff
+[22:27:39] [Server thread/INFO]: FabboCJ issued server command: /rain off
+[22:27:42] [Server thread/INFO]: FabboCJ issued server command: /help
+[22:27:46] [Server thread/INFO]: FabboCJ issued server command: /weather
+[22:28:04] [Server thread/INFO]: FabboCJ issued server command: /weather clear
+[22:28:04] [Server thread/INFO]: [FabboCJ: Changing to clear weather]
+[23:10:24] [Server thread/INFO]: [Server] Ehlo
+[23:10:58] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[23:10:58] [Server thread/INFO]: [0;37;1mBomber[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[23:10:58] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[23:10:58] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:10:58] [Server thread/INFO]: [0;37;1mcreepersoccer[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[23:32:56] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[23:32:56] [Server thread/INFO]: FabboCJ left the game.

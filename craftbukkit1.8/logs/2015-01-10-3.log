@@ -1,0 +1,203 @@
+[18:16:56] [Server thread/INFO]: Starting minecraft server version 1.8
+[18:16:56] [Server thread/INFO]: Loading properties
+[18:16:56] [Server thread/INFO]: Default game type: SURVIVAL
+[18:16:56] [Server thread/INFO]: Generating keypair
+[18:16:57] [Server thread/INFO]: Starting Minecraft server on *:25566
+[18:16:57] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[18:16:58] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:16:58] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:16:58] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:16:58] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:16:58] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:16:58] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[18:16:58] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[18:16:58] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[18:16:58] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:16:58] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:16:58] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:16:58] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[18:16:58] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[18:16:58] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:16:58] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:16:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[18:16:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:16:58] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:16:58] [Server thread/INFO]: Preparing level "tutworld"
+[18:16:58] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[18:16:59] [Server thread/INFO]: Preparing spawn area: 12%
+[18:17:00] [Server thread/INFO]: Preparing spawn area: 26%
+[18:17:01] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[18:17:02] [Server thread/INFO]: Preparing spawn area: 87%
+[18:17:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[18:17:03] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:17:03] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:17:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:17:03] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:17:03] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:17:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:17:03] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[18:17:04] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1780430939243764315)
+[18:17:04] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:17:07] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:17:08] [Server thread/INFO]: Preparing start region for level 4 (Seed: -2903505127734604271)
+[18:17:09] [User Authenticator #3/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:17:09] [Server thread/INFO]: Preparing spawn area for fromflames, 89%
+[18:17:11] [Server thread/INFO]: Preparing start region for level 5 (Seed: 4919839233390569991)
+[18:17:13] [Server thread/INFO]: Preparing spawn area for Bomber, 65%
+[18:17:16] [Server thread/INFO]: Preparing start region for level 6 (Seed: 8440151354802767546)
+[18:17:19] [Server thread/INFO]: Preparing start region for level 7 (Seed: -2369971020579525390)
+[18:17:22] [Server thread/INFO]: Preparing start region for level 8 (Seed: 64951768)
+[18:17:28] [Server thread/INFO]: Preparing start region for level 9 (Seed: -6426663970308026368)
+[18:17:29] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 89%
+[18:17:34] [Server thread/INFO]: Preparing start region for level 10 (Seed: 3981014598438330368)
+[18:17:35] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 89%
+[18:17:39] [Server thread/INFO]: Preparing start region for level 11 (Seed: 6851938583268216745)
+[18:17:43] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[18:17:43] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:17:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[18:17:43] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[18:17:43] [Server thread/INFO]: git-Bukkit-0899683 (MC: 1.8)
+[18:17:43] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[18:17:43] [Server thread/INFO]: Creating config from template: /home/minecraft-ssd/craftbukkit1.8/plugins/Essentials/worth.yml
+[18:17:43] [Server thread/ERROR]: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+[18:17:43] [Server thread/ERROR]: Error occurred while enabling Essentials v2.13.1 (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+	at com.earth2me.essentials.UserMap.<init>(UserMap.java:27) ~[?:?]
+	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:195) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:340) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:312) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:473) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:17:43] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[18:17:43] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[18:17:43] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[18:17:43] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[18:17:44] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[18:17:44] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[18:17:55] [User Authenticator #4/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:18:17] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[18:18:17] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[18:18:17] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[18:18:18] [User Authenticator #5/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:18:21] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:18:21] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[18:18:21] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[18:18:21] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[18:18:21] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[18:18:21] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[18:18:22] [User Authenticator #6/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:18:33] [User Authenticator #7/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:18:46] [User Authenticator #8/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[18:18:50] [Server thread/INFO]: Done (112.097s)! For help, type "help" or "?"
+[18:18:50] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dbb7db[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@78363c6c]},legacy=false] (/83.253.146.146:59305) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4827a264[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@182a3bb3]},legacy=false] (/192.168.1.137:60616) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@2216783e[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@1b45e2b5]},legacy=false] (/83.253.146.146:59307) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@71303fed[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@3e918e85]},legacy=false] (/83.253.146.146:59317) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@16b51aa9[id=71099085-8677-4003-b144-d3ef69961fd4,name=FabboCJ,properties={textures=[com.mojang.authlib.properties.Property@7c6d48c1]},legacy=false] (/192.168.1.137:60618) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4be958e4[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@68d003d8]},legacy=false] (/83.253.146.146:59322) lost connection: Disconnected
+[18:18:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@44cb07ab[id=794ef548-7750-427f-a5b8-a57606d34d71,name=Skywarslover,properties={textures=[com.mojang.authlib.properties.Property@15a9caeb]},legacy=false] (/83.253.146.146:59327) lost connection: Disconnected
+[18:18:51] [pool-3-thread-3/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[18:18:51] [pool-3-thread-3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:18:51] [Server thread/INFO]: FabboCJ[/192.168.1.137:60620] logged in with entity id 1830 at ([tutworld] 56.55930962892139, 11.0, 2399.7436996121683)
+[18:19:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8660ms behind, skipping 173 tick(s)
+[18:19:08] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[18:19:29] [User Authenticator #9/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:19:30] [Server thread/INFO]: Skywarslover[/83.253.146.146:59406] logged in with entity id 2576 at ([tutworld] 130.02590285828876, 11.0, 2396.0296430911367)
+[18:19:43] [Server thread/INFO]: Skywarslover issued server command: /op Skywarslover
+[18:19:43] [Server thread/INFO]: [Skywarslover: Opped Skywarslover]
+[18:20:06] [Server thread/INFO]: [Multiverse-Adventure] Disabling Multiverse-Adventure v2.5-b683
+[18:20:06] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[18:20:06] [Server thread/INFO]: [Multiverse-Downloader] Disabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:20:06] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b682
+[18:20:06] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[18:20:06] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b710
+[18:20:06] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[18:20:06] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[18:20:06] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[18:20:06] [Server thread/INFO]: [GodSet] Disabling GodSet v1.1
+[18:20:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[18:20:06] [Server thread/INFO]: [PlayerInfo] Disabling PlayerInfo v1.0
+[18:20:06] [Server thread/INFO]: [PlayerInfo] has been disabled
+[18:20:06] [Server thread/ERROR]: Could not load 'plugins/EssentialsChat.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:20:06] [Server thread/ERROR]: Could not load 'plugins/EssentialsSpawn.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:20:06] [Server thread/ERROR]: Could not load 'plugins/EssentialsAntiBuild.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugins(CraftServer.java:287) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.reload(CraftServer.java:721) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.Bukkit.reload(Bukkit.java:543) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:624) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchServerCommand(CraftServer.java:610) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.aM(DedicatedServer.java:320) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:285) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:598) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit-1.8.jar:git-Bukkit-0899683]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[18:20:06] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[18:20:06] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:20:06] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[18:20:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[18:20:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:20:06] [Server thread/INFO]: [GodSet] Loading GodSet v1.1
+[18:20:06] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[18:20:06] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[18:20:06] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[18:20:06] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[18:20:06] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:20:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:20:06] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:20:06] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[18:20:06] [Server thread/INFO]: [PlayerInfo] has been enabled
+[18:20:06] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[18:20:06] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[18:20:33] [User Authenticator #10/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[18:20:38] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[18:20:38] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:20:38] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[18:20:38] [Server thread/ERROR]: Essentials not installed or failed to load. Essenials Protect is in emergency mode now.
+[18:20:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:20:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:20:38] [Server thread/INFO]: [GodSet] Enabling GodSet v1.1
+[18:20:38] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[18:20:38] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[18:21:06] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:21:06] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:21:06] [Server Watchdog/ERROR]: This crash report has been saved to: /home/minecraft-ssd/craftbukkit1.8/./crash-reports/crash-2015-01-10_18.21.06-server.txt

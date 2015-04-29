@@ -1,0 +1,21 @@
+[00:06:40] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[00:06:40] [Server thread/INFO]: FabboCJ left the game.
+[00:10:31] [User Authenticator #21/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[00:10:31] [Server thread/INFO]: FabboCJ[/192.168.1.137:40275] logged in with entity id 2029768 at ([tutworld] 158.10089737828727, 12.0, 2468.9582224294813)
+[00:15:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3904ms behind, skipping 78 tick(s)
+[00:17:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2258ms behind, skipping 45 tick(s)
+[00:21:26] [Server thread/INFO]: FabboCJ lost connection: Disconnected
+[00:21:26] [Server thread/INFO]: FabboCJ left the game.
+[00:53:07] [Server thread/INFO]: Stopping the server
+[00:53:07] [Server thread/INFO]: Stopping server
+[00:53:07] [Server thread/INFO]: Saving players
+[00:53:07] [Server thread/INFO]: Saving worlds
+[00:53:07] [Server thread/INFO]: Saving chunks for level 'tutworld'/Overworld
+[00:53:07] [Server thread/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[00:53:07] [Server thread/INFO]: Saving chunks for level 'tutworld_the_end'/The End
+[00:53:07] [Thread-4/INFO]: Stopping server
+[00:53:07] [Thread-4/INFO]: Saving players
+[00:53:07] [Thread-4/INFO]: Saving worlds
+[00:53:07] [Thread-4/INFO]: Saving chunks for level 'tutworld'/Overworld
+[00:53:07] [Thread-4/INFO]: Saving chunks for level 'tutworld_nether'/Nether
+[00:53:07] [Thread-4/INFO]: Saving chunks for level 'tutworld_the_end'/The End

@@ -1,0 +1,111 @@
+[20:57:37] [Server thread/INFO]: Starting minecraft server version 1.8
+[20:57:37] [Server thread/INFO]: Loading properties
+[20:57:37] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:37] [Server thread/INFO]: Generating keypair
+[20:57:38] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:57:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0899683 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[20:57:41] [Server thread/INFO]: [PlayerInfo] Loading PlayerInfo v1.0
+[20:57:41] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[20:57:41] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[20:57:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[20:57:41] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b710
+[20:57:41] [Server thread/INFO]: [Multiverse-Adventure] Loading Multiverse-Adventure v2.5-b683
+[20:57:41] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b682
+[20:57:41] [Server thread/INFO]: [Multiverse-Downloader] Loading Multiverse-Downloader v1.0-SNAPSHOT-b1
+[20:57:41] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[20:57:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:57:41] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[20:57:41] [Server thread/INFO]: Preparing level "tutworld"
+[20:57:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3414234582187284145)
+[20:57:49] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:50] [Server thread/INFO]: Preparing spawn area: 8%
+[20:57:51] [Server thread/INFO]: Preparing spawn area: 28%
+[20:57:52] [Server thread/INFO]: Preparing spawn area: 47%
+[20:57:53] [Server thread/INFO]: Preparing spawn area: 59%
+[20:57:54] [Server thread/INFO]: Preparing spawn area: 82%
+[20:57:57] [Server thread/INFO]: Preparing spawn area: 86%
+[20:57:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3414234582187284145)
+[20:57:59] [Server thread/INFO]: Preparing spawn area: 22%
+[20:58:00] [Server thread/INFO]: Preparing spawn area: 50%
+[20:58:01] [Server thread/INFO]: Preparing spawn area: 83%
+[20:58:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3414234582187284145)
+[20:58:03] [Server thread/INFO]: [PlayerInfo] Enabling PlayerInfo v1.0
+[20:58:03] [Server thread/INFO]: [PlayerInfo] has been enabled
+[20:58:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[20:58:03] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b678
+[20:58:05] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2903505127734604271)
+[20:58:06] [Server thread/INFO]: Preparing spawn area for fromflames, 44%
+[20:58:07] [Server thread/INFO]: Preparing spawn area for fromflames, 69%
+[20:58:11] [Server thread/INFO]: Preparing spawn area for fromflames, 73%
+[20:58:12] [Server thread/INFO]: Preparing start region for level 4 (Seed: 4919839233390569991)
+[20:58:13] [Server thread/INFO]: Preparing spawn area for Bomber, 36%
+[20:58:14] [Server thread/INFO]: Preparing spawn area for Bomber, 52%
+[20:58:15] [Server thread/INFO]: Preparing spawn area for Bomber, 89%
+[20:58:19] [Server thread/INFO]: Preparing start region for level 5 (Seed: 8440151354802767546)
+[20:58:20] [Server thread/INFO]: Preparing spawn area for fromashes, 77%
+[20:58:21] [Server thread/INFO]: Preparing start region for level 6 (Seed: -2369971020579525390)
+[20:58:22] [Server thread/INFO]: Preparing spawn area for creative, 56%
+[20:58:23] [Server thread/INFO]: Preparing start region for level 7 (Seed: 64951768)
+[20:58:24] [Server thread/INFO]: Preparing spawn area for cityworld, 16%
+[20:58:25] [Server thread/INFO]: Preparing spawn area for cityworld, 48%
+[20:58:26] [Server thread/INFO]: Preparing spawn area for cityworld, 97%
+[20:58:29] [Server thread/INFO]: Preparing start region for level 8 (Seed: -6426663970308026368)
+[20:58:30] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 36%
+[20:58:31] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 56%
+[20:58:32] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 69%
+[20:58:33] [Server thread/INFO]: Preparing spawn area for cubeception2smp, 85%
+[20:58:35] [Server thread/INFO]: Preparing start region for level 9 (Seed: 3981014598438330368)
+[20:58:36] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 36%
+[20:58:37] [Server thread/INFO]: Preparing spawn area for cubeceptionreloaded, 77%
+[20:58:41] [Server thread/INFO]: Preparing start region for level 10 (Seed: 6851938583268216745)
+[20:58:43] [Server thread/INFO]: [Multiverse-Core] 11 - World(s) loaded.
+[20:58:43] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[20:58:43] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[20:58:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:58:44] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b710
+[20:58:44] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b710 Enabled - By Rigby and fernferret
+[20:58:58] [Server thread/INFO]: [MVPLogging] 8 - Portals(s) loaded
+[20:58:59] [Server thread/INFO]: [Multiverse-Adventure] Enabling Multiverse-Adventure v2.5-b683
+[20:58:59] [Server thread/INFO]: [Multiverse-Adventure] Multiverse-Portals was found.
+[20:58:59] [Server thread/INFO]: [Multiverse-Adventure 2.5-b683]  Enabled - By main()
+[20:59:03] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b682
+[20:59:03] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 2.5-b682 Enabled - By Rigby and fernferret
+[20:59:04] [Server thread/INFO]: [Multiverse-Downloader] Enabling Multiverse-Downloader v1.0-SNAPSHOT-b1
+[20:59:13] [Server thread/INFO]: Done (92.179s)! For help, type "help" or "?"
+[20:59:14] [pool-3-thread-3/INFO]: [Vault] Checking for Updates ... 
+[20:59:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3548ms behind, skipping 70 tick(s)
+[20:59:19] [pool-3-thread-3/INFO]: [Vault] No new version available
+[20:59:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15508ms behind, skipping 310 tick(s)
+[21:23:05] [Server thread/INFO]: You must enter a[0;35;1m world[0;37;1m from the console![m
+[21:39:23] [Server thread/INFO]: [0;35;1m====[ Multiverse World List ]====[m
+[21:39:23] [Server thread/INFO]: [0;37;1mBomber[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;30;22mthe_end[0;37;1m[0;37;1m - [0;36;1mTHE_END[m
+[21:39:23] [Server thread/INFO]: [0;31;1mnether_world[0;37;1m[0;37;1m - [0;31;1mNETHER[m
+[21:39:23] [Server thread/INFO]: [0;34;1mcreative[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;1mfromflames[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;32;1mworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;1mcubeception2smp[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;1mfromashes[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;22m[H][0;37;1mcubeceptionreloaded[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;1mcityworld[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:23] [Server thread/INFO]: [0;37;1mcreepersoccer[0;37;1m[0;37;1m - [0;32;1mNORMAL[m
+[21:39:57] [Server thread/INFO]: [0;31;1mFAILED.[m
+[21:39:57] [Server thread/INFO]: That world folder does not exist. These look like worlds to me:[m
+[21:39:57] [Server thread/INFO]: [0;37;1mminigames [0;33;1mworld [m
+[21:41:33] [Server thread/INFO]: [0;36;1m--- Import World ---[m
+[21:41:33] [Server thread/INFO]: [0;33;1mImports a new world of the specified type.[m
+[21:41:33] [Server thread/INFO]: [0;36;22m/mv import[0;32;1m {NAME} {ENV}[0;33;22m -g [GENERATOR[:ID]] [-n][m
+[21:41:33] [Server thread/INFO]: Permission: [0;32;1mmultiverse.core.import[m
+[21:41:33] [Server thread/INFO]: [0;34;1mAliases: [0;31;1mmv import, mvimport, mvim[m
+[21:41:33] [Server thread/INFO]: [0;35;1mExamples:[m
+[21:41:33] [Server thread/INFO]: /mv import [0;33;22mgargamel[0;32;1m normal[m
+[21:41:33] [Server thread/INFO]: /mv import [0;33;22mhell_world[0;32;1m nether[m
+[21:41:33] [Server thread/INFO]: To import a world that uses a generator, you'll need the generator:[m
+[21:41:33] [Server thread/INFO]: /mv import [0;33;22mCleanRoom[0;32;1m normal[0;36;22m CleanRoomGenerator[m
+[21:41:39] [Server thread/INFO]: CONSOLE: Starting import of world 'minigames'...[m
+[21:41:39] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: null
+[21:41:39] [Server thread/INFO]: Preparing start region for level 11 (Seed: 1780430939243764315)
+[21:41:45] [Server thread/INFO]: CONSOLE: [0;32;1mComplete![m
+[21:41:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6464ms behind, skipping 129 tick(s)
+[21:49:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2026ms behind, skipping 40 tick(s)
+[21:54:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)

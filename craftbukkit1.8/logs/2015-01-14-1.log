@@ -1,0 +1,40 @@
+[02:27:32] [pool-3-thread-195/INFO]: [Vault] Checking for Updates ... 
+[02:27:33] [pool-3-thread-195/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[02:27:33] [pool-3-thread-195/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[07:22:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4000ms behind, skipping 80 tick(s)
+[07:57:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4825ms behind, skipping 96 tick(s)
+[08:27:36] [pool-3-thread-256/INFO]: [Vault] Checking for Updates ... 
+[08:27:37] [pool-3-thread-256/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[08:27:37] [pool-3-thread-256/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:27:45] [pool-3-thread-294/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[12:57:45] [pool-3-thread-299/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[13:27:44] [pool-3-thread-306/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:47:44] [pool-3-thread-311/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[13:57:44] [pool-3-thread-311/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:07:45] [pool-3-thread-315/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:17:44] [pool-3-thread-315/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:27:36] [pool-3-thread-325/INFO]: [Vault] Checking for Updates ... 
+[14:27:37] [pool-3-thread-325/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[14:27:37] [pool-3-thread-325/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[14:27:44] [pool-3-thread-315/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:37:44] [pool-3-thread-326/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:42:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[14:47:44] [pool-3-thread-329/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[14:57:44] [pool-3-thread-329/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:07:44] [pool-3-thread-334/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[15:17:37] [pool-3-thread-334/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[16:27:45] [pool-3-thread-348/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[16:57:44] [pool-3-thread-351/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:07:44] [pool-3-thread-358/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[17:17:42] [pool-3-thread-361/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[17:57:42] [pool-3-thread-368/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/Multiverse-Core
+[18:07:44] [pool-3-thread-368/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:17:44] [pool-3-thread-375/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:27:44] [pool-3-thread-375/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:37:37] [pool-3-thread-381/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[18:47:37] [pool-3-thread-383/INFO]: [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/Multiverse-Core
+[19:27:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2128ms behind, skipping 42 tick(s)
+[20:12:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
+[20:27:37] [pool-3-thread-402/INFO]: [Vault] Checking for Updates ... 
+[20:27:38] [pool-3-thread-402/WARN]: [Vault] Stable Version: 1.5.2 is out! You are still running version: 1.5.0
+[20:27:38] [pool-3-thread-402/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault

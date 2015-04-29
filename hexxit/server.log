@@ -1,0 +1,105 @@
+2015-01-10 15:32:19 [INFO] Starting minecraft server version 1.5.2
+2015-01-10 15:32:35 [INFO] Loading properties
+2015-01-10 15:32:35 [INFO] Default game type: CREATIVE
+2015-01-10 15:32:35 [INFO] Generating keypair
+2015-01-10 15:32:35 [INFO] Starting Minecraft server on *:25568
+2015-01-10 15:32:41 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2015-01-10 15:32:41 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2015-01-10 15:32:41 [INFO] Preparing level "world"
+2015-01-10 15:32:41 [INFO] Preparing start region for level 0
+2015-01-10 15:32:45 [INFO] Preparing spawn area: 4%
+2015-01-10 15:32:46 [INFO] Preparing spawn area: 6%
+2015-01-10 15:32:47 [INFO] Preparing spawn area: 7%
+2015-01-10 15:32:48 [INFO] Preparing spawn area: 12%
+2015-01-10 15:32:49 [INFO] Preparing spawn area: 19%
+2015-01-10 15:32:51 [INFO] Preparing spawn area: 24%
+2015-01-10 15:32:52 [INFO] Preparing spawn area: 29%
+2015-01-10 15:32:53 [INFO] Preparing spawn area: 34%
+2015-01-10 15:32:54 [INFO] Preparing spawn area: 39%
+2015-01-10 15:32:55 [INFO] Preparing spawn area: 42%
+2015-01-10 15:32:56 [INFO] Preparing spawn area: 47%
+2015-01-10 15:32:57 [INFO] Preparing spawn area: 49%
+2015-01-10 15:32:58 [INFO] Preparing spawn area: 53%
+2015-01-10 15:32:59 [INFO] Preparing spawn area: 57%
+2015-01-10 15:33:00 [INFO] Preparing spawn area: 62%
+2015-01-10 15:33:01 [INFO] Preparing spawn area: 65%
+2015-01-10 15:33:02 [INFO] Preparing spawn area: 69%
+2015-01-10 15:33:03 [INFO] Preparing spawn area: 74%
+2015-01-10 15:33:04 [INFO] Preparing spawn area: 77%
+2015-01-10 15:33:05 [INFO] Preparing spawn area: 82%
+2015-01-10 15:33:06 [INFO] Preparing spawn area: 87%
+2015-01-10 15:33:07 [INFO] Preparing spawn area: 92%
+2015-01-10 15:33:08 [INFO] Preparing spawn area: 98%
+2015-01-10 15:33:08 [INFO] Done (27.840s)! For help, type "help" or "?"
+2015-01-10 15:33:48 [INFO] FabboCJ[/192.168.1.137:54782] logged in with entity id 7541 at (243.5, 81.0, 234.5)
+2015-01-10 15:33:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-01-10 15:34:41 [INFO] Opped fabbocj
+2015-01-10 15:34:50 [INFO] You must specify which player you wish to perform this action on.
+2015-01-10 15:35:10 [INFO] [FabboCJ: Set own game mode to Creative Mode]
+2015-01-10 15:35:18 [INFO] [FabboCJ: Set own game mode to Survival Mode]
+2015-01-10 15:37:43 [INFO] Unknown command. Try /help for a list of commands.
+2015-01-10 15:37:47 [INFO] --- Showing help page 1 of 8 (/help <page>) ---
+2015-01-10 15:37:47 [INFO] /ban <name> [reason ...]
+2015-01-10 15:37:47 [INFO] /ban-ip <address|name> [reason ...]
+2015-01-10 15:37:47 [INFO] /banlist [ips|players]
+2015-01-10 15:37:47 [INFO] /clear <player> [item] [data]
+2015-01-10 15:37:47 [INFO] /cofh help
+2015-01-10 15:37:47 [INFO] /dd-???
+2015-01-10 15:37:47 [INFO] /dd-create
+2015-01-10 15:37:57 [INFO] --- Showing help page 2 of 8 (/help <page>) ---
+2015-01-10 15:37:57 [INFO] /dd-deletedimension
+2015-01-10 15:37:57 [INFO] /dd-deletelinks
+2015-01-10 15:37:57 [INFO] /dd-dimensiondata
+2015-01-10 15:37:57 [INFO] /dd-export
+2015-01-10 15:37:57 [INFO] /dd-prune
+2015-01-10 15:37:57 [INFO] /dd-resetdungeons
+2015-01-10 15:37:57 [INFO] /dd-rift
+2015-01-10 15:38:00 [INFO] Unknown command. Try /help for a list of commands.
+2015-01-10 15:38:30 [INFO] Opped skywarslover
+2015-01-10 15:38:36 [INFO] Opped Skywarslover
+2015-01-10 15:38:41 [INFO] De-opped skywarslover
+2015-01-10 15:41:51 [INFO] Skywarslover[/83.253.146.146:40129] logged in with entity id 16933 at (237.5, 81.0, 249.5)
+2015-01-10 15:44:33 [INFO] Opped skywarslover
+2015-01-10 15:44:56 [INFO] Unknown command. Try /help for a list of commands.
+2015-01-10 15:44:56 [INFO] Unknown command. Try /help for a list of commands.
+2015-01-10 15:45:07 [INFO] [Skywarslover: Teleported Skywarslover to FabboCJ]
+2015-01-10 15:46:18 [INFO] [Skywarslover: Teleported Skywarslover to FabboCJ]
+2015-01-10 15:49:24 [INFO] [Skywarslover: Cleared the inventory of Skywarslover, removing 6 items]
+2015-01-10 15:52:22 [INFO] Skywarslover lost connection: disconnect.genericReason
+2015-01-10 15:54:03 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-01-10 16:55:06 [INFO] Unknown command. Try /help for a list of commands.
+2015-01-10 18:24:25 [INFO] FabboCJ[/192.168.1.137:55187] logged in with entity id 29508 at (186.64627251500153, 85.0, 249.05476334479005)
+2015-01-10 18:24:56 [INFO] FabboCJ was blown up by Creeper
+2015-01-10 18:25:28 [INFO] FabboCJ was slain by Spider
+2015-01-10 18:26:44 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-01-10 18:27:44 [INFO] FabboCJ[/192.168.1.137:55198] logged in with entity id 32505 at (246.22249894660428, 82.0, 240.78822594690445)
+2015-01-10 18:29:00 [INFO] FabboCJ lost connection: disconnect.quitting
+2015-01-10 19:11:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-01-11 08:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-01-28 13:03:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-01-28 22:33:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-04 08:08:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-12 08:18:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-15 07:59:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 07:55:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-22 09:55:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-25 00:23:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-25 08:20:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-28 08:03:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-02-28 13:17:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-04 08:18:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-05 01:12:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-05 20:11:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-12 09:13:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-14 12:04:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-15 21:34:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-25 21:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-03-29 08:17:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 07:48:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 08:02:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-05 10:30:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-07 12:45:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-12 01:30:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-20 08:12:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-25 23:50:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-27 08:00:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?

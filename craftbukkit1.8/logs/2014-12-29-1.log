@@ -1,0 +1,194 @@
+[20:28:38] [Server thread/INFO]: Starting minecraft server version 1.8
+[20:28:38] [Server thread/INFO]: Loading properties
+[20:28:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:38] [Server thread/INFO]: Generating keypair
+[20:28:39] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:28:39] [Server thread/INFO]: Preparing level "tutworld"
+[20:28:39] [Server thread/ERROR]: Exception reading ./tutworld/level.dat
+java.io.EOFException
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:264) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:254) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:163) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:78) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:90) ~[?:1.7.0_65]
+	at fz.a(SourceFile:13) ~[minecraft_server.1.8.jar:?]
+	at bqn.c(SourceFile:62) [minecraft_server.1.8.jar:?]
+	at bqj.b(SourceFile:94) [minecraft_server.1.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:183) [minecraft_server.1.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:225) [minecraft_server.1.8.jar:?]
+	at po.i(SourceFile:210) [minecraft_server.1.8.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:417) [minecraft_server.1.8.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[20:28:40] [Server thread/INFO]: Preparing start region for level 0
+[20:28:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:42] [Server thread/INFO]: Preparing spawn area: 13%
+[20:28:45] [Server thread/INFO]: Preparing spawn area: 24%
+[20:28:46] [Server thread/INFO]: Preparing spawn area: 68%
+[20:28:47] [Server thread/INFO]: Preparing spawn area: 96%
+[20:28:47] [Server thread/INFO]: Done (7.780s)! For help, type "help" or "?"
+[20:28:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2213ms behind, skipping 44 tick(s)
+[20:37:01] [User Authenticator #1/INFO]: UUID of player Skywarslover is 794ef548-7750-427f-a5b8-a57606d34d71
+[20:37:01] [Server thread/INFO]: Skywarslover[/83.253.146.146:46896] logged in with entity id 453 at (-29.5, 112.0, -83.5)
+[20:37:01] [Server thread/INFO]: Skywarslover joined the game
+[20:38:01] [Server thread/INFO]: Skywarslover fell from a high place
+[20:38:58] [Server thread/INFO]: Skywarslover has just earned the achievement [Taking Inventory]
+[20:39:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5094ms behind, skipping 101 tick(s)
+[20:40:20] [Server thread/INFO]: Skywarslover was slain by Zombie
+[20:41:37] [Server thread/INFO]: Skywarslover was shot by Skeleton
+[20:44:54] [Server thread/INFO]: Skywarslover fell from a high place
+[21:09:43] [Server thread/INFO]: Skywarslover lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:09:43] [Server thread/INFO]: Skywarslover left the game
+[21:17:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@184a51b[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.136:57217) lost connection: Disconnected
+[21:17:38] [User Authenticator #2/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[21:18:09] [User Authenticator #3/INFO]: UUID of player nordmert is fd3a7555-101b-43d0-b384-7798d4fd0d8f
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.364 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.3 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.257 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.258 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.42 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.313 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.31 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.116 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.50 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.323 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.50 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.312 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.338 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.310 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.351 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.292 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.324 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.290 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.266 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.49 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.1 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.breakItem.290 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.73 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.97 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.361 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.278 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.340 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.355 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.292 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.47 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.4 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.355 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.311 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.323 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.162 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.21 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.270 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.78 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.297 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.270 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.86 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.breakItem.274 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.276 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.5 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.58 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.86 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.256 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.339 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.324 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.14 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.392 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.17 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.17 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.12 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.14 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.20 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.58 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.13 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.15 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.361 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.278 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.362 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.6 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.391 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.103 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.258 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.54 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.351 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.295 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.61 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.362 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.116 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.47 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.56 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.290 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.6 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.18 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.58 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.280 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.274 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.145 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.325 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.13 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.265 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.61 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.346 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.16 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.breakItem.257 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.256 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.3 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.145 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.350 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.54 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.257 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.useItem.276 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.breakItem.278 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.50 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.47 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.4 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.5 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.129 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.mineBlock.175 is
+[21:18:09] [Server thread/WARN]: Invalid statistic in ./tutworld/stats/fd3a7555-101b-43d0-b384-7798d4fd0d8f.json: Don't know what stat.craftItem.274 is
+[21:18:09] [Server thread/INFO]: nordmert[/69.196.173.243:58873] logged in with entity id 58155 at (173.5, 89.0, 2.5)
+[21:18:09] [Server thread/INFO]: nordmert joined the game
+[21:18:17] [User Authenticator #4/INFO]: UUID of player FabboCJ is 71099085-8677-4003-b144-d3ef69961fd4
+[21:18:17] [Server thread/INFO]: FabboCJ[/192.168.1.136:57219] logged in with entity id 59484 at (169.0814987823695, 88.0, 209.72724205525066)
+[21:18:17] [Server thread/INFO]: §9FabboCJ§r joined the game
+[21:18:59] [Server thread/INFO]: <§9FabboCJ§r> Hey, good evening! :-)
+[21:19:04] [Server thread/INFO]: <nordmert> hi
+[21:19:17] [Server thread/INFO]: <nordmert> everything is just as i'd left it oh so many months ago
+[21:19:18] [Server thread/INFO]: <§9FabboCJ§r> We've had quite some adventures here, setting up a bunch of new hardware :-3
+[21:19:31] [Server thread/INFO]: <§9FabboCJ§r> Hehe, welcome back :-)
+[21:20:27] [Server thread/INFO]: <§9FabboCJ§r> And we'll hopefully be running both ftb and vanilla from now on :-3
+[21:20:53] [Server thread/INFO]: <nordmert> cool
+[21:21:12] [Server thread/INFO]: <nordmert> well i don't have a huge amount of time for minecraft, but it si good to see stuff still around
+[21:21:43] [Server thread/INFO]: <§9FabboCJ§r> Yeah, I try for continuity...
+[21:22:20] [Server thread/INFO]: <§9FabboCJ§r> And we've really done some fun crazy stuff on the ftblite2 server, that's what I'll be playing aroun
+[21:22:29] [Server thread/INFO]: <§9FabboCJ§r> ... around with largely I guess :-)
+[21:22:46] [Server thread/INFO]: <§9FabboCJ§r> But it's good to have vanilla too, and I think the server can manage it
+[21:22:48] [Server thread/INFO]: <nordmert> yes, the more you add the moe fun it can be
+[21:23:01] [Server thread/INFO]: <§9FabboCJ§r> Now that I have an Intel Nuc for all my media needs :-)
+[21:23:41] [Server thread/INFO]: <nordmert> a holiday gift?
+[21:23:50] [Server thread/INFO]: <§9FabboCJ§r> For myself I guess :-)
+[21:24:02] [Server thread/INFO]: <§9FabboCJ§r> I just had to own one :-)
+[21:25:04] [Server thread/INFO]: <nordmert> i'll have to go see what that is
+[21:25:45] [Server thread/INFO]: <§9FabboCJ§r> Indeed do. It's about $300 for a solid platform (y)
+[21:26:14] [Server thread/INFO]: <§9FabboCJ§r> 2300 SEK I recall
+[21:27:38] [Server thread/INFO]: <nordmert> looks cool
+[21:27:52] [Server thread/INFO]: <nordmert> i have a mini unix cubox in my office that i use there
+[21:27:56] [Server thread/INFO]: <§9FabboCJ§r> Mmmm... and I carry it to work and gf
+[21:27:57] [Server thread/INFO]: <nordmert> when i'm not carrying my laptop
+[21:28:51] [Server thread/INFO]: <nordmert> very interesting
+[21:29:18] [Server thread/INFO]: <nordmert> most of my work stuff is writing and is done on osx based tools
+[21:29:25] [Server thread/INFO]: <§9FabboCJ§r> Mmm
+[21:29:37] [Server thread/INFO]: <§9FabboCJ§r> Well I intend to dual boot the nuc
+[21:31:43] [Server thread/INFO]: <nordmert> cool
+[21:31:52] [Server thread/INFO]: <nordmert> i was just looking that up, looks like a possibility
+[21:34:56] [Server thread/INFO]: <nordmert> i was thinking of going to mini home and work and an ipad in between
+[21:35:12] [Server thread/INFO]: <§9FabboCJ§r> (y)
+[21:35:30] [Server thread/INFO]: <§9FabboCJ§r> Glad people can find useful hardware :-)
+[21:36:04] [Server thread/INFO]: <§9FabboCJ§r> My colleagues were like "Oh, one of those, I've been drooling over that" "Yeah, I've got one, love..
+[21:36:18] [Server thread/INFO]: <nordmert> they seem to market at 159 canadian... interesting
+[21:36:22] [Server thread/INFO]: <§9FabboCJ§r> "... love it!" "Hehe, I've got two at home..."
+[21:36:31] [Server thread/INFO]: <nordmert> i have to get a kindle nxt i suppose
+[21:44:51] [Server thread/WARN]: nordmert moved wrongly!
+[21:45:40] [Server thread/INFO]: nordmert lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:45:40] [Server thread/INFO]: nordmert left the game
+[22:22:40] [Server thread/INFO]: FabboCJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:22:40] [Server thread/INFO]: §9FabboCJ§r left the game
+[22:31:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cd815[id=<null>,name=FabboCJ,properties={},legacy=false] (/192.168.1.136:57426) lost connection: Disconnected
