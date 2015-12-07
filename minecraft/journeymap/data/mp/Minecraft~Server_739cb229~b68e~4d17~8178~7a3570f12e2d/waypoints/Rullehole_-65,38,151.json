@@ -1,0 +1,17 @@
+{
+  "id": "Rullehole_-65,38,151",
+  "name": "Rullehole",
+  "icon": "waypoint-normal.png",
+  "x": -65,
+  "y": 38,
+  "z": 151,
+  "r": 100,
+  "g": 35,
+  "b": 21,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Mine entrance_971,65,122",
+  "name": "Mine entrance",
+  "icon": "waypoint-normal.png",
+  "x": 971,
+  "y": 65,
+  "z": 122,
+  "r": 102,
+  "g": 205,
+  "b": 58,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

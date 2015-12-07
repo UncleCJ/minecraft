@@ -1,0 +1,17 @@
+{
+  "id": "City entrance_131,65,273",
+  "name": "City entrance",
+  "icon": "waypoint-normal.png",
+  "x": 131,
+  "y": 65,
+  "z": 273,
+  "r": 240,
+  "g": 70,
+  "b": 170,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

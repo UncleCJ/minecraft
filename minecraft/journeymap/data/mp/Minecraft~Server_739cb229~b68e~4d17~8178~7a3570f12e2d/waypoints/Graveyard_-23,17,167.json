@@ -1,0 +1,17 @@
+{
+  "id": "Graveyard_-23,17,167",
+  "name": "Graveyard",
+  "icon": "waypoint-normal.png",
+  "x": -23,
+  "y": 17,
+  "z": 167,
+  "r": 251,
+  "g": 64,
+  "b": 212,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

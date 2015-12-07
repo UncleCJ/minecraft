@@ -1,0 +1,17 @@
+{
+  "id": "Smeltery_184,64,279",
+  "name": "Smeltery",
+  "icon": "waypoint-normal.png",
+  "x": 184,
+  "y": 64,
+  "z": 279,
+  "r": 140,
+  "g": 99,
+  "b": 64,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

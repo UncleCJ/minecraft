@@ -1,0 +1,17 @@
+{
+  "id": "Cathedral_141,80,295",
+  "name": "Cathedral",
+  "icon": "waypoint-normal.png",
+  "x": 141,
+  "y": 80,
+  "z": 295,
+  "r": 227,
+  "g": 246,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

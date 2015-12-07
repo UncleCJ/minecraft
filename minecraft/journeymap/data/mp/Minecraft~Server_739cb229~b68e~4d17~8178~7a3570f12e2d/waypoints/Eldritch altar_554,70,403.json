@@ -1,0 +1,17 @@
+{
+  "id": "Eldritch altar_554,70,403",
+  "name": "Eldritch altar",
+  "icon": "waypoint-normal.png",
+  "x": 554,
+  "y": 70,
+  "z": 403,
+  "r": 151,
+  "g": 177,
+  "b": 96,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

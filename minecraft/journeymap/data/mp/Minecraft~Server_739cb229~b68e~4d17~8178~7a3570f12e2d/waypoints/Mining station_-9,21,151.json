@@ -1,0 +1,17 @@
+{
+  "id": "Mining station_-9,21,151",
+  "name": "Mining station",
+  "icon": "waypoint-normal.png",
+  "x": -9,
+  "y": 21,
+  "z": 151,
+  "r": 162,
+  "g": 167,
+  "b": 204,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

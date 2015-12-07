@@ -1,0 +1,17 @@
+{
+  "id": "Open deep canyon_-38,41,162",
+  "name": "Open deep canyon",
+  "icon": "waypoint-normal.png",
+  "x": -38,
+  "y": 41,
+  "z": 162,
+  "r": 20,
+  "g": 247,
+  "b": 25,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

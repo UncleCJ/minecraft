@@ -1,0 +1,17 @@
+{
+  "id": "Floating slime island_541,159,-605",
+  "name": "Floating slime island",
+  "icon": "waypoint-normal.png",
+  "x": 541,
+  "y": 159,
+  "z": -605,
+  "r": 189,
+  "g": 75,
+  "b": 225,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

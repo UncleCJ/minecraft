@@ -1,0 +1,17 @@
+{
+  "id": "Sheep valley_99,72,34",
+  "name": "Sheep valley",
+  "icon": "waypoint-normal.png",
+  "x": 99,
+  "y": 72,
+  "z": 34,
+  "r": 247,
+  "g": 248,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
